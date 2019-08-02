@@ -19,4 +19,4 @@ outstanding course development and teaching award in 2016.
 His research interests include design and automatic generation of high-performance 
 integrated circuits, LED lighting systems, silicon photonics, and bio-electronic systems.
 
-[back](./people)
+[back](./)

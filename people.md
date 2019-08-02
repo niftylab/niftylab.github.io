@@ -3,11 +3,11 @@ layout: default
 ---
 
 ## The Nifty Team
-
+[Jaeduk Han](#jaeduk_han)
 
 ### Principal Investigator
 
-####Jaeduk Han <a name="jaeduk_han"></a>
+#### Jaeduk Han <a name="jaeduk_han"></a>
 
 [Personal Information](./people/1_jaedukhan.html)
 
