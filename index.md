@@ -1,6 +1,12 @@
 ---
 layout: default
 ---
+[Research themes](./research.html)
+[People](./people.html)
+[Publications](./publications.html)
+
+
+
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
