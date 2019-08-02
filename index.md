@@ -10,6 +10,9 @@ layout: default
 
 [Chips](./chips.html)
 
-Welcome to the **Nifty Chips Research Laboratory (Nifty Lab)** at Hanyang University. The Nifty Lab is currently led by **Prof. Jaeduk Han**. He recently joined Hanyang University as an assistant professor.
+Welcome to the **Nifty Chips Laboratory (Nifty Lab)** at Hanyang University. 
+The Nifty Lab is currently led by **Prof. Jaeduk Han**. 
+He recently came back to South Korea and joined Hanyang University as an assistant professor.
 
-We are actively recruiting researchers (undegrad/graduate/post-docs) in various fields. Please contact Jaeduk Han by [jdhan@eecs.berkeley.edu], if interested.
+We are actively recruiting researchers in various levels (undegrad/graduate/post-doc). 
+Please contact [Jaeduk Han](jdhan@eecs.berkeley.edu) if interested.
