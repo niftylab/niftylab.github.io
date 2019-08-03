@@ -26,6 +26,6 @@ outstanding course development and teaching award in 2016.
 His research interests include design and automatic generation of high-performance 
 integrated circuits, LED lighting systems, silicon photonics, and bio-electronic systems.
 
-#### CV
+#### [CV](https://raw.githubusercontent.com/jdhan/jdhan.github.io/master/docs/CV_JDHAN_190731.pdf)
 
-[back](./people.html)
+[back](../people.html)
