@@ -4,6 +4,14 @@ layout: default
 
 ### Jaeduk Han
 ![Jaeduk Han](https://raw.githubusercontent.com/jdhan/jdhan.github.io/master/assets/img/people/1_jaeduk_han.png)
+
+#### Research Areas
+Design and Automatic Generation of Integrated Circuits
+
+#### Contact Information
+
+jdhan@eecs.berkeley.edu [To be updated in late August]
+
 #### Biography
 **Jaeduk Han** _(jdhan at eecs dot berkeley dot edu)_ is an Assistant Professor of Electronic Engineering at Hanyang University.
 He received the B.S., and M.S. degrees with honors from Seoul National University (SNU)
@@ -18,4 +26,6 @@ outstanding course development and teaching award in 2016.
 His research interests include design and automatic generation of high-performance 
 integrated circuits, LED lighting systems, silicon photonics, and bio-electronic systems.
 
-[back](./)
+#### CV
+
+[back](./people.html)

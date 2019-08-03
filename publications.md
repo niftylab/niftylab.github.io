@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Publications from the nifty folks
+## Nifty Publications
 
 ### International Journals
 
