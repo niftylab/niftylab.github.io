@@ -10,7 +10,7 @@ layout: default
 
 [Chips](./chips.html)
 
-[Softwares](./softwares.html)
+[Software](./software.html)
 
 [Lectures](./lectures.html)
 
