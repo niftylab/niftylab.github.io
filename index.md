@@ -10,6 +10,8 @@ layout: default
 
 [Chips](./chips.html)
 
+[Softwares](./softwares.html)
+
 [Lectures](./lectures.html)
 
 Welcome to the **Nifty Chips Laboratory** at Hanyang University. 
