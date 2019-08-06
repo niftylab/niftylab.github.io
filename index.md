@@ -8,7 +8,7 @@ layout: default
 
 [Publications](./publications.html)
 
-[Chips](./chips.html)
+[Hardware](./chips.html)
 
 [Software](./software.html)
 
