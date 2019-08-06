@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## The nifty chips
+## The Nifty Chips
 
 #### A Generated 7GS/s 8b Time-Interleaved SAR ADC Integrated to a Signal Analysis SoC
 ![chip5](https://raw.githubusercontent.com/jdhan/jdhan.github.io/master/assets/img/chips/5_adc.png)  
