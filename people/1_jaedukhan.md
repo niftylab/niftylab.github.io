@@ -3,14 +3,26 @@ layout: default
 ---
 
 ### Jaeduk Han
-![Jaeduk Han](https://raw.githubusercontent.com/jdhan/jdhan.github.io/master/assets/img/people/1_jaeduk_han.png)
-
-#### Research Areas
-Design and Automatic Generation of Integrated Circuits
+![Jaeduk Han](https://raw.githubusercontent.com/niftylab/niftylab.github.io/master/assets/img/people/1_jaeduk_han.png)
 
 #### Contact Information
-
 jdhan@eecs.berkeley.edu [To be updated in late August]
+
+#### Office Location
+Bldg 208 (Engineering Center Annex.) #705-1, Hanyang University
+
+#### Education
+Ph.D. in Electrical Engineering and Computer Sciences, University of California, Berkeley, 2012 – 2017 <br>
+M.S. in Electrical Engineering and Computer Sciences, Seoul National University, 2007 – 2009 <br>
+B.S. in Electrical Engineering, Seoul National University, 2003 – 2007
+
+#### Professional Experience
+SERDES Designer, Apple, 2017 – 2019 <br>
+Graduate Internships at Altera(now Intel FPGA), Intel, Xilinx, and Apple, 2012 – 2017 <br>
+Engineer, TLI, 2007 – 2009
+
+#### Research Interests
+Design and Automatic Generation of Integrated Circuits
 
 #### Biography
 **Jaeduk Han** _(jdhan at eecs dot berkeley dot edu)_ is an Assistant Professor of Electronic Engineering at Hanyang University.
