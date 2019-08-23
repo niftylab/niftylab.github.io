@@ -9,21 +9,19 @@ focusing.
 
 ### Extreme Chips
 ![extreme](https://raw.githubusercontent.com/niftylab/niftylab.github.io/master/assets/img/research/extreme.png)  
-There have been always strong demands on chips that do more jobs, communicate 
-faster, and consume less power. 
-However, it becomes much harder to improve the performance of chips due to 
-the diminishing return of process scaling.
-To keep improving the performance of chips in the end-of-Moore's-law era, we 
-are working on implementing innovative circuit and system design techniques 
+While the demands on high performance chips are getting higher, improving the 
+performance of chips becomes much harder than before due to the diminishing 
+returns of process scaling.
+Therefore, we are working on innovative circuit and system design techniques 
 that push the performance of chips beyond the technology limit.
 
 ### Auto Chips
 ![auto](https://raw.githubusercontent.com/niftylab/niftylab.github.io/master/assets/img/research/auto.png)  
-As the advanced CMOS technology nodes use new device structures (such as FinFET, 
-FDSOI) and multiple patterning, it becomes much harder and expensive to 
-design a chip in advanced technologies. In order to reduce the design cost, 
-we are working on automatic chip generators that produce cool chips for various 
-design targets and applications.
+As the advanced CMOS technology nodes adopt sophisticated manufacturing 
+techniques (such as FinFET and multiple patterning), it becomes much harder and 
+expensive to build chips in advanced technologies. In order to reduce the 
+chip design cost, we are working on automatic chip generators that produce 
+complicated chips for various design targets and applications.
 
 ### Smart Chips
 ![smart](https://raw.githubusercontent.com/niftylab/niftylab.github.io/master/assets/img/research/smart.png)  
