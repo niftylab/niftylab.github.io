@@ -20,7 +20,8 @@ Ph.D. in Electrical Engineering and Computer Sciences, University of California,
 M.S. in Electrical Engineering and Computer Sciences, Seoul National University, 2007 – 2009 <br>
 B.S. in Electrical Engineering, Seoul National University, 2003 – 2007
 
-#### Professional Experience
+#### Employment History
+Assistant Professor, Hanyang University, 2019 – present<br>
 SERDES Designer, Apple, 2017 – 2019 <br>
 Graduate Internships at Altera(now Intel FPGA), Intel, Xilinx, and Apple, 2012 – 2017 <br>
 Engineer, TLI, 2007 – 2009
