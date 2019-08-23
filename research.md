@@ -27,9 +27,8 @@ design targets and applications.
 
 ### Smart Chips
 ![smart](https://raw.githubusercontent.com/niftylab/niftylab.github.io/master/assets/img/research/smart.png)  
-More and more intelligent functions are being integrated to chips to implement 
-smart systems for data-driven applications, such as AI, autonomous vehicles, 
-AR/VR, and cognitive/adaptive systems. We are working on producing chips that 
-accelerate various smart functions in efficient ways.
+More and more intelligent functions are being integrated to chips for smart 
+applications, such as AI, autonomous vehicles, AR/VR. We are working on 
+implementing smart chips that accelerate cool functions.
 
 [back](./)
