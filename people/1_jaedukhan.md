@@ -10,7 +10,7 @@ __[GoogleScholar](https://scholar.google.com/citations?user=l3DrF84AAAAJ&hl=en)_
 __[LinkedIn](https://www.linkedin.com/in/jaeduk-han-98b20930)__
 
 #### Contact Information
-jdhan@eecs.berkeley.edu [To be updated in late August]
+jdhan at hanyang dot ac dot kr
 
 #### Office Location
 Bldg 208 (Engineering Center Annex.) #705-1, Hanyang University
