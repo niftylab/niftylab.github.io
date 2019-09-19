@@ -30,7 +30,7 @@ Engineer, TLI, 2007 – 2009
 Design and Automatic Generation of Integrated Circuits
 
 #### Biography
-**Jaeduk Han** _(jdhan at eecs dot berkeley dot edu)_ is an Assistant Professor of Electronic Engineering at Hanyang University.
+**Jaeduk Han** _(jdhan at hanyang dot ac dot kr)_ is an Assistant Professor of Electronic Engineering at Hanyang University.
 He received the B.S., and M.S. degrees with honors from Seoul National University (SNU)
 in 2007 and 2009, respectively, and his Ph.d degree from University of California, 
 Berkeley in 2017. From 2009 to 2017, he has held various full-time and internship positions at TLI, 
