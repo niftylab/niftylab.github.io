@@ -5,7 +5,7 @@ layout: default
 ### Jaeduk Han
 ![Jaeduk Han](https://raw.githubusercontent.com/niftylab/niftylab.github.io/master/assets/img/people/1_jaeduk_han.png)
 
-__[CV](https://raw.githubusercontent.com/jdhan/jdhan.github.io/master/docs/CV_JDHAN_190731.pdf)__
+__[CV/Resume](https://raw.githubusercontent.com/jdhan/jdhan.github.io/master/docs/CV_JDHAN_191122.pdf)__
 __[GoogleScholar](https://scholar.google.com/citations?user=l3DrF84AAAAJ&hl=en)__
 __[LinkedIn](https://www.linkedin.com/in/jaeduk-han-98b20930)__
 
