@@ -9,6 +9,16 @@ layout: default
 
 
 ### Graduate Student Researchers
-Yes, we don't have any researchers now. Please contact the PI if interested.
+Dongjae Ku
+
+Dongki Lee
+
+Taewoong Noh
+
+Seungho Ju
+
+Sungwook Hong
+
+Please contact the PI if interested to join.
 
 [back](./)
