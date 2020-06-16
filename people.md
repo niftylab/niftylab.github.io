@@ -17,7 +17,7 @@ Taewoong Noh
 
 Seungho Ju
 
-Sungwook Hong
+Seungwook Hong
 
 Please contact the PI if interested to join.
 
