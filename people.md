@@ -27,7 +27,7 @@ layout: default
 
 성개륜()
 
-김희준()
+김희준(Heejun Kim)
 
 김동휘()
 
