@@ -9,15 +9,31 @@ layout: default
 
 
 ### Graduate Student Researchers
-Dongjae Ku
+구동재(Dongjae Ku)
 
-Dongki Lee
+이동기(Dongki Lee)
 
-Taewoong Noh
+노태웅(Taewoong Noh)
 
-Seungho Ju
+주승호(Seungho Ju)
 
-Seungwook Hong
+홍승욱(Seungwook Hong)
+
+이동준(Dongjun Lee)
+
+임현우(Hyunwoo Lim)
+
+양정휴(Jeonghyu Yang)
+
+성개륜()
+
+김희준()
+
+김동휘()
+
+김재호(Jaeho Kim)
+
+이무석(Moosuk Lee)
 
 Please contact the PI if interested to join.
 
