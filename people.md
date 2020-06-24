@@ -5,7 +5,7 @@ layout: default
 ## The Nifty Team
 
 ### Principal Investigator
-[Jaeduk Han](./people/1_jaedukhan.html)
+[한재덕(Jaeduk Han)](./people/1_jaedukhan.html)
 
 
 ### Graduate Student Researchers
