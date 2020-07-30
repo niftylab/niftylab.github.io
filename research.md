@@ -15,6 +15,8 @@ returns of process scaling.
 Therefore, we are working on innovative circuit and system design techniques 
 that push the performance of chips beyond the technology limit.
 
+Related Projects:
+
 1. 인공지능 컴퓨팅 플랫폼의 칩간 초고속(100+Gb/s) Multi-Rate 데이터 전송 지원 가능 저전력 직렬인터페이스 기술 개발
 1. 250Gb/s/lane급 초고속 인터커넥트 설계 기술
 
