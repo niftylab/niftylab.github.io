@@ -15,6 +15,9 @@ returns of process scaling.
 Therefore, we are working on innovative circuit and system design techniques 
 that push the performance of chips beyond the technology limit.
 
+1. 인공지능 컴퓨팅 플랫폼의 칩간 초고속(100+Gb/s) Multi-Rate 데이터 전송 지원 가능 저전력 직렬인터페이스 기술 개발
+1. 250Gb/s/lane급 초고속 인터커넥트 설계 기술
+
 ### Auto Chips
 ![auto](https://raw.githubusercontent.com/niftylab/niftylab.github.io/master/assets/img/research/auto.png)  
 As the advanced CMOS technology nodes adopt sophisticated manufacturing 
@@ -22,6 +25,12 @@ techniques (such as FinFET and multiple patterning), it becomes much harder and
 expensive to build chips in advanced technologies. In order to reduce the 
 chip design cost, we are working on automatic chip generators that produce 
 complicated chips for various design targets and applications.
+
+Related Projects:
+
+1. 인공지능 컴퓨팅 플랫폼의 칩간 초고속(100+Gb/s) Multi-Rate 데이터 전송 지원 가능 저전력 직렬인터페이스 기술 개발
+1. 메모리 반도체 설계에 대한 기술 자문
+
 <!--
 ### Smart Chips
 ![smart](https://raw.githubusercontent.com/niftylab/niftylab.github.io/master/assets/img/research/smart.png)  
