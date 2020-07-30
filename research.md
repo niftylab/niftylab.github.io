@@ -17,8 +17,8 @@ that push the performance of chips beyond the technology limit.
 
 Related Projects:
 
-1. 인공지능 컴퓨팅 플랫폼의 칩간 초고속(100+Gb/s) Multi-Rate 데이터 전송 지원 가능 저전력 직렬인터페이스 기술 개발
-1. 250Gb/s/lane급 초고속 인터커넥트 설계 기술
+1. (기관책임자) 인공지능 컴퓨팅 플랫폼의 칩간 초고속(100+Gb/s) Multi-Rate 데이터 전송 지원 가능 저전력 직렬인터페이스 기술 개발
+1. (총괄책임자) 250Gb/s/lane급 초고속 인터커넥트 설계 기술 [Link](http://www.samsungstf.org/ssrfPr/researcher/viewResearcher.do?idx=426&pageIndex=&searchCondition=all&searchKeyword=&searchResearchProgram=ICT&searchResearchDepth1=&searchResearchDepth2=&searchResearchBelong=&searchResearchSelectYear=&searchResearchState=)
 
 ### Auto Chips
 ![auto](https://raw.githubusercontent.com/niftylab/niftylab.github.io/master/assets/img/research/auto.png)  
@@ -30,8 +30,8 @@ complicated chips for various design targets and applications.
 
 Related Projects:
 
-1. 인공지능 컴퓨팅 플랫폼의 칩간 초고속(100+Gb/s) Multi-Rate 데이터 전송 지원 가능 저전력 직렬인터페이스 기술 개발
-1. 메모리 반도체 설계에 대한 기술 자문
+1. (기관책임자) 인공지능 컴퓨팅 플랫폼의 칩간 초고속(100+Gb/s) Multi-Rate 데이터 전송 지원 가능 저전력 직렬인터페이스 기술 개발
+1. (총괄책임자) 메모리 반도체 설계에 대한 기술 자문
 
 <!--
 ### Smart Chips
