@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Research Themes](./research.html)
+[Research](./research.html)
 
 [People](./people.html)
 
