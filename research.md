@@ -22,11 +22,11 @@ techniques (such as FinFET and multiple patterning), it becomes much harder and
 expensive to build chips in advanced technologies. In order to reduce the 
 chip design cost, we are working on automatic chip generators that produce 
 complicated chips for various design targets and applications.
-
+<!--
 ### Smart Chips
 ![smart](https://raw.githubusercontent.com/niftylab/niftylab.github.io/master/assets/img/research/smart.png)  
 More and more intelligent functions are being integrated to chips for smart 
 applications, such as AI, autonomous vehicles, AR/VR. We are working on 
 implementing smart chips that accelerate cool functions.
-
+-->
 [back](./)
