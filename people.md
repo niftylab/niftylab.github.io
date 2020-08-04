@@ -15,8 +15,6 @@ layout: default
 
 노태웅(Taewoong Noh)
 
-주승호(Seungho Ju)
-
 홍승욱(Seungwook Hong)
 
 이동준(Dongjun Lee)
