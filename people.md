@@ -27,7 +27,7 @@ layout: default
 
 김희준(Heejun Kim)
 
-김동휘()
+김동휘(Dongwhe Kim)
 
 김재호(Jaeho Kim)
 
