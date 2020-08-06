@@ -23,7 +23,7 @@ layout: default
 
 양정휴(Jeonghyu Yang)
 
-성개륜()
+성개륜(GaeRyun Sung)
 
 김희준(Heejun Kim)
 
