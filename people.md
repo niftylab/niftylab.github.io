@@ -19,7 +19,7 @@ layout: default
 
 이동준(Dongjun Lee)
 
-임현우(Hyunwoo Lim)
+임현우(Hyunwoo Im)
 
 양정휴(Jeonghyu Yang)
 
