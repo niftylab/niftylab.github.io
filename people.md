@@ -9,7 +9,7 @@ layout: default
 
 
 ### Graduate Student Researchers
-구동재(Dongjae Ku)
+구동재(Dongjae Koo)
 
 이동기(Dongki Lee)
 
