@@ -25,7 +25,7 @@ layout: default
 
 성개륜(GaeRyun Sung)
 
-김희준(Heejun Kim)
+김희준(Heejoon Kim)
 
 김동휘(Dongwhe Kim)
 
