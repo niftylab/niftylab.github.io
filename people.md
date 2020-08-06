@@ -13,7 +13,7 @@ layout: default
 
 이동기(Dongki Lee)
 
-노태웅(Taewoong Noh)
+노태웅(Taeung No)
 
 홍승욱(Seungwook Hong)
 
