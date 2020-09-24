@@ -4,6 +4,12 @@ layout: default
 
 ## Nifty Lectures
 
+
+#### Fall 2020
+
+ELE3081 VLSI Engineering (English)   
+NSE8001 Digital Circuit Design (Graduate)
+
 #### Spring 2020
 
 ITE4003 SOC Design (English)   
