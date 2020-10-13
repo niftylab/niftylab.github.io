@@ -21,7 +21,6 @@ M.S. in Electrical Engineering and Computer Sciences, Seoul National University,
 B.S. in Electrical Engineering, Seoul National University, 2003 – 2007
 
 #### Employment History (Full-time, Part-time, Internship, Advisory)
-VPP Professor, SK Hynix, 2020 – present<br>
 Assistant Professor, Hanyang University, 2019 – present<br>
 SERDES Designer, Apple, 2017 – 2019 <br>
 Graduate Internships at Altera(now Intel FPGA), Intel, Xilinx, and Apple, 2012 – 2017 <br>
