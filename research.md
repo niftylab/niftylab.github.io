@@ -19,6 +19,7 @@ Related Projects:
 
 1. (참여기관책임자) 인공지능 컴퓨팅 플랫폼의 칩간 초고속(100+Gb/s) Multi-Rate 데이터 전송 지원 가능 저전력 직렬인터페이스 기술 개발
 1. (총괄책임자) 250Gb/s/lane급 초고속 인터커넥트 설계 기술 [Link](http://www.samsungstf.org/ssrfPr/researcher/viewResearcher.do?idx=426&pageIndex=&searchCondition=all&searchKeyword=&searchResearchProgram=ICT&searchResearchDepth1=&searchResearchDepth2=&searchResearchBelong=&searchResearchSelectYear=&searchResearchState=)
+1. (총괄책임자) 메모리 I/F용 Single-Ended PAM4 Equalizer 핵심 기술 개발
 1. (참여연구자) 차세대 상변화 메모리 센싱 회로
 
 ### Auto Chips
@@ -34,6 +35,7 @@ Related Projects:
 1. (참여기관책임자) 인공지능 컴퓨팅 플랫폼의 칩간 초고속(100+Gb/s) Multi-Rate 데이터 전송 지원 가능 저전력 직렬인터페이스 기술 개발
 1. (총괄책임자) 메모리 반도체 설계에 대한 기술 자문
 1. (총괄책임자) 메모리 반도체 설계자동화에 대한 기술 자문
+1. (참여연구자) 산학 밀착형 IoT 반도체 시스템 융합 인력양성 센터
 
 <!--
 ### Smart Chips
