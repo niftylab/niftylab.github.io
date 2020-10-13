@@ -9,6 +9,14 @@ layout: default
 
 
 ### Graduate Student Researchers
+이은상(Eunsang Lee)
+
+서형민(Hyeongmin Seo)
+
+김현태(Hyuntae Kim)
+
+한지윤(Jiyun Han)
+
 구동재(Dongjae Koo)
 
 이동기(Dongki Lee)
@@ -16,6 +24,16 @@ layout: default
 노태웅(Taeung No)
 
 홍승욱(Seungwook Hong)
+
+이상훈(Sanghun Lee)
+
+양동주(Dongju Yang)
+
+김성해(Sunghae Kim)
+
+조윤성(Yunseong Jo)
+
+표창현(Changhyun Pyo)
 
 이동준(Dongjun Lee)
 
@@ -32,6 +50,7 @@ layout: default
 김재호(Jaeho Kim)
 
 이무석(Moosuk Lee)
+
 
 Please contact the PI if interested to join.
 
