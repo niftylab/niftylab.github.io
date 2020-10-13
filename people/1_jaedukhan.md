@@ -13,7 +13,7 @@ __[LinkedIn](https://www.linkedin.com/in/jaeduk-han-98b20930)__
 jdhan at hanyang dot ac dot kr
 
 #### Office Location
-Bldg 207 (Engineering Center Main Bldg) #312-1, Hanyang University
+Bldg. 206 (Engineering Center - Main Bldg.) #312-1, Hanyang University
 
 #### Education
 Ph.D. in Electrical Engineering and Computer Sciences, University of California, Berkeley, 2012 – 2017 <br>
