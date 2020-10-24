@@ -51,6 +51,13 @@ layout: default
 
 이무석(Moosuk Lee)
 
+송은지(Eunji Song)
+
+신태호(Taeho Shin)
+
+심태양(Taeyang Sim)
+
+신욱진(Wookjin Shin)
 
 Please contact the PI if interested to join.
 
