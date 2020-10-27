@@ -51,6 +51,8 @@ layout: default
 
 이무석(Moosuk Lee)
 
+이상완(Sangwan Lee)
+
 송은지(Eunji Song)
 
 신태호(Taeho Shin)
