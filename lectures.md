@@ -8,7 +8,7 @@ layout: default
 #### Fall 2020
 
 ELE3081 VLSI Engineering (English)   
-NSE8001 Digital Circuit Design (Graduate) 
+NSE8001 Digital Circuit Design (Graduate)   
 ENE8079 Analog Integrated Circuits (Graduate)
 
 #### Spring 2020
