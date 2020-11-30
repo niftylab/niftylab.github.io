@@ -20,6 +20,7 @@ Related Projects:
 1. (총괄책임자) 250Gb/s/lane급 초고속 인터커넥트 설계 기술 [Link](http://www.samsungstf.org/ssrfPr/researcher/viewResearcher.do?idx=426&pageIndex=&searchCondition=all&searchKeyword=&searchResearchProgram=ICT&searchResearchDepth1=&searchResearchDepth2=&searchResearchBelong=&searchResearchSelectYear=&searchResearchState=)
 1. (총괄책임자) 메모리 I/F용 Single-Ended PAM4 Equalizer 핵심 기술 개발
 1. (총괄책임자) PCIe Gen-5/6 PHY IP를 위한 종단 회로부 핵심 기술 개발
+1. (참여연구자) Future Interconnect Technology
 1. (참여연구자) 차세대 상변화 메모리 센싱 회로
 
 ### Auto Chips
