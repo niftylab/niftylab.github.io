@@ -19,7 +19,7 @@ layout: default
 
 구동재(Dongjae Koo)
 
-이동기(Dongki Lee)
+이동기(Dongki Lee, 산학연)
 
 노태웅(Taeung No)
 
@@ -47,9 +47,9 @@ layout: default
 
 김동휘(Dongwhe Kim)
 
-김재호(Jaeho Kim)
+김재호(Jaeho Kim, 산학연)
 
-이무석(Moosuk Lee)
+이무석(Moosuk Lee, 산학연)
 
 이상완(Sangwan Lee)
 
