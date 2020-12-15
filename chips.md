@@ -4,6 +4,11 @@ layout: default
 
 ## Nifty Chips
 
+#### A PAM4 Driver Prototype
+![chip6](https://raw.githubusercontent.com/niftylab/niftylab.github.io/master/assets/img/chips/6_tx.png)  
+Process: 40nm CMOS 
+Tapeout Date: Sep 2020
+
 #### A Generated 7GS/s 8b Time-Interleaved SAR ADC Integrated to a Signal Analysis SoC
 ![chip5](https://raw.githubusercontent.com/niftylab/niftylab.github.io/master/assets/img/chips/5_adc.png)  
 Process: 16nm CMOS FinFET  
