@@ -5,7 +5,7 @@ layout: default
 ## Nifty Chips
 
 #### A PAM4 Driver Prototype
-![chip6](https://raw.githubusercontent.com/niftylab/niftylab.github.io/master/assets/img/chips/6_tx.png)  
+![chip6](https://raw.githubusercontent.com/niftylab/niftylab.github.io/master/assets/img/chips/6_tx.jpg)  
 Process: 40nm CMOS 
 Tapeout Date: Sep 2020
 
