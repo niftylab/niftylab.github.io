@@ -6,7 +6,7 @@ layout: default
 
 #### A PAM4 Driver Prototype
 ![chip6](https://raw.githubusercontent.com/niftylab/niftylab.github.io/master/assets/img/chips/6_tx.jpg)  
-Process: 40nm CMOS 
+Process: 40nm CMOS  
 Tapeout Date: Sep 2020
 
 #### A Generated 7GS/s 8b Time-Interleaved SAR ADC Integrated to a Signal Analysis SoC
