@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Nifty Publications
+## Nifty Papers
 
 ### Peer-reviewed Journal Articles
 8. [JSSC’19] Stevo Bailey, Paul Rigge, Jaeduk Han, Richard Lin, Eric Chang, Howard Mao, Zhongkai Wang, Chick Markley, Adam Izraelevitz, Angie Wang, Nathan Narevsky, Woorham Bae, Steve Shauck, Sergio Montano, Justin Norsworthy, Munir Razzaque, Wen Hau Ma, Akalu Lentiro, Matthew Doerflein, Darin Heckendorn, Jim McGrath, Franco DeSeta, Ronen Shoham, Mike Stellfox, Mark Snowden, Joseph Cole, Dan Fuhrman, Brian Richards, Jonathan Bachrach, Elad Alon, and Borivoje Nikolić, "A Mixed-Signal RISC-V Signal Analysis SoC Generator with a 16nm FinFET Instance," IEEE J. Solid-State Circuits, Special Issue on the 2018 IEEE Asian Solid-State Circuits Conference (ASSCC 2018), vol. 54, no. 10, pp. 2786-2801, Jul. 2019.
