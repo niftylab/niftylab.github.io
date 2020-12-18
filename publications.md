@@ -43,8 +43,9 @@ layout: default
 
 
 ### Patents 
-1. J. Han, “A High-Voltage Current-mode logic circuit”, filed, KR10-2020-0068655.
-1. J. Han, “Current-mode logic circuits”, filed, KR10-2020-0062512.
+1. J. Han, Taeung No, "전류 미러 회로", filed, KR10-2020-0173740.
+1. J. Han, “전류 모드 로직 회로”, filed, KR10-2020-0068655.
+1. J. Han, “전류 모드 로직 회로”, filed, KR10-2020-0062512 / PCT-KR-2020-017832.
 1. An undisclosed patent application.
 1. An undisclosed patent application.
 1. J. Han, J. Im, “Low-Power Decision Threshold Control for High-Speed Signaling”, US10193540.
