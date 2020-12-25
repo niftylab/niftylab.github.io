@@ -4,8 +4,7 @@ layout: default
 
 ## Nifty Works 
 
-We desire to make great chips in great ways. Here are three main topics we are 
-focusing.
+We desire to make great chips in great ways. Check the research topics we are currently focusing in the following paragraphs.
 
 ### Extreme Chips
 ![extreme](https://raw.githubusercontent.com/niftylab/niftylab.github.io/master/assets/img/research/extreme.png)  
