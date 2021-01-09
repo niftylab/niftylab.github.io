@@ -61,6 +61,4 @@ layout: default
 
 신욱진(Wookjin Shin)
 
-Please contact the PI if interested to join.
-
 [back](./)
