@@ -15,8 +15,6 @@ layout: default
 
 김현태(Hyuntae Kim)
 
-한지윤(Jiyun Han)
-
 구동재(Dongjae Koo)
 
 이동기(Dongki Lee, 산학연)
@@ -60,5 +58,11 @@ layout: default
 심태양(Taeyang Sim)
 
 신욱진(Wookjin Shin)
+
+
+### Alumni
+
+한지윤(Jiyun Han)
+
 
 [back](./)
