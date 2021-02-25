@@ -43,6 +43,10 @@ layout: default
 
 
 ### Patents 
+1. J. Han, J. Yang, "고속 멀티플렉서", filed, KR10-2021-0022302.
+1. J. Han, E. Song, "고차 PAM 구동 회로", filed, KR10-2021-0018961.
+1. Y. Song, J. Han, S. Kim, "GGNMOS 기반의 방전 회로 및 이를 포함하는 상변화 메모리 소자", filed, KR10-2021-0009876.
+1. Y. Song, J. Han, S. Kim, "피드포워드 패스 기반의 방전 회로 및 이를 포함하는 상변화 메모리 소자", filed, KR10-2021-0009875.
 1. J. Han, Taeung No, "전류 미러 회로", filed, KR10-2020-0173740.
 1. J. Han, “전류 모드 로직 회로”, filed, KR10-2020-0068655.
 1. J. Han, “전류 모드 로직 회로”, filed, KR10-2020-0062512 / PCT-KR-2020-017832.
