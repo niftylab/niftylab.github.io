@@ -5,6 +5,13 @@ layout: default
 ## Nifty Lectures
 
 
+#### Spring 2021
+
+ITE4003 SOC Design   
+ECE808 SOC Structure (Graduate, English, PBL)
+ENE905 Digital Circuit Design (Graduate)   
+IoT Integrated Circuit Design (Graduate, Team teaching @ SKKU)
+
 #### Fall 2020
 
 ELE3081 VLSI Engineering (English)   
