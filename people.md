@@ -29,7 +29,7 @@ layout: default
 
 김성해(Sunghae Kim)
 
-조윤성(Yunseong Jo)
+조윤성(Yunseong Jo)  jhj101777@hanyang.ac.kr
 
 표창현(Changhyun Pyo)
 
