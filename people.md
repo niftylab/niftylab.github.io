@@ -9,11 +9,11 @@ layout: default
 
 
 ### Graduate Student Researchers
-이은상(Eunsang Lee)
+이은상(Eunsang Lee)  석박통합과정 11기 leees904@hanyang.ac.kr
 
-서형민(Hyeongmin Seo)
+서형민(Hyeongmin Seo) 석박통합과정 5기
 
-김현태(Hyuntae Kim)
+김현태(Hyuntae Kim) 석박통합과정 4기
 
 구동재(Dongjae Koo)
 
@@ -23,15 +23,15 @@ layout: default
 
 홍승욱(Seungwook Hong)
 
-이상훈(Sanghun Lee)
+이상훈(Sanghun Lee) 석박통합과정 3기 lurker4@hanyang.ac.kr
 
-양동주(Dongju Yang)
+양동주(Dongju Yang) 석사과정 3기
 
-김성해(Sunghae Kim)
+김성해(Sunghae Kim) 석사과정 3기
 
 조윤성(Yunseong Jo)  jhj101777@hanyang.ac.kr
 
-표창현(Changhyun Pyo)
+표창현(Changhyun Pyo) 석사과정 3기
 
 이동준(Dongjun Lee)
 
@@ -57,7 +57,7 @@ layout: default
 
 심태양(Taeyang Sim)
 
-신욱진(Wookjin Shin)
+신욱진(Wookjin Shin) 석사과정 1기
 
 
 ### Alumni
