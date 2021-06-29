@@ -13,7 +13,7 @@ layout: default
 
 서형민(Hyeongmin Seo) 석박통합과정 5기
 
-김현태(Hyuntae Kim) 석박통합과정 4기
+김현태(Hyuntae Kim) 석박통합과정 4기 hyuntae@hanyang.ac.kr
 
 구동재(Dongjae Koo)
 
