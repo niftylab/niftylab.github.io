@@ -47,6 +47,9 @@ layout: default
 1. [IEEK’08] J. D. Han, B. J. Yoo, D. H. Lim, K. S. Park, D. K. Jeong, “A 5-Gb/s digitalized DFE receiver for high-speed communication through backplane channels", in IEEK Fall Conference, Nov. 2008, pp.457-457.
 
 ### Patents 
+1. Y. Yoon, J. Han, "집적 회로의 레이아웃 생성 방법".
+1. J. Han, G. Sung, "고속 동작 클록 및 데이터 복원 회로".
+1. J. Han, K. Park, E. Song, "캐스코드 전류모드 로직회로의 내부 전압을 안정화 시키는 방법".
 1. J. Han, J. Yang, "고속 멀티플렉서", filed, KR10-2021-0022302.
 1. J. Han, E. Song, "고차 PAM 구동 회로", filed, KR10-2021-0018961.
 1. Y. Song, J. Han, S. Kim, "GGNMOS 기반의 방전 회로 및 이를 포함하는 상변화 메모리 소자", filed, KR10-2021-0009876.
