@@ -35,7 +35,7 @@ layout: default
 1. [ASSCC’10] J. D. Han, W-Y. Shin, W-S. Choi, J-H. Chun, S. Kim, D-K. Jeong, "A 5-Gb/s digitally controlled 3-tap DFE receiver for serial communications," in IEEE Asian Solid-State Circuits Conf., Nov. 2010, pp.1-4.
 
 ### Domestic Journal/Conference Papers
-1.[IEEK’21] D. Koo and  J. Han, “Design of A Quarter-rate Serializer for High-speed Transmitters ,” in IEEK Summer Conference, Jul. 2021.
+1. [IEEK’21] D. Koo and  J. Han, “Design of A Quarter-rate Serializer for High-speed Transmitters ,” in IEEK Summer Conference, Jul. 2021.
 1. [IEEK’21, Outstanding Paper Award] S. Hong, S. Bang, S.Beak, J. Han, “A reliable and bi-directional communication system between different voltage domains for automotive semiconductor systems,” in IEEK Summer Conference, Jul. 2020.
 1. [IEEK’21] D. Lee, J. Han, “Analog Adaptive Continuous Time Linear Equalizer for changes in the channel environment,” in IEEK Summer Conference, Jul. 2021.
 1. [IEEK’21] M. Lee, J. Han, “Digital Gamma Controller for Gamma correction,” in IEEK Summer Conference, Jul. 2021.
