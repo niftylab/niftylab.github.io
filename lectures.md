@@ -4,6 +4,11 @@ layout: default
 
 ## Nifty Lectures
 
+#### Fall 2021
+
+ELE3081 VLSI Engineering 
+ENE4039 Analog Circuit Design (English)
+ECE8084 High-Performance ASIC Circuit Design (Graduate, PBL)
 
 #### Spring 2021
 
