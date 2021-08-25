@@ -35,41 +35,41 @@ layout: default
 1. **[ASSCC’10]** J. D. Han, W-Y. Shin, W-S. Choi, J-H. Chun, S. Kim, D-K. Jeong, "**A 5-Gb/s digitally controlled 3-tap DFE receiver for serial communications**," in IEEE Asian Solid-State Circuits Conf., Nov. 2010, pp.1-4.
 
 ### Domestic Journal/Conference Papers
-1. [IEEK’21] D. Koo and  J. Han, “Design of A Quarter-rate Serializer for High-speed Transmitters ,” in IEEK Summer Conference, Jul. 2021.
-1. [IEEK’21, Outstanding Paper Award] S. Hong, S. Bang, S.Beak, J. Han, “A reliable and bi-directional communication system between different voltage domains for automotive semiconductor systems,” in IEEK Summer Conference, Jul. 2020.
-1. [IEEK’21] D. Lee, J. Han, “Analog Adaptive Continuous Time Linear Equalizer for changes in the channel environment,” in IEEK Summer Conference, Jul. 2021.
-1. [IEEK’21] M. Lee, J. Han, “Digital Gamma Controller for Gamma correction,” in IEEK Summer Conference, Jul. 2021.
-1. [IEEK’21] C. Pyo and J. Han, “Split Capacitor Partial Monotonic Switching scheme for SAR ADC,” in IEEK Summer Conference, Jul. 2021.
-1. [KCS’21] Hyungmin Seo, Seunghyun Oh, Kyungmin Kim, Jiyun Han, Changsik Yoo, Jaeduk Han, “A 800MHz to 1.066GHz All Digital Delay Locked Loop With Offset Calibration Phase Detector for LPDDR3 and DDR3,” in IEEK 28th Korean Conference on Semiconductors, Jan. 2021.
-1. [IEEK’20] Dongwhee Kim, Gijin Park, Jaeduk Han, “A Low-Area Pre-Amplifier Structure with a Small Common-Mode Gain,” in IEEK Fall Conference, Nov. 2020.
-1. [IEEK’20] Dongju Yang, Jaeduk Han, “Analog Assisted Digital LDO technique for High Power Supply Rejection", in IEEK Fall Conference, Nov. 2020.
-1. [KCS’11] J. D. Han, B. T. Jang, J. S. Yoon, S. H. Ahn, B. H. Lee, J. H. Lee, S. W. Hong, “A 2.7-Gb/s digitally controlled decision feedback equalizer for display interfaces”, in IEEK 18th Korean Conference on Semiconductors, Feb. 2011.
-1. [IEEK’08] J. D. Han, B. J. Yoo, D. H. Lim, K. S. Park, D. K. Jeong, “A 5-Gb/s digitalized DFE receiver for high-speed communication through backplane channels", in IEEK Fall Conference, Nov. 2008, pp.457-457.
+1. **[IEEK’21]** D. Koo and  J. Han, “**Design of A Quarter-rate Serializer for High-speed Transmitters**,” in IEEK Summer Conference, Jul. 2021.
+1. **[IEEK’21, Outstanding Paper Award]** S. Hong, S. Bang, S.Beak, J. Han, “**A reliable and bi-directional communication system between different voltage domains for automotive semiconductor systems**,” in IEEK Summer Conference, Jul. 2020.
+1. **[IEEK’21]** D. Lee, J. Han, “**Analog Adaptive Continuous Time Linear Equalizer for changes in the channel environment**,” in IEEK Summer Conference, Jul. 2021.
+1. **[IEEK’21]** M. Lee, J. Han, “**Digital Gamma Controller for Gamma correction**,” in IEEK Summer Conference, Jul. 2021.
+1. **[IEEK’21]** C. Pyo and J. Han, “**Split Capacitor Partial Monotonic Switching scheme for SAR ADC**,” in IEEK Summer Conference, Jul. 2021.
+1. **[KCS’21]** Hyungmin Seo, Seunghyun Oh, Kyungmin Kim, Jiyun Han, Changsik Yoo, Jaeduk Han, “**A 800MHz to 1.066GHz All Digital Delay Locked Loop With Offset Calibration Phase Detector for LPDDR3 and DDR3**,” in IEEK 28th Korean Conference on Semiconductors, Jan. 2021.
+1. **[IEEK’20]** Dongwhee Kim, Gijin Park, Jaeduk Han, “**A Low-Area Pre-Amplifier Structure with a Small Common-Mode Gain**,” in IEEK Fall Conference, Nov. 2020.
+1. **[IEEK’20]** Dongju Yang, Jaeduk Han, “**Analog Assisted Digital LDO technique for High Power Supply Rejection**", in IEEK Fall Conference, Nov. 2020.
+1. **[KCS’11]** J. D. Han, B. T. Jang, J. S. Yoon, S. H. Ahn, B. H. Lee, J. H. Lee, S. W. Hong, “**A 2.7-Gb/s digitally controlled decision feedback equalizer for display interfaces**”, in IEEK 18th Korean Conference on Semiconductors, Feb. 2011.
+1. **[IEEK’08]** J. D. Han, B. J. Yoo, D. H. Lim, K. S. Park, D. K. Jeong, “**A 5-Gb/s digitalized DFE receiver for high-speed communication through backplane channels**", in IEEK Fall Conference, Nov. 2008, pp.457-457.
 
 ### Patents 
-1. Y. Yoon, J. Han, "집적 회로의 레이아웃 생성 방법".
-1. J. Han, G. Sung, "고속 동작 클록 및 데이터 복원 회로".
-1. J. Han, K. Park, E. Song, "캐스코드 전류모드 로직회로의 내부 전압을 안정화 시키는 방법".
-1. J. Han, J. Yang, "고속 멀티플렉서", filed, KR10-2021-0022302.
-1. J. Han, E. Song, "고차 PAM 구동 회로", filed, KR10-2021-0018961.
-1. Y. Song, J. Han, S. Kim, "GGNMOS 기반의 방전 회로 및 이를 포함하는 상변화 메모리 소자", filed, KR10-2021-0009876.
-1. Y. Song, J. Han, S. Kim, "피드포워드 패스 기반의 방전 회로 및 이를 포함하는 상변화 메모리 소자", filed, KR10-2021-0009875.
-1. J. Han, Taeung No, "전류 미러 회로", filed, KR10-2020-0173740.
-1. J. Han, “전류 모드 로직 회로”, filed, KR10-2020-0068655.
-1. J. Han, “전류 모드 로직 회로”, filed, KR10-2020-0062512 / PCT-KR-2020-017832.
-1. An undisclosed patent application.
-1. An undisclosed patent application.
-1. J. Han, J. Im, “Low-Power Decision Threshold Control for High-Speed Signaling”, US10193540.
-1. J. Seo, H. Kim, H. Ju, H. Kim, J. D. Han, D. K. Jeong, “LED Lighting System and AC-DC Converting Circuit used thereto”, KR101340297.
-1. J. D. Han, H. C. Kim, D. K. Jeong, “Voltage supporting type LED lighting system”, KR101371247.
-1. J. D. Han, B. T. Jang, “LED Lighting System for decreasing the variation in current to that in temperature”, KR101340295.
-1. J. D. Han, K. R. Ahn, “Voltage detection LED lighting system”, KR101348966.
-1. J. D. Han, K. R. Ahn, “LED lighting system having common current source”, KR101326479.
-1. J. D. Han, K. R. Ahn, “LED lighting system for improving lighting amount and operating characteristics”, KR101321343.
-1. J. D. Han, K. R. Ahn, “LED lighting system for improving lighting amount and reducing layout area”, KR101307789.
-1. J. D. Han, “LED illuminating apparatus having enhanced quantity of light”, US9101016, PCT/KR2013/000523.
-1. J. D. Han, “LED lighting system for improving voltage current non-harmony”, KR101359890.
-1. J. D. Han, J. W. Lee, “Current detection LED lighting system”, KR101285644.
-1. B. T. Jang, J. D. Han, "LED lighting system for improving modulation index", KR101189102.
+1. Y. Yoon, J. Han, "**집적 회로의 레이아웃 생성 방법**".
+1. J. Han, G. Sung, "**고속 동작 클록 및 데이터 복원 회로**".
+1. J. Han, K. Park, E. Song, "**캐스코드 전류모드 로직회로의 내부 전압을 안정화 시키는 방법**".
+1. J. Han, J. Yang, "**고속 멀티플렉서**", filed, KR10-2021-0022302.
+1. J. Han, E. Song, "**고차 PAM 구동 회로**", filed, KR10-2021-0018961.
+1. Y. Song, J. Han, S. Kim, "**GGNMOS 기반의 방전 회로 및 이를 포함하는 상변화 메모리 소자**", filed, KR10-2021-0009876.
+1. Y. Song, J. Han, S. Kim, "**피드포워드 패스 기반의 방전 회로 및 이를 포함하는 상변화 메모리 소자**", filed, KR10-2021-0009875.
+1. J. Han, Taeung No, "**전류 미러 회로**", filed, KR10-2020-0173740.
+1. J. Han, “**전류 모드 로직 회로**”, filed, KR10-2020-0068655.
+1. J. Han, “**전류 모드 로직 회로**”, filed, KR10-2020-0062512 / PCT-KR-2020-017832.
+1. **An undisclosed patent application**.
+1. **An undisclosed patent application**.
+1. J. Han, J. Im, “**Low-Power Decision Threshold Control for High-Speed Signaling**”, US10193540.
+1. J. Seo, H. Kim, H. Ju, H. Kim, J. D. Han, D. K. Jeong, “**LED Lighting System and AC-DC Converting Circuit used thereto**”, KR101340297.
+1. J. D. Han, H. C. Kim, D. K. Jeong, “**Voltage supporting type LED lighting system**”, KR101371247.
+1. J. D. Han, B. T. Jang, “**LED Lighting System for decreasing the variation in current to that in temperature**”, KR101340295.
+1. J. D. Han, K. R. Ahn, “**Voltage detection LED lighting system**”, KR101348966.
+1. J. D. Han, K. R. Ahn, “**LED lighting system having common current source**”, KR101326479.
+1. J. D. Han, K. R. Ahn, “**LED lighting system for improving lighting amount and operating characteristics**”, KR101321343.
+1. J. D. Han, K. R. Ahn, “**LED lighting system for improving lighting amount and reducing layout area**”, KR101307789.
+1. J. D. Han, “**LED illuminating apparatus having enhanced quantity of light**”, US9101016, PCT/KR2013/000523.
+1. J. D. Han, “**LED lighting system for improving voltage current non-harmony**”, KR101359890.
+1. J. D. Han, J. W. Lee, “**Current detection LED lighting system**”, KR101285644.
+1. B. T. Jang, J. D. Han, "**LED lighting system for improving modulation index**", KR101189102.
 
 [back](./)
