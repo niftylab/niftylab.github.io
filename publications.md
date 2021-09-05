@@ -47,16 +47,18 @@ layout: default
 1. **[IEEK’08]** J. D. Han, B. J. Yoo, D. H. Lim, K. S. Park, D. K. Jeong, “**A 5-Gb/s digitalized DFE receiver for high-speed communication through backplane channels**", in IEEK Fall Conference, Nov. 2008, pp.457-457.
 
 ### Patents 
-1. Y. Yoon, J. Han, "**집적 회로의 레이아웃 생성 방법**".
-1. J. Han, G. Sung, "**고속 동작 클록 및 데이터 복원 회로**".
-1. J. Han, K. Park, E. Song, "**캐스코드 전류모드 로직회로의 내부 전압을 안정화 시키는 방법**".
-1. J. Han, J. Yang, "**고속 멀티플렉서**", filed, KR10-2021-0022302.
-1. J. Han, E. Song, "**고차 PAM 구동 회로**", filed, KR10-2021-0018961.
-1. Y. Song, J. Han, S. Kim, "**GGNMOS 기반의 방전 회로 및 이를 포함하는 상변화 메모리 소자**", filed, KR10-2021-0009876.
-1. Y. Song, J. Han, S. Kim, "**피드포워드 패스 기반의 방전 회로 및 이를 포함하는 상변화 메모리 소자**", filed, KR10-2021-0009875.
-1. J. Han, Taeung No, "**전류 미러 회로**", filed, KR10-2020-0173740.
-1. J. Han, “**전류 모드 로직 회로**”, filed, KR10-2020-0068655.
-1. J. Han, “**전류 모드 로직 회로**”, filed, KR10-2020-0062512 / PCT-KR-2020-017832.
+1. Y. Yoon, J. Han, "**Method of generating layout for integrated circuits**", filed, KR10-2021-0086673.
+1. J. Han, G. Sung, "**Data inversion circuit for DBI-AC encoded PAM4 signaling**", filed, KR10-2021-0112910.
+1. J. Han, G. Sung, "**Data inversion circuit for DBI-DC encoded PAM4 signaling**", filed, KR10-2021-0112909.
+1. J. Han, G. Sung, "**High-speed clock and data recovery circuit**", filed, KR10-2021-0042984.
+1. J. Han, G. Park, E. Song, "**Method of stabilizing internal voltages of cascode current-mode logic circuits**", filed, KR10-2021-0042985.
+1. Y. Song, J. Han, S. Kim, "**GGNMOS-based sensing scheme**", filed, KR10-2021-0009876.
+1. Y. Song, J. Han, S. Kim, "**Feedforward-path-based sensing scheme**", filed, KR10-2021-0009875.
+1. J. Han, E. Song, "**High-order PAM drive circuit**", KR10-2292736.
+1. J. Han, J. Yang, "**High speed multiplexer**", KR10-2295709.
+1. J. Han, T. No, “**Current mirror**”, filed, KR10-2020-0173740.
+1. J. Han, “**Current mode logic circuit**”,  KR10-2295708.
+1. J. Han, “**Current mode logic circuit**”, filed, KR10-2020-0062512 / PCT-KR-2020-017832.
 1. **An undisclosed patent application**.
 1. **An undisclosed patent application**.
 1. J. Han, J. Im, “**Low-Power Decision Threshold Control for High-Speed Signaling**”, US10193540.
