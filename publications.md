@@ -49,7 +49,7 @@ layout: default
 
 ### Patents 
 1. Y. Yoon, J. Han, "**Method of generating layout for integrated circuits**", filed, KR10-2021-0086673.
-2. 2. J. Han, E. Song, S. Lee, Y. Cho, H. Seo, H. Kim, "**Data inversion circuit for DBI-AC encoded PAM4 signaling**", filed, KR10-2021-0112910.
+2. J. Han, E. Song, S. Lee, Y. Cho, H. Seo, H. Kim, "**Data inversion circuit for DBI-AC encoded PAM4 signaling**", filed, KR10-2021-0112910.
 3. J. Han, E. Song, S. Lee, Y. Cho, H. Seo, H. Kim, "**Data inversion circuit for DBI-DC encoded PAM4 signaling**", filed, KR10-2021-0112909.
 4. J. Han, G. Sung, "**High-speed clock and data recovery circuit**", filed, KR10-2021-0042984.
 5. J. Han, G. Park, E. Song, "**Method of stabilizing internal voltages of cascode current-mode logic circuits**", filed, KR10-2021-0042985.
