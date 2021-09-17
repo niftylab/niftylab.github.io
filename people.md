@@ -67,7 +67,7 @@ layout: default
 
 ### Alumni
 
-한지윤(Jiyun Han)
+한지윤(Jiyun Han) 삼성전자
 
 
 [back](./)
