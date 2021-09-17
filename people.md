@@ -32,8 +32,6 @@ layout: default
 
 구동재(Dongjae Koo) 석사과정 4기
 
-이동기(Dongki Lee) 석사과정 3기, 산학연
-
 노태웅(Taeung No) 석사과정 4기
 
 홍승욱(Seungwook Hong) 석사과정 4기
@@ -55,6 +53,8 @@ layout: default
 김희준(Heejoon Kim) 석사과정 3기
 
 김동휘(Dongwhe Kim) 석사과정 3기
+
+이동기(Dongki Lee) 석사과정 3기, 산학연
 
 김재호(Jaeho Kim) 석사과정 3기, 산학연
 
