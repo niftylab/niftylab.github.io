@@ -39,11 +39,12 @@ layout: default
 1. **[ASSCC’10]** J. D. Han, W-Y. Shin, W-S. Choi, J-H. Chun, S. Kim, D-K. Jeong, "**A 5-Gb/s digitally controlled 3-tap DFE receiver for serial communications**," in IEEE Asian Solid-State Circuits Conf., Nov. 2010, pp.1-4.
 
 ### Domestic Journal/Conference Papers
-1. **[IEEK’21]** D. Koo and  J. Han, “**Design of A Quarter-rate Serializer for High-speed Transmitters**,” in IEEK Summer Conference, Jul. 2021.
-1. **[IEEK’21, Outstanding Paper Award]** S. Hong, S. Bang, S.Beak, J. Han, “**A reliable and bi-directional communication system between different voltage domains for automotive semiconductor systems**,” in IEEK Summer Conference, Jul. 2020.
+
+1. **[IEEK’21]** D. Koo and  J. Han, “**고속송신기용 쿼터레이트 시리얼라이져 설계**,” in IEEK Summer Conference, Jul. 2021.
+1. **[IEEK’21, Outstanding Paper Award]** S. Hong, S. Bang, S.Beak, J. Han, “**자동차용 반도체 시스템을 위한 서로 다른 공급 전압 도메인 간 안정적인 양방향 통신 시스템**,” in IEEK Summer Conference, Jul. 2020.
 1. **[IEEK’21]** D. Lee, J. Han, “**Analog Adaptive Continuous Time Linear Equalizer for changes in the channel environment**,” in IEEK Summer Conference, Jul. 2021.
-1. **[IEEK’21]** M. Lee, J. Han, “**Digital Gamma Controller for Gamma correction**,” in IEEK Summer Conference, Jul. 2021.
-1. **[IEEK’21]** C. Pyo and J. Han, “**Split Capacitor Partial Monotonic Switching scheme for SAR ADC**,” in IEEK Summer Conference, Jul. 2021.
+1. **[IEEK’21]** M. Lee, J. Han, “**Gamma 보정을 위한 Digital Gamma Controller**,” in IEEK Summer Conference, Jul. 2021.
+1. **[IEEK’21]** C. Pyo and J. Han, “**SAR ADC를 위한 분할 Capacitor 부분 단조 Switching 방식**,” in IEEK Summer Conference, Jul. 2021.
 1. **[KCS’21]** Hyungmin Seo, Seunghyun Oh, Kyungmin Kim, Jiyun Han, Changsik Yoo, Jaeduk Han, “**A 800MHz to 1.066GHz All Digital Delay Locked Loop With Offset Calibration Phase Detector for LPDDR3 and DDR3**,” in IEEK 28th Korean Conference on Semiconductors, Jan. 2021.
 1. **[IEEK’20]** Dongwhee Kim, Gijin Park, Jaeduk Han, “**A Low-Area Pre-Amplifier Structure with a Small Common-Mode Gain**,” in IEEK Fall Conference, Nov. 2020.
 1. **[IEEK’20]** Dongju Yang, Jaeduk Han, “**Analog Assisted Digital LDO technique for High Power Supply Rejection**", in IEEK Fall Conference, Nov. 2020.
