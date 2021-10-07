@@ -39,7 +39,13 @@ layout: default
 1. **[ASSCC’10]** J. D. Han, W-Y. Shin, W-S. Choi, J-H. Chun, S. Kim, D-K. Jeong, "**A 5-Gb/s digitally controlled 3-tap DFE receiver for serial communications**," in IEEE Asian Solid-State Circuits Conf., Nov. 2010, pp.1-4.
 
 ### Domestic Journal/Conference Papers
-
+1. **[RFANA’21]** S. Lee and J. Han, “**Reset D-FlipFlop을 사용한 저전력 PFD**,” in 21th RF/Analog Circuit Workshop, Oct. 2021.
+1. **[RFANA’21, Outstanding Paper Award]** D. Kim and J. Han, “**A Parameterized Current-Steering Digital-to-Analog Converter Generator**,” in 21th RF/Analog Circuit Workshop, Oct. 2021.
+1. **[RFANA’21]** H. Im and J. Han, “**GCPW channel measurement for high-speed links**,” in 21th RF/Analog Circuit Workshop, Oct. 2021.
+1. **[RFANA’21]** Y. Jo and  J. Han, “**Low-voltage Gm-boosted Cascode Current Source**,” in 21st RF/Analog Circuit Workshop, Oct. 2021.
+1. **[RFANA’21]** S.Kim and J. Han, “**A Variable Controller for High-Speed FFE Transmitters for Memory Interfaces**,” in 21th RF/Analog Circuit Workshop, Oct. 2021.
+1. **[RFANA’21]** E.Song and J. Han, “**A Pre-driver with FFE Coefficient Control Scheme for Tail-less CML Drivers**,” in 21th RF/Analog Circuit Workshop, Oct. 2021.
+1. **[IEEK’21]** Jaeho Kim and  J. Han, “**Display Driver IC를 위한 고신뢰 컨트롤러 회로 설계**,” in IEEK Summer Conference, Jul. 2021.
 1. **[IEEK’21]** D. Koo and  J. Han, “**고속송신기용 쿼터레이트 시리얼라이져 설계**,” in IEEK Summer Conference, Jul. 2021.
 1. **[IEEK’21, Outstanding Paper Award]** S. Hong, S. Bang, S.Beak, J. Han, “**자동차용 반도체 시스템을 위한 서로 다른 공급 전압 도메인 간 안정적인 양방향 통신 시스템**,” in IEEK Summer Conference, Jul. 2020.
 1. **[IEEK’21]** D. Lee, J. Han, “**Analog Adaptive Continuous Time Linear Equalizer for changes in the channel environment**,” in IEEK Summer Conference, Jul. 2021.
