@@ -64,7 +64,7 @@ layout: default
 
 신욱진(Wookjin Shin) 석사과정 2기
 
-염선오 석사과정 1기
+염선오(Sunoh Yeom) 석사과정 1기
 
 
 ### Alumni
