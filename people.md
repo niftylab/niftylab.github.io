@@ -14,7 +14,7 @@ layout: default
 
 이은상(Eunsang Lee) 석박통합과정 12기 leees904@hanyang.ac.kr
 
-서형민(Hyeongmin Seo) 석박통합과정 6기 
+서형민(Hyeongmin Seo) 석박통합과정 6기 shm6878@hanyang.ac.kr
 
 김현태(Hyuntae Kim) 석박통합과정 5기 hyuntae@hanyang.ac.kr
 
