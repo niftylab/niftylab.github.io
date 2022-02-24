@@ -20,7 +20,7 @@ layout: default
 >**c:** very interesting or clever, 
 >**d:** well-executed, [[Merriam-Webster]](https://www.merriam-webster.com/dictionary/nifty)
 >
->...or **e:** **N**ano-**I**ntegrated **F**abric **T**echnolog**Y**, if you like.
+>...or **e:** **N**ano-**I**ntegrated **F**abrics **T**echnolog**Y**, if you like.
 
 Welcome to the **Nifty Chips Laboratory** at Hanyang University. 
 We are working on crafting great chips and their design methodologies.
