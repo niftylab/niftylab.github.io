@@ -71,7 +71,7 @@ layout: default
 10. J. Han, T. No, “**Current mirror**,” filed, KR10-2020-0173740.
 11. J. Han, “**Current mode logic circuit**,”  KR10-2295708.
 12. J. Han, “**Current mode logic circuit**,” filed, KR10-2020-0062512 / PCT-KR-2020-017832.
-13. **An undisclosed patent application**.
+13. F.Farbiz, J.Han, P.Singh, "High Speed ESD Protection Circuit".
 14. J. Han, W. Liu, W. Liu, M.-S. Chen, S. K. Maheshwari, V. Varma, S. Bhosekar, L. Zhong, "**Serial data receiver with sampling clock skew compensation**," US10972107.
 15. J. Han, J. Im, “**Low-Power Decision Threshold Control for High-Speed Signaling**,” US10193540.
 16. J. Seo, H. Kim, H. Ju, H. Kim, J. D. Han, D. K. Jeong, “**LED Lighting System and AC-DC Converting Circuit used thereto**,” KR101340297.
