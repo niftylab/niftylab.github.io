@@ -18,6 +18,7 @@ layout: default
 1. **[TCPMT’13]** W. Y. Shin, G. M. Hong, H. Lee, J. D. Han, K. S. Park, D. H. Lim, S. Kim, D. Shim, J. H. Chun, D. K. Jeong, S. Kim, "**4-Slot, 8-Drop Impedance-Matched Bidirectional Multidrop DQ Bus With a 4.8-Gb/s Memory Controller Transceiver**," IEEE Trans. Compon., Packag. and Manuf. Technol., vol. 3, no. 5, pp. 858-869, May. 2013.
 
 ### Peer-reviewed Conference Papers
+1. ""[ISCAS'22]"" Z. Wang, M. Choi, J. Wright, K. Lee, Z. Liu, B. Yin, J. Han, S. Du, E. Alon, “A Ring-Oscillator Sub-Sampling PLL with Hybrid Loop Using Generator-Based Design Flow,” in IEEE Int. Symp. on Circuits and Syst., May. 2022.
 1. **[ISOCC'21]** Taeho Shin and Jaeduk Han, “**A SCAN Chain Generator for Verification of Full-Custom Integrated Circuits**,” in IEEE 18th Int. SoC Design Conf., Oct. 2021.
 1. **[ISOCC'21]** Dongjun Lee and Jaeduk Han, “**Design Techniques for Area-efficient Two-Stacked Current Sources in Nanometer CMOS Technology**,” in IEEE 18th Int. SoC Design Conf., Oct. 2021.
 1. **[ISOCC'21]** Gaeryun Sung and Jaeduk Han, “**High-speed StrongARM-latch-based Bang-bang Phase Detector in 40-nm CMOS Technology**,” in IEEE 18th Int. SoC Design Conf., Oct. 2021.
@@ -71,7 +72,7 @@ layout: default
 10. J. Han, T. No, “**Current mirror**,” filed, KR10-2020-0173740.
 11. J. Han, “**Current mode logic circuit**,”  KR10-2295708.
 12. J. Han, “**Current mode logic circuit**,” filed, KR10-2020-0062512 / PCT-KR-2020-017832.
-13. F.Farbiz, J.Han, P.Singh, "High Speed ESD Protection Circuit".
+13. F.Farbiz, J.Han, P.Singh, "**High Speed ESD Protection Circuit**".
 14. J. Han, W. Liu, W. Liu, M.-S. Chen, S. K. Maheshwari, V. Varma, S. Bhosekar, L. Zhong, "**Serial data receiver with sampling clock skew compensation**," US10972107.
 15. J. Han, J. Im, “**Low-Power Decision Threshold Control for High-Speed Signaling**,” US10193540.
 16. J. Seo, H. Kim, H. Ju, H. Kim, J. D. Han, D. K. Jeong, “**LED Lighting System and AC-DC Converting Circuit used thereto**,” KR101340297.
