@@ -60,6 +60,9 @@ layout: default
 1. **[IEEK’08]** J. D. Han, B. J. Yoo, D. H. Lim, K. S. Park, D. K. Jeong, “**A 5-Gb/s digitalized DFE receiver for high-speed communication through backplane channels**", in IEEK Fall Conference, Nov. 2008, pp.457-457.
 
 ### Patents 
+1. J. Han, J. Yang. H. Kim. H. Seo, "High-speed 4:1 multiplexer", filed, KR10-2021-0188946.
+1. J. Han, E. Song. T. Shin. S. Hong, "Feed-forward equalizer using shunt mosfets", filed, KR10-2021-0174816.
+1. J. Han, E. Song. G. Park. J. Kim, "Continuous time linear equalizer", filed, KR10-2021-0170049.
 1. Y. Yoon, J. Han, "**Method of generating layout for integrated circuits**," filed, KR10-2021-0086673.
 2. J. Han, E. Song, S. Lee, Y. Cho, H. Seo, H. Kim, "**Data inversion circuit for DBI-AC encoded PAM4 signaling**," filed, KR10-2021-0112910.
 3. J. Han, E. Song, S. Lee, Y. Cho, H. Seo, H. Kim, "**Data inversion circuit for DBI-DC encoded PAM4 signaling**," filed, KR10-2021-0112909.
