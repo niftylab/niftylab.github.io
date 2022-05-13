@@ -60,6 +60,9 @@ layout: default
 1. **[IEEK’08]** J. D. Han, B. J. Yoo, D. H. Lim, K. S. Park, D. K. Jeong, “**A 5-Gb/s digitalized DFE receiver for high-speed communication through backplane channels**", in IEEK Fall Conference, Nov. 2008, pp.457-457.
 
 ### Patents 
+1. J. Han, E. Song, S. Park, "Transition limited pulse amplitude modulation signaling", filed, KR10-2022-0048694.
+1. J. Han, W. Shin, H. Seo, "Feed-forward equalizer transmitter", filed, KR10-2022-0040923.
+1. J. Han, S.Lee. E. Song, K. Park, "Passive continuous time linear equalizer", filed, KR10-2021-0165307.
 1. J. Han, J. Yang. H. Kim. H. Seo, "High-speed 4:1 multiplexer", filed, KR10-2021-0188946.
 1. J. Han, E. Song. T. Shin. S. Hong, "Feed-forward equalizer using shunt mosfets", filed, KR10-2021-0174816.
 1. J. Han, E. Song. G. Park. J. Kim, "Continuous time linear equalizer", filed, KR10-2021-0170049.
