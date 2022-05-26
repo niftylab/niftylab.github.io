@@ -19,6 +19,8 @@ layout: default
 11. **[TCPMT’13]** W. Y. Shin, G. M. Hong, H. Lee, J. D. Han, K. S. Park, D. H. Lim, S. Kim, D. Shim, J. H. Chun, D. K. Jeong, S. Kim, "**4-Slot, 8-Drop Impedance-Matched Bidirectional Multidrop DQ Bus With a 4.8-Gb/s Memory Controller Transceiver**," IEEE Trans. Compon., Packag. and Manuf. Technol., vol. 3, no. 5, pp. 858-869, May. 2013.
 
 ### Peer-reviewed Conference Papers
+1. **[VLSI’22]** (accepted) Z. Wang, M. Choi, P. Kwon, K. Lee, B. Yin, Z. Liu, K. Park, A. Biswas, J. Han, S. Du, E. Alon, “**A 200Gb/s PAM-4 Transmitter with Hybrid Sub-Sampling PLL in 28nm CMOS Technology**,” in IEEE Int. Symp. VLSI Circuits, Jun. 2022.
+1. **[MWSCAS'22]** (accepted) E. Song, J. Yang, S. Hong, and J. Han, "**A 32-Gb/S High-Swing PAM-4 Current-Mode Driver with Current-Bleeding Cascode Technique and Capacitive-Coupled Pre-Drivers in 40-nm CMOS for Short-Reach Wireline Communication**,” in IEEE Int. Midwest Symp. on Circuits and Syst., Aug. 2022.
 1. **[ISCAS'22]** Z. Wang, M. Choi, J. Wright, K. Lee, Z. Liu, B. Yin, J. Han, S. Du, E. Alon, “**A Ring-Oscillator Sub-Sampling PLL with Hybrid Loop Using Generator-Based Design Flow**,” in IEEE Int. Symp. on Circuits and Syst., May. 2022.
 1. **[ISOCC'21]** Taeho Shin and Jaeduk Han, “**A SCAN Chain Generator for Verification of Full-Custom Integrated Circuits**,” in IEEE 18th Int. SoC Design Conf., Oct. 2021.
 1. **[ISOCC'21]** Dongjun Lee and Jaeduk Han, “**Design Techniques for Area-efficient Two-Stacked Current Sources in Nanometer CMOS Technology**,” in IEEE 18th Int. SoC Design Conf., Oct. 2021.
