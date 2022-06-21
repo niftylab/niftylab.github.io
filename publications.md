@@ -65,35 +65,36 @@ layout: default
 ### Patents 
 1. J. Han, E. Song, S. Park, "**Transition limited pulse amplitude modulation signaling**", filed, KR10-2022-0048694.
 1. J. Han, W. Shin, H. Seo, "**Feed-forward equalizer transmitter**", filed, KR10-2022-0040923.
-1. J. Han, S.Lee. E. Song, K. Park, "**Passive continuous time linear equalizer**", filed, KR10-2021-0165307.
-1. J. Han, J. Yang. H. Kim. H. Seo, "**High-speed 4:1 multiplexer**", filed, KR10-2021-0188946.
-1. J. Han, E. Song. T. Shin. S. Hong, "**Feed-forward equalizer using shunt mosfets**", filed, KR10-2021-0174816.
-1. J. Han, E. Song. G. Park. J. Kim, "**Continuous time linear equalizer**", filed, KR10-2021-0170049.
-1. Y. Yoon, J. Han, "**Method of generating layout for integrated circuits**," filed, KR10-2021-0086673.
-2. J. Han, E. Song, S. Lee, Y. Cho, H. Seo, H. Kim, "**Data inversion circuit for DBI-AC encoded PAM4 signaling**," filed, KR10-2021-0112910.
-3. J. Han, E. Song, S. Lee, Y. Cho, H. Seo, H. Kim, "**Data inversion circuit for DBI-DC encoded PAM4 signaling**," filed, KR10-2021-0112909.
-4. J. Han, G. Sung, "**High-speed clock and data recovery circuit**," filed, KR10-2021-0042984.
-5. J. Han, G. Park, E. Song, "**Method of stabilizing internal voltages of cascode current-mode logic circuits**," filed, KR10-2021-0042985.
-6. Y. Song, J. Han, S. Kim, "**GGNMOS-based sensing scheme**," filed, KR10-2021-0009876.
-7. Y. Song, J. Han, S. Kim, "**Feedforward-path-based sensing scheme**," filed, KR10-2021-0009875.
-8. J. Han, E. Song, "**High-order PAM drive circuit**," KR10-2292736.
-9. J. Han, J. Yang, "**High speed multiplexer**," KR10-2295709.
-10. J. Han, T. No, “**Current mirror**,” filed, KR10-2020-0173740.
-11. J. Han, “**Current mode logic circuit**,”  KR10-2295708.
-12. J. Han, “**Current mode logic circuit**,” filed, KR10-2020-0062512 / PCT-KR-2020-017832.
-13. F.Farbiz, J.Han, P.Singh, "**High Speed ESD Protection Circuit**".
-14. J. Han, W. Liu, W. Liu, M.-S. Chen, S. K. Maheshwari, V. Varma, S. Bhosekar, L. Zhong, "**Serial data receiver with sampling clock skew compensation**," US10972107.
-15. J. Han, J. Im, “**Low-Power Decision Threshold Control for High-Speed Signaling**,” US10193540.
-16. J. Seo, H. Kim, H. Ju, H. Kim, J. D. Han, D. K. Jeong, “**LED Lighting System and AC-DC Converting Circuit used thereto**,” KR101340297.
-17. J. D. Han, H. C. Kim, D. K. Jeong, “**Voltage supporting type LED lighting system**,” KR101371247.
-18. J. D. Han, B. T. Jang, “**LED Lighting System for decreasing the variation in current to that in temperature**,” KR101340295.
-19. J. D. Han, K. R. Ahn, “**Voltage detection LED lighting system**,” KR101348966.
-20. J. D. Han, K. R. Ahn, “**LED lighting system having common current source**,” KR101326479.
-21. J. D. Han, K. R. Ahn, “**LED lighting system for improving lighting amount and operating characteristics**,” KR101321343.
-22. J. D. Han, K. R. Ahn, “**LED lighting system for improving lighting amount and reducing layout area**,” KR101307789.
-23. J. D. Han, “**LED illuminating apparatus having enhanced quantity of light**,” US9101016, PCT/KR2013/000523.
-24. J. D. Han, “**LED lighting system for improving voltage current non-harmony**,” KR101359890.
-25. J. D. Han, J. W. Lee, “**Current detection LED lighting system**,” KR101285644.
-26. B. T. Jang, J. D. Han, "**LED lighting system for improving modulation index**," KR101189102.
+1. 29. J. Han, D.Lee, T.Shin, D.Kim, G. Sung, "**Apparatus of generating semiconductor indegrated circuits**", filed, KR10-2022-0074725.
+3. J. Han, S.Lee. E. Song, K. Park, "**Passive continuous time linear equalizer**", filed, KR10-2021-0165307.
+4. J. Han, J. Yang. H. Kim. H. Seo, "**High-speed 4:1 multiplexer**", filed, KR10-2021-0188946.
+5. J. Han, E. Song. T. Shin. S. Hong, "**Feed-forward equalizer using shunt mosfets**", filed, KR10-2021-0174816.
+6. J. Han, E. Song. G. Park. J. Kim, "**Continuous time linear equalizer**", filed, KR10-2021-0170049.
+7. Y. Yoon, J. Han, "**Method of generating layout for integrated circuits**," filed, KR10-2021-0086673.
+8. J. Han, E. Song, S. Lee, Y. Cho, H. Seo, H. Kim, "**Data inversion circuit for DBI-AC encoded PAM4 signaling**," filed, KR10-2021-0112910.
+9. J. Han, E. Song, S. Lee, Y. Cho, H. Seo, H. Kim, "**Data inversion circuit for DBI-DC encoded PAM4 signaling**," filed, KR10-2021-0112909.
+10. J. Han, G. Sung, "**High-speed clock and data recovery circuit**," filed, KR10-2021-0042984.
+11. J. Han, G. Park, E. Song, "**Method of stabilizing internal voltages of cascode current-mode logic circuits**," filed, KR10-2021-0042985.
+12. Y. Song, J. Han, S. Kim, "**GGNMOS-based sensing scheme**," filed, KR10-2021-0009876.
+13. Y. Song, J. Han, S. Kim, "**Feedforward-path-based sensing scheme**," filed, KR10-2021-0009875.
+14. J. Han, E. Song, "**High-order PAM drive circuit**," KR10-2292736.
+15. J. Han, J. Yang, "**High speed multiplexer**," KR10-2295709.
+16. J. Han, T. No, “**Current mirror**,” filed, KR10-2020-0173740.
+17. J. Han, “**Current mode logic circuit**,”  KR10-2295708.
+18. J. Han, “**Current mode logic circuit**,” filed, KR10-2020-0062512 / PCT-KR-2020-017832.
+19. F.Farbiz, J.Han, P.Singh, "**High Speed ESD Protection Circuit**".
+20. J. Han, W. Liu, W. Liu, M.-S. Chen, S. K. Maheshwari, V. Varma, S. Bhosekar, L. Zhong, "**Serial data receiver with sampling clock skew compensation**," US10972107.
+21. J. Han, J. Im, “**Low-Power Decision Threshold Control for High-Speed Signaling**,” US10193540.
+22. J. Seo, H. Kim, H. Ju, H. Kim, J. D. Han, D. K. Jeong, “**LED Lighting System and AC-DC Converting Circuit used thereto**,” KR101340297.
+23. J. D. Han, H. C. Kim, D. K. Jeong, “**Voltage supporting type LED lighting system**,” KR101371247.
+24. J. D. Han, B. T. Jang, “**LED Lighting System for decreasing the variation in current to that in temperature**,” KR101340295.
+25. J. D. Han, K. R. Ahn, “**Voltage detection LED lighting system**,” KR101348966.
+26. J. D. Han, K. R. Ahn, “**LED lighting system having common current source**,” KR101326479.
+27. J. D. Han, K. R. Ahn, “**LED lighting system for improving lighting amount and operating characteristics**,” KR101321343.
+28. J. D. Han, K. R. Ahn, “**LED lighting system for improving lighting amount and reducing layout area**,” KR101307789.
+29. J. D. Han, “**LED illuminating apparatus having enhanced quantity of light**,” US9101016, PCT/KR2013/000523.
+30. J. D. Han, “**LED lighting system for improving voltage current non-harmony**,” KR101359890.
+31. J. D. Han, J. W. Lee, “**Current detection LED lighting system**,” KR101285644.
+32. B. T. Jang, J. D. Han, "**LED lighting system for improving modulation index**," KR101189102.
 
 [back](./)
