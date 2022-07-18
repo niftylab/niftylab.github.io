@@ -79,9 +79,9 @@ layout: default
 12. Y. Song, J. Han, S. Kim, "**GGNMOS-based sensing scheme**," filed, KR10-2021-0009876.
 13. Y. Song, J. Han, S. Kim, "**Feedforward-path-based sensing scheme**," filed, KR10-2021-0009875.
 14. J. Han, E. Song, "**High-order PAM drive circuit**," KR10-2292736.
-15. J. Han, J. Yang, "**High speed multiplexer**," KR10-2295709.
+15. J. Han, J. Yang, "**High speed multiplexer**," KR102295709.
 16. J. Han, T. No, “**Current mirror**,” filed, KR10-2020-0173740.
-17. J. Han, “**Current mode logic circuit**,”  KR10-2295708.
+17. J. Han, “**Current mode logic circuit**,”  KR102295708.
 18. J. Han, “**Current mode logic circuit**,” filed, KR10-2020-0062512 / PCT-KR-2020-017832.
 19. F.Farbiz, J.Han, P.Singh, "**High Speed ESD Protection Circuit**".
 20. J. Han, W. Liu, W. Liu, M.-S. Chen, S. K. Maheshwari, V. Varma, S. Bhosekar, L. Zhong, "**Serial data receiver with sampling clock skew compensation**," US10972107.
