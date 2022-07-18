@@ -78,7 +78,7 @@ layout: default
 11. J. Han, G. Park, E. Song, "**Method of stabilizing internal voltages of cascode current-mode logic circuits**," filed, KR10-2021-0042985.
 12. Y. Song, J. Han, S. Kim, "**GGNMOS-based sensing scheme**," filed, KR10-2021-0009876.
 13. Y. Song, J. Han, S. Kim, "**Feedforward-path-based sensing scheme**," filed, KR10-2021-0009875.
-14. J. Han, E. Song, "**High-order PAM drive circuit**," KR10-2292736.
+14. J. Han, E. Song, "**High-order PAM drive circuit**," KR102292736.
 15. J. Han, J. Yang, "**High speed multiplexer**," KR102295709.
 16. J. Han, T. No, “**Current mirror**,” filed, KR10-2020-0173740.
 17. J. Han, “**Current mode logic circuit**,”  KR102295708.
