@@ -43,4 +43,5 @@ The **Nifty Chips Laboratory** at Hanyang University is working on crafting grea
 * (주)삼성전자
 * (주)현대모비스
 * 한국연구재단
+* (주)램쉽
 
