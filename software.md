@@ -7,6 +7,6 @@ layout: default
 [LAYGO - LAYout with Gridded Objects](https://ucb-art.github.io/laygo/) : An automatic layout generation framework for 
 advanced CMOS process.
 
-[LAYGO2](https://github.com/niftylab/laygo2): An improved version of LAYGO (currently in private mode).
+[LAYGO2](https://github.com/niftylab/laygo2): An improved version of LAYGO.
 
 [back](./)
