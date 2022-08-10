@@ -4,6 +4,11 @@ layout: default
 
 ## Nifty Chips
 
+#### A Loop-Unrolled 1.5GS/s SAR ADC 
+![chip7](https://raw.githubusercontent.com/niftylab/niftylab.github.io/master/assets/img/chips/7_adc.jpg)  
+Process: 28nm CMOS  
+Tapeout Date: Jan 2021
+
 #### A PAM4 Driver Prototype
 ![chip6](https://raw.githubusercontent.com/niftylab/niftylab.github.io/master/assets/img/chips/6_tx.jpg)  
 Process: 40nm CMOS  
