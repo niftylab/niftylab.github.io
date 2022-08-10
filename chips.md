@@ -6,8 +6,8 @@ layout: default
 
 #### Protective PRAM Sensors Prototype 
 ![chip8](https://raw.githubusercontent.com/niftylab/niftylab.github.io/master/assets/img/chips/8_pram.jpg)  
-Process: 28nm CMOS  
-Tapeout Date: Jan 2021
+Process: 180nm CMOS  
+Tapeout Date: Jun 2021
 
 #### A Loop-Unrolled 1.5GS/s SAR ADC 
 ![chip7](https://raw.githubusercontent.com/niftylab/niftylab.github.io/master/assets/img/chips/7_adc.jpg)  
