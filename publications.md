@@ -5,8 +5,9 @@ layout: default
 ## Nifty Papers
 
 ### Peer-reviewed Journal Articles
-1. **[TCAS-I'22]** E. Lee, C. Pyo, S. Lee, and J. Han, "**A 1.5-GS/s 6-bit Single-Channel Loop-Unrolled SAR ADC With Speculative CDAC Switching Control Technique in 28-nm CMOS**," IEEE Trans. Circuits and Syst. I: Regular Papers, Jun. 2022.
-1. **[Access'22]** T. No, S. Choi, G. Sung, S.-B. Kim, J. Han, and Y.-H. Song, "**A Discharge-Path-Based Sensing Circuit with OTS Snapback Current Protection for Phase Change Memories**," IEEE Access, vol. 10, pp. 53513-53521, May 2022.
+1. **[JSTS'22]** E. Lee and J. Han, "**Time-domain Continuous-time Delta-sigma Modulator using VCO-based Integrator and GRO-based Quantizer**," J. Semicond. Technol. Sci., Aug. 2022.
+3. **[TCAS-I'22]** E. Lee, C. Pyo, S. Lee, and J. Han, "**A 1.5-GS/s 6-bit Single-Channel Loop-Unrolled SAR ADC With Speculative CDAC Switching Control Technique in 28-nm CMOS**," IEEE Trans. Circuits and Syst. I: Regular Papers, Jun. 2022.
+4. **[Access'22]** T. No, S. Choi, G. Sung, S.-B. Kim, J. Han, and Y.-H. Song, "**A Discharge-Path-Based Sensing Circuit with OTS Snapback Current Protection for Phase Change Memories**," IEEE Access, vol. 10, pp. 53513-53521, May 2022.
 5. **[Electronics'21]** Gijin Park, Jaeduk Han, Woorham Bae, "**Design and Analysis of Asynchronous Sampling Duty Cycle Corrector**," MDPI Electronics, Oct. 2021.
 6. **[JSSC’21, ISSCC'21]** Zhongkai Wang, Minsoo Choi, Kyoungtae Lee, Kwanseo Park, Zhaokai Liu, Ayan Biswas, Jaeduk Han, Sijun Du, Elad Alon, "**An Output Bandwidth Optimized 200 Gb/s PAM-4 100 Gb/s NRZ Transmitter with 5-Tap FFE in 28nm CMOS**," IEEE J. Solid-State Circuits, Special Issue on the 2021 International Solid State Circuits Conference (ISSCC 2021), Vol. 57, No. 1, pp. 21-31, Sep. 2021.
 7. **[TCAS-I'21]** Jaeduk Han, Woorham Bae, Eric Y. Chang, Zhongkai Wang, Borivoje Nikolić, and Elad Alon, "**LAYGO: A Template-and-Grid-Based Layout Generation Engine for Advanced CMOS Technologies**," IEEE Trans. Circuits and Syst. I: Regular Papers, vol. 68, no. 3, pp. 1012–1022, Mar. 2021.
