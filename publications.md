@@ -5,8 +5,8 @@ layout: default
 ## Nifty Papers
 
 ### Peer-reviewed Journal Articles
-1. **[TCAS-II'22]** H. Seo, J. Han, K. Kim, B. Lim, E. Shin, Y. Choi, H. Ko, J. Choi, S. Lee, C. Yoo, and J. Han, "**A 12-Gb/s Baud-rate Clock and Data Recovery with 75% Phase-detection Probability by Precoding and Integration-Hold-Reset Frontend**," TCAS-II, 2022.
 1. **[ETRIJ'22]** _(accepted)_ E. Song, S. Park, and J. Han, "**Transition-Limited Pulse-Amplitude Modulation (TLPAM) Technique for High-Speed Wireline Communication Systems**," ETRI J., 2022.
+1. **[TCAS-II'22]** H. Seo, J. Han, K. Kim, B. Lim, E. Shin, Y. Choi, H. Ko, J. Choi, S. Lee, C. Yoo, and J. Han, "**A 12-Gb/s Baud-rate Clock and Data Recovery with 75% Phase-detection Probability by Precoding and Integration-Hold-Reset Frontend**," TCAS-II, 2022.
 3. **[JSTS'22]** E. Lee, and J. Han, "**Time-domain Continuous-time Delta-sigma Modulator using VCO-based Integrator and GRO-based Quantizer**," J. Semicond. Technol. Sci., Aug. 2022.
 4. **[TCAS-I'22]** E. Lee, C. Pyo, S. Lee, and J. Han, "**A 1.5-GS/s 6-bit Single-Channel Loop-Unrolled SAR ADC With Speculative CDAC Switching Control Technique in 28-nm CMOS**," IEEE Trans. Circuits and Syst. I: Regular Papers, Jun. 2022.
 5. **[Access'22]** T. No, S. Choi, G. Sung, S.-B. Kim, J. Han, and Y.-H. Song, "**A Discharge-Path-Based Sensing Circuit with OTS Snapback Current Protection for Phase Change Memories**," IEEE Access, vol. 10, pp. 53513-53521, May 2022.
