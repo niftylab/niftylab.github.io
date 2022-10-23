@@ -23,7 +23,8 @@ layout: default
 16. **[TCPMT’13]** W. Y. Shin, G. M. Hong, H. Lee, J. D. Han, K. S. Park, D. H. Lim, S. Kim, D. Shim, J. H. Chun, D. K. Jeong, S. Kim, "**4-Slot, 8-Drop Impedance-Matched Bidirectional Multidrop DQ Bus With a 4.8-Gb/s Memory Controller Transceiver**," IEEE Trans. Compon., Packag. and Manuf. Technol., vol. 3, no. 5, pp. 858-869, May. 2013.
 
 ### Peer-reviewed Conference Papers
-1. **[ICCD'22]** _(accepted)_ Y. Su, S. Lee, E. Song, D. Kim, J. Han, and H. Kim, "**Energy-Efficient Bus Encoding Techniques for Next-Generation PAM-4 DRAM Interfaces**", in Proceedings of the 40th IEEE Int. Conf. Comput. Des. (ICCD 2022), Oct. 2022.
+1. **[ISSCC'23]** _(accepted)_ J. Yang, E. Song, S. Hong, D. Lee, S. Lee, H. Im, T. Shin, and J. Han, "**A 100Gb/s 1.6Vppd PAM-8 Transmitter with High-Swing 3+1 Hybrid FFE Taps in 40nm **," in IEEE Int. Solid-State Circuits Conf., Feb. 2023.
+1. **[ICCD'22]** _(accepted)_ Y. Su, S. Lee, E. Song, D. Kim, J. Han, and H. Kim, "**Energy-Efficient Bus Encoding Techniques for Next-Generation PAM-4 DRAM Interfaces**," in Proceedings of the 40th IEEE Int. Conf. Comput. Des. (ICCD 2022), Oct. 2022.
 1. **[MWSCAS'22]** E. Song, J. Yang, S. Hong, and J. Han, "**A 32-Gb/S High-Swing PAM-4 Current-Mode Driver with Current-Bleeding Cascode Technique and Capacitive-Coupled Pre-Drivers in 40-nm CMOS for Short-Reach Wireline Communication**,” in IEEE Int. Midwest Symp. on Circuits and Syst., Aug. 2022.
 1. **[VLSI’22]** Z. Wang, M. Choi, P. Kwon, K. Lee, B. Yin, Z. Liu, K. Park, A. Biswas, J. Han, S. Du, E. Alon, “**A 200Gb/s PAM-4 Transmitter with Hybrid Sub-Sampling PLL in 28nm CMOS Technology**,” in IEEE Int. Symp. VLSI Circuits, Jun. 2022.
 1. **[ISCAS'22]** Z. Wang, M. Choi, J. Wright, K. Lee, Z. Liu, B. Yin, J. Han, S. Du, E. Alon, “**A Ring-Oscillator Sub-Sampling PLL with Hybrid Loop Using Generator-Based Design Flow**,” in IEEE Int. Symp. on Circuits and Syst., May. 2022.
