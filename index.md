@@ -24,7 +24,7 @@ layout: default
 
 The **Nifty Chips Laboratory** at Hanyang University is working on crafting great chips and their design methodologies.
 
-회로 설계 및 자동화 연구실(The Nifty Chips Laboratory)은 아날로그 및 custom 디지털 회로의 설계 및 설계 자동화에 대한 연구를 진행하고 있으며, 학부연구생/석사/박사를 모집하고 있습니다. 
+회로 설계 및 자동화 연구실(The Nifty Chips Laboratory)은 아날로그 및 custom 디지털 회로의 설계 및 설계 자동화에 대한 연구를 진행하고 있으며, 학부연구생(대학원 진학 희망자 대상)/석사(나노반도체공학과)/박사(융합전자공학과 및 나노반도체공학과)를 모집하고 있습니다. 
 
 관심 있으신 분은 간단한 자기소개서 및 성적표를 첨부하여 제 이메일로 메일주시기 바랍니다.
 
