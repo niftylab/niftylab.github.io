@@ -45,4 +45,5 @@ The **Nifty Chips Laboratory** at Hanyang University is working on crafting grea
 * 한국연구재단
 * (주)램쉽
 * 광주과학기술원
+* (주)LG이노텍
 
