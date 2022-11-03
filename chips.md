@@ -4,6 +4,11 @@ layout: default
 
 ## Nifty Chips
 
+#### A 12Gb/s Baud-rate CDR with Integration-Hold-Reset Frontend
+![chip7](https://raw.githubusercontent.com/niftylab/niftylab.github.io/master/assets/img/chips/9_brcdr.png)  
+Process: 28nm CMOS  
+Tapeout Date: Jan 2021
+
 #### Protective PRAM Sensors Prototype 
 ![chip8](https://raw.githubusercontent.com/niftylab/niftylab.github.io/master/assets/img/chips/8_pram.jpg)  
 Process: 180nm CMOS  
