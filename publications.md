@@ -72,6 +72,7 @@ layout: default
 1. J. Han, E. Song, S. Park, "**Transition limited pulse amplitude modulation signaling**," filed, KR10-2022-0048694.
 1. J. Han, W. Shin, H. Seo, "**Feed-forward equalizer transmitter**," filed, KR10-2022-0040923.
 1. J. Han, D.Lee, T.Shin, D.Kim, G. Sung, "**Apparatus of generating semiconductor integrated circuits**," filed, KR10-2022-0074725.
+2. **[삼성전자 전략특허상]** J. Han, S.Lee, H. Kim, J. Yang, "**A semiconductor apratus**", filed.
 3. J. Han, S.Lee. E. Song, K. Park, "**Passive continuous time linear equalizer**," filed, KR10-2021-0165307.
 4. J. Han, J. Yang. H. Kim. H. Seo, "**High-speed 4:1 multiplexer**," KR10-2420430.
 5. J. Han, E. Song. T. Shin. S. Hong, "**Feed-forward equalizer using shunt mosfets**", filed, KR10-2021-0174816.
