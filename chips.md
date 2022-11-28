@@ -4,8 +4,13 @@ layout: default
 
 ## Nifty Chips
 
+#### A 8-channel SDCSL Transceiver Array for Short-Reach Interconnects
+![chip10](https://raw.githubusercontent.com/niftylab/niftylab.github.io/master/assets/img/chips/10_sdcsl.png)  
+Process: 28nm CMOS  
+Tapeout Date: Oct 2021
+
 #### A 12Gb/s Baud-rate CDR with Integration-Hold-Reset Frontend
-![chip7](https://raw.githubusercontent.com/niftylab/niftylab.github.io/master/assets/img/chips/9_brcdr.png)  
+![chip9](https://raw.githubusercontent.com/niftylab/niftylab.github.io/master/assets/img/chips/9_brcdr.png)  
 Process: 28nm CMOS  
 Tapeout Date: Jan 2021
 
