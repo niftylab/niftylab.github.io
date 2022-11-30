@@ -7,7 +7,7 @@ layout: default
 #### A Transition-Limited Pulse-Amplitude Modulation Transmitter Prototype
 ![chip10](https://raw.githubusercontent.com/niftylab/niftylab.github.io/master/assets/img/chips/11_tlpam.png)  
 Process: FPGA+DAC board
-Date of Implementation: Sep 2021
+Date of Implementation: Mar 2022
 
 #### A 8-channel SDCSL Transceiver Array for Short-Reach Interconnects
 ![chip10](https://raw.githubusercontent.com/niftylab/niftylab.github.io/master/assets/img/chips/10_sdcsl.png)  
