@@ -83,11 +83,11 @@ layout: default
 
 홍승욱(Seungwook Hong) MS, Class of 2022, LX Semicon
 
-양동주(Dongju Yang) MS, Class of 2022, SK하이닉스
+양동주(Dongju Yang) MS, Class of 2022, SK하이닉스(산학)
 
 김성해(Sunghae Kim) MS, Class of 2022, LX Semicon
 
-표창현(Changhyun Pyo) MS, Class of 2022, SK하이닉스
+표창현(Changhyun Pyo) MS, Class of 2022, SK하이닉스(산학)
 
 
 [back](./)
