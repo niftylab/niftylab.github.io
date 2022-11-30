@@ -8,6 +8,11 @@ layout: default
 [한재덕(Jaeduk Han)](./people/1_jaedukhan.html)
 
 
+### Administrative Staff
+
+윤희라(Heerah Yoon)
+
+
 ### Graduate Student Researchers
 
 #### PhD / MS-PhD students
