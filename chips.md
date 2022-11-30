@@ -5,7 +5,7 @@ layout: default
 ## Nifty Chips
 
 #### A Transition-Limited Pulse-Amplitude Modulation Transmitter Prototype
-![chip10](https://raw.githubusercontent.com/niftylab/niftylab.github.io/master/assets/img/chips/11_tlpam.png)  
+![chip11](https://raw.githubusercontent.com/niftylab/niftylab.github.io/master/assets/img/chips/11_tlpam.png)  
 Process: FPGA+DAC board
 Date of Implementation: Mar 2022
 
