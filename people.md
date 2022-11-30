@@ -75,19 +75,19 @@ layout: default
 
 ### Alumni
 
-한지윤(Jiyun Han) 삼성전자
+한지윤(Jiyun Han) MS, Class of 2021, 삼성전자
 
-구동재(Dongjae Koo) 
+구동재(Dongjae Koo) MS, Class of 2022
 
-노태웅(Taeung No) DB Hitek
+노태웅(Taeung No) MS, Class of 2022, DB Hitek
 
-홍승욱(Seungwook Hong) LX Semicon
+홍승욱(Seungwook Hong) MS, Class of 2022, LX Semicon
 
-양동주(Dongju Yang) SK하이닉스, 산학
+양동주(Dongju Yang) MS, Class of 2022, SK하이닉스, 산학
 
-김성해(Sunghae Kim) LX Semicon
+김성해(Sunghae Kim) MS, Class of 2022, LX Semicon
 
-표창현(Changhyun Pyo) SK하이닉스, 산학
+표창현(Changhyun Pyo) MS, Class of 2022, SK하이닉스
 
 
 [back](./)
