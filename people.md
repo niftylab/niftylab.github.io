@@ -90,4 +90,7 @@ layout: default
 
 이무석(Moosuk Lee) MS, Class of 2022, DB Hitek
 
+박기진(Gijin Park) BS, Class of 2022, TAMU 박사과정
+
+
 [back](./)
