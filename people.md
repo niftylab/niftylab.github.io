@@ -66,11 +66,11 @@ layout: default
 
 홍승욱(Seungwook Hong) MS, Class of 2022, LX Semicon
 
-양동주(Dongju Yang) MS, Class of 2022, SK하이닉스(산학)
+양동주(Dongju Yang) MS, Class of 2022, SK하이닉스
 
 김성해(Sunghae Kim) MS, Class of 2022, LX Semicon
 
-표창현(Changhyun Pyo) MS, Class of 2022, SK하이닉스(산학)
+표창현(Changhyun Pyo) MS, Class of 2022, SK하이닉스
 
 임현우(Hyunwoo Im) MS, Class of 2022, LX Semicon
 
@@ -80,9 +80,14 @@ layout: default
 
 김동휘(Dongwhe Kim) MS, Class of 2022
 
-이동기(Dongki Lee) 산학
+양정휴(Jeonghyu Yang) MS, Class of 2022, 박사과정
 
-김재호(Jaeho Kim) 산학
+이동준(Dongjun Lee) MS, Class of 2022, 박사과정
 
-이무석(Moosuk Lee) 산학
+이동기(Dongki Lee) MS, Class of 2022, TLI
+
+김재호(Jaeho Kim) MS, Class of 2022, TLI
+
+이무석(Moosuk Lee) MS, Class of 2022, DB Hitek
+
 [back](./)
