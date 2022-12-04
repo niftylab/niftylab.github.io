@@ -29,7 +29,7 @@ layout: default
 
 이동준(Dongjun Lee) 박사과정 1기 lreedong12@hanyang.ac.kr
 
-양정휴(Jeonghyu Yang) 박사과정 hyu2980@hanyang.ac.kr
+양정휴(Jeonghyu Yang) 박사과정 1기 hyu2980@hanyang.ac.kr
 
 이상완(Sangwan Lee) 석박통합과정 4기 esang12@hanyang.ac.kr
 
