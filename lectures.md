@@ -4,6 +4,18 @@ layout: default
 
 ## Nifty Lectures
 
+#### Fall 2022
+
+ELE3081 VLSI Engineering  
+ELE4106 Capstone Design - Analog Circuits (PBL)  
+ENE4039 Analog Circuit Design (English)  
+
+#### Spring 2022
+
+ITE4003 SOC Design   
+ECE808 SOC Structure (Graduate, English, PBL)  
+NSE8012 Advanced Analog Circuit Design (Graduate)
+
 #### Fall 2021
 
 ELE3081 VLSI Engineering  
