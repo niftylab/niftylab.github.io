@@ -60,7 +60,7 @@ layout: default
 
 한지윤(Jiyun Han) MS, Class of 2021, 삼성전자
 
-구동재(Dongjae Koo) MS, Class of 2022
+구동재(Dongjae Koo) MS, Class of 2022, IIST
 
 노태웅(Taeung No) MS, Class of 2022, DB Hitek
 
