@@ -77,7 +77,7 @@ layout: default
 3. J. Han, S.Lee. E. Song, K. Park, "**Passive continuous time linear equalizer**," filed, KR10-2021-0165307.
 4. J. Han, J. Yang. H. Kim. H. Seo, "**High-speed 4:1 multiplexer**," KR10-2420430.
 5. J. Han, E. Song. T. Shin. S. Hong, "**Feed-forward equalizer using shunt mosfets**", filed, KR10-2021-0174816.
-6. J. Han, E. Song. G. Park. J. Kim, "**Continuous time linear equalizer**", filed, KR10-2021-0170049.
+6. **[SK하이닉스 우수특허상]** J. Han, E. Song. G. Park. J. Kim, "**Continuous time linear equalizer**", filed, KR10-2021-0170049.
 7. Y. Yoon, J. Han, "**Method of generating layout for integrated circuits**," filed, KR10-2021-0086673.
 8. J. Han, E. Song, S. Lee, Y. Cho, H. Seo, H. Kim, "**Data inversion circuit for DBI-AC encoded PAM4 signaling**," filed, KR10-2021-0112910.
 9. J. Han, E. Song, S. Lee, Y. Cho, H. Seo, H. Kim, "**Data inversion circuit for DBI-DC encoded PAM4 signaling**," filed, KR10-2021-0112909.
