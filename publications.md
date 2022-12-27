@@ -6,7 +6,7 @@ layout: default
 
 ### Peer-reviewed Journal Articles
 #### 2023
-<img src="[drawing.jpg](https://img.shields.io/badge/IEEE-TCAS--II-blue)" alt="drawing" width="200"/>
+<img src="[drawing.jpg](https://img.shields.io/badge/IEEE-TCAS--II-blue.svg)" alt="drawing" width="200"/>
 3. ![TCAS-II](https://img.shields.io/badge/IEEE-TCAS--II-blue)  H. Kim, H. Seo, Y. Jo, C. Yoo, and J. Han, "**An 8b9b 77.44-Gb/s Noise-Immune Spatial-Delta Coded Transceiver for Short-Reach Memory Interfaces in 28-nm CMOS**," IEEE Trans. Circuits and Syst. II: Express Briefs, 2023. 
 3. ![TCAS-II](https://img.shields.io/badge/IEEE-TCAS--II-blue)  H. Seo, J. Han, K. Kim, B. Lim, E. Shin, Y. Choi, H. Ko, J. Choi, S. Lee, C. Yoo, and J. Han, "**A 12-Gb/s Baud-rate Clock and Data Recovery with 75% Phase-detection Probability by Precoding and Integration-Hold-Reset Frontend**," IEEE Trans. Circuits and Syst. II: Express Briefs, 2023.
 
