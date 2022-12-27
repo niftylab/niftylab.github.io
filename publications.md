@@ -7,13 +7,20 @@ layout: default
 ### Peer-reviewed Journal Articles
 #### 2023
 ![badge](https://img.shields.io/badge/IEEE-TCAS--II-blue)  H. Kim, H. Seo, Y. Jo, C. Yoo, and J. Han, "**An 8b9b 77.44-Gb/s Noise-Immune Spatial-Delta Coded Transceiver for Short-Reach Memory Interfaces in 28-nm CMOS**," IEEE Trans. Circuits and Syst. II: Express Briefs, 2023. 
+
 ![badge](https://img.shields.io/badge/IEEE-TCAS--II-blue)  H. Seo, J. Han, K. Kim, B. Lim, E. Shin, Y. Choi, H. Ko, J. Choi, S. Lee, C. Yoo, and J. Han, "**A 12-Gb/s Baud-rate Clock and Data Recovery with 75% Phase-detection Probability by Precoding and Integration-Hold-Reset Frontend**," IEEE Trans. Circuits and Syst. II: Express Briefs, 2023.
 
 #### 2022
 ![badge](https://img.shields.io/badge/Wiley-ETRIJ-green) E. Song, S. Park, and J. Han, "**Transition-Limited Pulse-Amplitude Modulation Technique for High-Speed Wireline Communication Systems**," ETRI J., Nov. 2022.
+
 ![badge](https://img.shields.io/badge/IEEK-JSTS-green) E. Lee, and J. Han, "**Time-domain Continuous-time Delta-sigma Modulator using VCO-based Integrator and GRO-based Quantizer**," J. Semicond. Technol. Sci., Aug. 2022.
+
 ![badge](https://img.shields.io/badge/IEEE-TCAS--I-orange) E. Lee, C. Pyo, S. Lee, and J. Han, "**A 1.5-GS/s 6-bit Single-Channel Loop-Unrolled SAR ADC With Speculative CDAC Switching Control Technique in 28-nm CMOS**," IEEE Trans. Circuits and Syst. I: Regular Papers, Jun. 2022.
+
 ![badge](https://img.shields.io/badge/IEEE-Access-green) T. No, S. Choi, G. Sung, S.-B. Kim, J. Han, and Y.-H. Song, "**A Discharge-Path-Based Sensing Circuit with OTS Snapback Current Protection for Phase Change Memories**," IEEE Access, vol. 10, pp. 53513-53521, May 2022.
+
+#### 2021
+
 9. **[Electronics'21]** G. Park, J. Han, and W. Bae, "**Design and Analysis of Asynchronous Sampling Duty Cycle Corrector**," MDPI Electronics, Oct. 2021.
 10. **[JSSC’21, ISSCC'21]** Z. Wang, M. Choi, K. Lee, K. Park, Z. Liu, A. Biswas, J. Han, S. Du, and E. Alon, "**An Output Bandwidth Optimized 200 Gb/s PAM-4 100 Gb/s NRZ Transmitter with 5-Tap FFE in 28nm CMOS**," IEEE J. Solid-State Circuits, Special Issue on the 2021 International Solid State Circuits Conference (ISSCC 2021), Vol. 57, No. 1, pp. 21-31, Sep. 2021.
 11. **[TCAS-I'21]** J. Han, W. Bae, E. Y. Chang, Z. Wang, B. Nikolić, and E. Alon, "**LAYGO: A Template-and-Grid-Based Layout Generation Engine for Advanced CMOS Technologies**," IEEE Trans. Circuits and Syst. I: Regular Papers, vol. 68, no. 3, pp. 1012–1022, Mar. 2021.
