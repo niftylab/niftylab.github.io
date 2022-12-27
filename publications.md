@@ -19,7 +19,7 @@ E. Song, S. Park, and J. Han, "**Transition-Limited Pulse-Amplitude Modulation T
 ![badge](https://img.shields.io/badge/IEEK-JSTS-blue)  
 E. Lee, and J. Han, "**Time-domain Continuous-time Delta-sigma Modulator using VCO-based Integrator and GRO-based Quantizer**," J. Semicond. Technol. Sci., Aug. 2022.
 
-![badge](https://img.shields.io/badge/IEEE-TCAS--I-blue)  
+![badge](https://img.shields.io/badge/IEEE-TCAS--I-red)  
 E. Lee, C. Pyo, S. Lee, and J. Han, "**A 1.5-GS/s 6-bit Single-Channel Loop-Unrolled SAR ADC With Speculative CDAC Switching Control Technique in 28-nm CMOS**," IEEE Trans. Circuits and Syst. I: Regular Papers, Jun. 2022.
 
 ![badge](https://img.shields.io/badge/IEEE-Access-blue)  
@@ -32,7 +32,7 @@ G. Park, J. Han, and W. Bae, "**Design and Analysis of Asynchronous Sampling Dut
 ![badge](https://img.shields.io/badge/IEEE-JSSC--ISSCC-red)  
 Z. Wang, M. Choi, K. Lee, K. Park, Z. Liu, A. Biswas, J. Han, S. Du, and E. Alon, "**An Output Bandwidth Optimized 200 Gb/s PAM-4 100 Gb/s NRZ Transmitter with 5-Tap FFE in 28nm CMOS**," IEEE J. Solid-State Circuits, Special Issue on the 2021 International Solid State Circuits Conference (ISSCC 2021), Vol. 57, No. 1, pp. 21-31, Sep. 2021.
 
-![badge](https://img.shields.io/badge/IEEE-TCAS--I-blue)   
+![badge](https://img.shields.io/badge/IEEE-TCAS--I-red)   
 J. Han, W. Bae, E. Y. Chang, Z. Wang, B. Nikolić, and E. Alon, "**LAYGO: A Template-and-Grid-Based Layout Generation Engine for Advanced CMOS Technologies**," IEEE Trans. Circuits and Syst. I: Regular Papers, vol. 68, no. 3, pp. 1012–1022, Mar. 2021.
 
 #### Prior to 2021
