@@ -28,8 +28,10 @@ T. No, S. Choi, G. Sung, S.-B. Kim, J. Han, and Y.-H. Song, "**A Discharge-Path-
 #### 2021
 ![badge](https://img.shields.io/badge/MDPI-Electronics-blue)  
 G. Park, J. Han, and W. Bae, "**Design and Analysis of Asynchronous Sampling Duty Cycle Corrector**," MDPI Electronics, Oct. 2021.
+
 ![badge](https://img.shields.io/badge/IEEE-JSSC--ISSCC-red)  
 Z. Wang, M. Choi, K. Lee, K. Park, Z. Liu, A. Biswas, J. Han, S. Du, and E. Alon, "**An Output Bandwidth Optimized 200 Gb/s PAM-4 100 Gb/s NRZ Transmitter with 5-Tap FFE in 28nm CMOS**," IEEE J. Solid-State Circuits, Special Issue on the 2021 International Solid State Circuits Conference (ISSCC 2021), Vol. 57, No. 1, pp. 21-31, Sep. 2021.
+
 ![badge](https://img.shields.io/badge/IEEE-TCAS--I-blue)   
 J. Han, W. Bae, E. Y. Chang, Z. Wang, B. Nikolić, and E. Alon, "**LAYGO: A Template-and-Grid-Based Layout Generation Engine for Advanced CMOS Technologies**," IEEE Trans. Circuits and Syst. I: Regular Papers, vol. 68, no. 3, pp. 1012–1022, Mar. 2021.
 
