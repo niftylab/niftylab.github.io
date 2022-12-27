@@ -13,16 +13,16 @@ H. Kim, H. Seo, Y. Jo, C. Yoo, and J. Han, "**An 8b9b 77.44-Gb/s Noise-Immune Sp
 H. Seo, J. Han, K. Kim, B. Lim, E. Shin, Y. Choi, H. Ko, J. Choi, S. Lee, C. Yoo, and J. Han, "**A 12-Gb/s Baud-rate Clock and Data Recovery with 75% Phase-detection Probability by Precoding and Integration-Hold-Reset Frontend**," IEEE Trans. Circuits and Syst. II: Express Briefs, 2023.
 
 #### 2022
-![badge](https://img.shields.io/badge/Wiley-ETRIJ-green)  
+![badge](https://img.shields.io/badge/Wiley-ETRIJ-blue)  
 E. Song, S. Park, and J. Han, "**Transition-Limited Pulse-Amplitude Modulation Technique for High-Speed Wireline Communication Systems**," ETRI J., Nov. 2022.
 
-![badge](https://img.shields.io/badge/IEEK-JSTS-green)  
+![badge](https://img.shields.io/badge/IEEK-JSTS-blue)  
 E. Lee, and J. Han, "**Time-domain Continuous-time Delta-sigma Modulator using VCO-based Integrator and GRO-based Quantizer**," J. Semicond. Technol. Sci., Aug. 2022.
 
-![badge](https://img.shields.io/badge/IEEE-TCAS--I-orange)  
+![badge](https://img.shields.io/badge/IEEE-TCAS--I-blue)  
 E. Lee, C. Pyo, S. Lee, and J. Han, "**A 1.5-GS/s 6-bit Single-Channel Loop-Unrolled SAR ADC With Speculative CDAC Switching Control Technique in 28-nm CMOS**," IEEE Trans. Circuits and Syst. I: Regular Papers, Jun. 2022.
 
-![badge](https://img.shields.io/badge/IEEE-Access-green)  
+![badge](https://img.shields.io/badge/IEEE-Access-blue)  
 T. No, S. Choi, G. Sung, S.-B. Kim, J. Han, and Y.-H. Song, "**A Discharge-Path-Based Sensing Circuit with OTS Snapback Current Protection for Phase Change Memories**," IEEE Access, vol. 10, pp. 53513-53521, May 2022.
 
 #### 2021
