@@ -5,8 +5,8 @@ layout: default
 ## Nifty Papers
 
 ### Peer-reviewed Journal Articles
-![version](https://img.shields.io/badge/IEEE-TCAS--II-blue)
-3. **[TCAS-II'23]** H. Kim, H. Seo, Y. Jo, C. Yoo, and J. Han, "**An 8b9b 77.44-Gb/s Noise-Immune Spatial-Delta Coded Transceiver for Short-Reach Memory Interfaces in 28-nm CMOS**," IEEE Trans. Circuits and Syst. II: Express Briefs, 2023. 
+#### 2023
+3. ![TCAS-II](https://img.shields.io/badge/IEEE-TCAS--II-blue) H. Kim, H. Seo, Y. Jo, C. Yoo, and J. Han, "**An 8b9b 77.44-Gb/s Noise-Immune Spatial-Delta Coded Transceiver for Short-Reach Memory Interfaces in 28-nm CMOS**," IEEE Trans. Circuits and Syst. II: Express Briefs, 2023. 
 3. **[TCAS-II'23]** H. Seo, J. Han, K. Kim, B. Lim, E. Shin, Y. Choi, H. Ko, J. Choi, S. Lee, C. Yoo, and J. Han, "**A 12-Gb/s Baud-rate Clock and Data Recovery with 75% Phase-detection Probability by Precoding and Integration-Hold-Reset Frontend**," IEEE Trans. Circuits and Syst. II: Express Briefs, 2023.
 4. **[ETRIJ'22]** E. Song, S. Park, and J. Han, "**Transition-Limited Pulse-Amplitude Modulation Technique for High-Speed Wireline Communication Systems**," ETRI J., Nov. 2022.
 5. **[JSTS'22]** E. Lee, and J. Han, "**Time-domain Continuous-time Delta-sigma Modulator using VCO-based Integrator and GRO-based Quantizer**," J. Semicond. Technol. Sci., Aug. 2022.
