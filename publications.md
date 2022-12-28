@@ -78,7 +78,7 @@ Gaeryun Sung and Jaeduk Han, “**High-speed StrongARM-latch-based Bang-bang Pha
 ![badge](https://img.shields.io/badge/IEEE-ISSCC-red)  
 M. Choi, Z. Wang, K. Lee, K. Park, Z. Liu, A. Biswas, J. Han, and E. Alon, “**An output bandwidth optimized 200Gb/s PAM-4 / 100Gb/s NRZ transmitter with 5-Tap FFE in 28nm CMOS**,” in IEEE Int. Solid-State Circuits Conf., Feb. 2021.
 
-![badge](https://img.shields.io/badge/ACM-DATE-blue)  
+![badge](https://img.shields.io/badge/ACM-DATE-red)  
 Y. Yoon, D. Han, S. Chu, S. Lee, J. Han and J. Chun, “**Process-Portable and Programmable Layout Generation of Digital Circuits in Advanced DRAM Technologies**,” in Proc. Design, Autom. Test Eur. Conf., Feb. 2021.
 
 #### Prior to 2021
