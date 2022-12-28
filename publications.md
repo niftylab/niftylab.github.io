@@ -47,31 +47,57 @@ J. Han, W. Bae, E. Y. Chang, Z. Wang, B. Nikolić, and E. Alon, "**LAYGO: A Temp
 20. **[TCPMT’13]** W. Y. Shin, G. M. Hong, H. Lee, J. D. Han, K. S. Park, D. H. Lim, S. Kim, D. Shim, J. H. Chun, D. K. Jeong, and S. Kim, "**4-Slot, 8-Drop Impedance-Matched Bidirectional Multidrop DQ Bus With a 4.8-Gb/s Memory Controller Transceiver**," IEEE Trans. Compon., Packag. and Manuf. Technol., vol. 3, no. 5, pp. 858-869, May. 2013.
 
 ### Peer-reviewed Conference Papers
-1. **[ISSCC'23]** _(accepted)_ J. Yang, E. Song, S. Hong, D. Lee, S. Lee, H. Im, T. Shin, and J. Han, "**A 100Gb/s 1.6Vppd PAM-8 Transmitter with High-Swing 3+1 Hybrid FFE Taps in 40nm**," in IEEE Int. Solid-State Circuits Conf., Feb. 2023.
-1. **[ICCD'22]** Y. Su, S. Lee, E. Song, D. Kim, J. Han, and H. Kim, "**Energy-Efficient Bus Encoding Techniques for Next-Generation PAM-4 DRAM Interfaces**," in Proceedings of the 40th IEEE Int. Conf. Comput. Des. (ICCD 2022), Oct. 2022.
-1. **[MWSCAS'22]** E. Song, J. Yang, S. Hong, and J. Han, "**A 32-Gb/S High-Swing PAM-4 Current-Mode Driver with Current-Bleeding Cascode Technique and Capacitive-Coupled Pre-Drivers in 40-nm CMOS for Short-Reach Wireline Communication**,” in IEEE Int. Midwest Symp. on Circuits and Syst., Aug. 2022.
-1. **[VLSI’22]** Z. Wang, M. Choi, P. Kwon, K. Lee, B. Yin, Z. Liu, K. Park, A. Biswas, J. Han, S. Du, E. Alon, “**A 200Gb/s PAM-4 Transmitter with Hybrid Sub-Sampling PLL in 28nm CMOS Technology**,” in IEEE Int. Symp. VLSI Circuits, Jun. 2022.
-1. **[ISCAS'22]** Z. Wang, M. Choi, J. Wright, K. Lee, Z. Liu, B. Yin, J. Han, S. Du, E. Alon, “**A Ring-Oscillator Sub-Sampling PLL with Hybrid Loop Using Generator-Based Design Flow**,” in IEEE Int. Symp. on Circuits and Syst., May. 2022.
-1. **[ISOCC'21]** Taeho Shin and Jaeduk Han, “**A SCAN Chain Generator for Verification of Full-Custom Integrated Circuits**,” in IEEE 18th Int. SoC Design Conf., Oct. 2021.
-1. **[ISOCC'21]** Dongjun Lee and Jaeduk Han, “**Design Techniques for Area-efficient Two-Stacked Current Sources in Nanometer CMOS Technology**,” in IEEE 18th Int. SoC Design Conf., Oct. 2021.
-1. **[ISOCC'21]** Gaeryun Sung and Jaeduk Han, “**High-speed StrongARM-latch-based Bang-bang Phase Detector in 40-nm CMOS Technology**,” in IEEE 18th Int. SoC Design Conf., Oct. 2021.
-1. **[ISSCC’21]** M. Choi, Z. Wang, K. Lee, K. Park, Z. Liu, A. Biswas, J. Han, and E. Alon, “**An output bandwidth optimized 200Gb/s PAM-4 / 100Gb/s NRZ transmitter with 5-Tap FFE in 28nm CMOS**,” in IEEE Int. Solid-State Circuits Conf., Feb. 2021.
-1. **[DATE’21]** Y. Yoon, D. Han, S. Chu, S. Lee, J. Han and J. Chun, “**Process-Portable and Programmable Layout Generation of Digital Circuits in Advanced DRAM Technologies**,” in Proc. Design, Autom. Test Eur. Conf., Feb. 2021.
-1. **[ISOCC’20]** Taeung No and Jaeduk Han, “**Design Techniques for Robust and Area-efficient Current Sources in Nanometer CMOS Technology**,” in IEEE 17th Int. SoC Design Conf., Oct. 2020.
-1. **[ISOCC’19, Invited]** Jaeduk Han, Eric Chang, Elad Alon, “**Design and Automatic Generation of High-Speed Circuits for Wireline Communications**,” in IEEE 16th Int. SoC Design Conf., 8 Oct. 2019, pp. 40-41.
-1. **[ESSCIRC’19]** Nicholas Sutardja, Jaeduk Han, Nathan Narevsky, Elad Alon, Borivoje Nikolić, “**A 2-tap switched capacitor FFE transmitter achieving 1-20 Gb/s at 0.72-0.62 pJ/bit**,” in IEEE Eur. Solid-State Circuits Conf., Sep. 2019, pp. 273-276.
-1. **[CICC’19]** Jaeduk Han, Eric Chang, Stevo Bailey, Zhongkai Wang, Woorham Bae, Angie Wang, Nathan Narevsky, Amy Whitcombe, Pengpeng Lu, Borivoje Nikolic, Elad Alon, “**A Generated 7GS/s 8b Time-Interleaved SAR ADC with 38.2dB SNDR at Nyquist in 16nm CMOS FinFET**,” in IEEE Custom Integr. Circuits Conf., 17 Apr. 2019, pp. 1-4.
-1. **[ASSCC’18]** Stevo Bailey, Jaeduk Han, Paul Rigge, Richard Lin, Eric Chang, Howard Mao, Zhongkai Wang, Chick Markley, Adam Izraelevitz, Angie Wang, Nathan Narevsky, Woorham Bae, Steve Shauck, Sergio Montano, Justin Norsworthy, Munir Razzaque, Wen Hau Ma, Akalu Lentiro, Matthew Doerflein, Darin Heckendorn, Jim McGrath, Franco DeSeta, Ronen Shoham, Mike Stellfox, Mark Snowden, Joseph Cole, Dan Fuhrman, Brian Richards, Jonathan Bachrach, Elad Alon, and Borivoje Nikolic ́, “**A Generated Multirate Signal Analysis RISC-V SoC in 16nm FinFET**,” in IEEE Asian Solid-State Circuits Conf,, Nov. 2018, pp. 285-288.
-1. **[ECCE’18]** Yongjun Li, Jaeduk Han, Seth. A. Sanders, “**A Low-Cost AC Direct LED Driver with Reduced Flicker using Triac**,” in IEEE Energy Convers. Congress and Exposition, Sep. 2018, pp. 4738-4743.
-1. **[ESSCIRC’18]** Angie Wang, Woorham Bae, Jaeduk Han, Stevo Bailey, Paul Rigge, Orhan Ocal, Zhongkai Wang, Kannan Ramchandran, Elad Alon, Borivoje Nikolić, “**A Real-Time, Analog/Digital Co-Designed 1.89-GHz Bandwidth, 175-KHz Resolution Sparse Spectral Analysis RISC-V SoC in 16-nm FinFET**,” in IEEE European Solid-State Circuits Conference, Sep. 2018.
-1. **[VLSI’18]** Eric Chang, Nathan Narevsky, Jaeduk Han, Elad Alon, “**An Automated SerDes Frontend Generator Verified with a 16nm Instance Achieving 15 Gb/s at 1.96 pJ/bit**,” in IEEE Int. Symp. VLSI Circuits, Jun. 2018, pp. 153-154.
-1. **[CICC’18, Invited]** Eric Chang, Jaeduk Han, Woorham Bae, Zhongkai Wang, Nathan Narevsky, Guanghua Shu, Frankie Liu, Borivoje Nikolić, Elad Alon, “**BAG2: A Process-Portable Framework for Generator-Based AMS Circuit Design**,” in IEEE Custom Integr. Circuits Conf., Apr. 2018, pp.1-8.
-1. **[ASSCC’17]** Angie Wang, Brian Richards, Palmer Dabbelt, Howard Mao, Stevo Bailey, Jaeduk Han, Eric Chang, James Dunn, Elad Alon, Borivoje Nikolić, “**A 0.37mm2 LTE/Wi-Fi Compatible, Memory-Based, Runtime-Reconfigurable 2n3m5k FFT Accelerator for RISC-V Rocket Core in 16nm FinFET**," in IEEE Asian Solid-State Circuits Conf., Nov. 2017, pp. 305-307.
-1. **[ISSCC’17]** Jaeduk Han, Yue Lu, Nicholas Sutardja, Elad Alon, "**A 60Gb/s 288mW NRZ Transceiver with Adaptive Equalization and Baud-Rate Clock and Data Recovery in 65nm CMOS Technology**," in IEEE Int. Solid-State Circuits Conf., Feb. 2017, pp. 112-113.
-1. **[ISSCC’17]** J. Im, D. Freitas, A. Roldan, R. Casey, S. Chen, A. Chou, T. Cronin, K. Geary, S. McLeod, L. Zhou, I. Zhuang, J. Han, S. Lin, P. Upadhyaya, G. Zhang, Y. Frans, K. Chang, “**A 40-to-56Gb/s PAM-4 Receiver with 10-Tap Direct Decision-Feedback Equalization in 16nm FinFET**,” in IEEE Int. Solid-State Circuits Conf., Feb. 2017, pp. 114-115.
-1. **[VLSI’15]** Jaeduk Han, Yue Lu, Nicholas Sutardja, Kwangmo Jung, Elad Alon, "**A 60Gb/s 173mW Receiver Frontend in 65nm CMOS technology**," in IEEE Int. Symp. VLSI Circuits, Jun. 2015, pp. 230-231.
-1. **[ISSCC’11]** Woo-Yeol Shin, Gi-Moon Hong, Hyongmin Lee, Jae-Duk Han, Sunkwon Kim, Kyu-Sang Park, Dong-Hyuk Lim, Jung-Hoon Chun, Deog-Kyoon Jeong, Suhwan Kim, "**A 4.8Gb/s impedance-matched bidirectional multi-drop transceiver for high-capacity memory interface**," in IEEE Int. Solid-State Circuits Conf., Feb. 2011, pp.494-496.
-1. **[ASSCC’10]** J. D. Han, W-Y. Shin, W-S. Choi, J-H. Chun, S. Kim, D-K. Jeong, "**A 5-Gb/s digitally controlled 3-tap DFE receiver for serial communications**," in IEEE Asian Solid-State Circuits Conf., Nov. 2010, pp.1-4.
+
+#### 2023
+![badge](https://img.shields.io/badge/IEEE-ISSCC-red)  
+_(accepted)_ J. Yang, E. Song, S. Hong, D. Lee, S. Lee, H. Im, T. Shin, and J. Han, "**A 100Gb/s 1.6Vppd PAM-8 Transmitter with High-Swing 3+1 Hybrid FFE Taps in 40nm**," in IEEE Int. Solid-State Circuits Conf., Feb. 2023.
+
+#### 2022
+![badge](https://img.shields.io/badge/IEEE-ICCD-blue)  
+Y. Su, S. Lee, E. Song, D. Kim, J. Han, and H. Kim, "**Energy-Efficient Bus Encoding Techniques for Next-Generation PAM-4 DRAM Interfaces**," in Proceedings of the 40th IEEE Int. Conf. Comput. Des. (ICCD 2022), Oct. 2022.
+
+![badge](https://img.shields.io/badge/IEEE-MWSCAS-blue)  
+E. Song, J. Yang, S. Hong, and J. Han, "**A 32-Gb/S High-Swing PAM-4 Current-Mode Driver with Current-Bleeding Cascode Technique and Capacitive-Coupled Pre-Drivers in 40-nm CMOS for Short-Reach Wireline Communication**,” in IEEE Int. Midwest Symp. on Circuits and Syst., Aug. 2022.
+
+![badge](https://img.shields.io/badge/IEEE-VLSI-red)  
+Z. Wang, M. Choi, P. Kwon, K. Lee, B. Yin, Z. Liu, K. Park, A. Biswas, J. Han, S. Du, E. Alon, “**A 200Gb/s PAM-4 Transmitter with Hybrid Sub-Sampling PLL in 28nm CMOS Technology**,” in IEEE Int. Symp. VLSI Circuits, Jun. 2022.
+
+![badge](https://img.shields.io/badge/IEEE-ISCAS-blue)  
+Z. Wang, M. Choi, J. Wright, K. Lee, Z. Liu, B. Yin, J. Han, S. Du, E. Alon, “**A Ring-Oscillator Sub-Sampling PLL with Hybrid Loop Using Generator-Based Design Flow**,” in IEEE Int. Symp. on Circuits and Syst., May. 2022.
+
+#### 2021
+![badge](https://img.shields.io/badge/IEEE-ISOCC-blue)  
+Taeho Shin and Jaeduk Han, “**A SCAN Chain Generator for Verification of Full-Custom Integrated Circuits**,” in IEEE 18th Int. SoC Design Conf., Oct. 2021.
+
+![badge](https://img.shields.io/badge/IEEE-ISOCC-blue)  
+Dongjun Lee and Jaeduk Han, “**Design Techniques for Area-efficient Two-Stacked Current Sources in Nanometer CMOS Technology**,” in IEEE 18th Int. SoC Design Conf., Oct. 2021.
+
+![badge](https://img.shields.io/badge/IEEE-ISOCC-blue)  
+Gaeryun Sung and Jaeduk Han, “**High-speed StrongARM-latch-based Bang-bang Phase Detector in 40-nm CMOS Technology**,” in IEEE 18th Int. SoC Design Conf., Oct. 2021.
+
+![badge](https://img.shields.io/badge/IEEE-ISSCC-red)  
+M. Choi, Z. Wang, K. Lee, K. Park, Z. Liu, A. Biswas, J. Han, and E. Alon, “**An output bandwidth optimized 200Gb/s PAM-4 / 100Gb/s NRZ transmitter with 5-Tap FFE in 28nm CMOS**,” in IEEE Int. Solid-State Circuits Conf., Feb. 2021.
+
+![badge](https://img.shields.io/badge/ACM-DATE-blue)  
+Y. Yoon, D. Han, S. Chu, S. Lee, J. Han and J. Chun, “**Process-Portable and Programmable Layout Generation of Digital Circuits in Advanced DRAM Technologies**,” in Proc. Design, Autom. Test Eur. Conf., Feb. 2021.
+
+#### Prior to 2021
+
+7. **[ISOCC’20]** Taeung No and Jaeduk Han, “**Design Techniques for Robust and Area-efficient Current Sources in Nanometer CMOS Technology**,” in IEEE 17th Int. SoC Design Conf., Oct. 2020.
+8. **[ISOCC’19, Invited]** Jaeduk Han, Eric Chang, Elad Alon, “**Design and Automatic Generation of High-Speed Circuits for Wireline Communications**,” in IEEE 16th Int. SoC Design Conf., 8 Oct. 2019, pp. 40-41.
+9. **[ESSCIRC’19]** Nicholas Sutardja, Jaeduk Han, Nathan Narevsky, Elad Alon, Borivoje Nikolić, “**A 2-tap switched capacitor FFE transmitter achieving 1-20 Gb/s at 0.72-0.62 pJ/bit**,” in IEEE Eur. Solid-State Circuits Conf., Sep. 2019, pp. 273-276.
+10. **[CICC’19]** Jaeduk Han, Eric Chang, Stevo Bailey, Zhongkai Wang, Woorham Bae, Angie Wang, Nathan Narevsky, Amy Whitcombe, Pengpeng Lu, Borivoje Nikolic, Elad Alon, “**A Generated 7GS/s 8b Time-Interleaved SAR ADC with 38.2dB SNDR at Nyquist in 16nm CMOS FinFET**,” in IEEE Custom Integr. Circuits Conf., 17 Apr. 2019, pp. 1-4.
+11. **[ASSCC’18]** Stevo Bailey, Jaeduk Han, Paul Rigge, Richard Lin, Eric Chang, Howard Mao, Zhongkai Wang, Chick Markley, Adam Izraelevitz, Angie Wang, Nathan Narevsky, Woorham Bae, Steve Shauck, Sergio Montano, Justin Norsworthy, Munir Razzaque, Wen Hau Ma, Akalu Lentiro, Matthew Doerflein, Darin Heckendorn, Jim McGrath, Franco DeSeta, Ronen Shoham, Mike Stellfox, Mark Snowden, Joseph Cole, Dan Fuhrman, Brian Richards, Jonathan Bachrach, Elad Alon, and Borivoje Nikolic ́, “**A Generated Multirate Signal Analysis RISC-V SoC in 16nm FinFET**,” in IEEE Asian Solid-State Circuits Conf,, Nov. 2018, pp. 285-288.
+12. **[ECCE’18]** Yongjun Li, Jaeduk Han, Seth. A. Sanders, “**A Low-Cost AC Direct LED Driver with Reduced Flicker using Triac**,” in IEEE Energy Convers. Congress and Exposition, Sep. 2018, pp. 4738-4743.
+13. **[ESSCIRC’18]** Angie Wang, Woorham Bae, Jaeduk Han, Stevo Bailey, Paul Rigge, Orhan Ocal, Zhongkai Wang, Kannan Ramchandran, Elad Alon, Borivoje Nikolić, “**A Real-Time, Analog/Digital Co-Designed 1.89-GHz Bandwidth, 175-KHz Resolution Sparse Spectral Analysis RISC-V SoC in 16-nm FinFET**,” in IEEE European Solid-State Circuits Conference, Sep. 2018.
+14. **[VLSI’18]** Eric Chang, Nathan Narevsky, Jaeduk Han, Elad Alon, “**An Automated SerDes Frontend Generator Verified with a 16nm Instance Achieving 15 Gb/s at 1.96 pJ/bit**,” in IEEE Int. Symp. VLSI Circuits, Jun. 2018, pp. 153-154.
+15. **[CICC’18, Invited]** Eric Chang, Jaeduk Han, Woorham Bae, Zhongkai Wang, Nathan Narevsky, Guanghua Shu, Frankie Liu, Borivoje Nikolić, Elad Alon, “**BAG2: A Process-Portable Framework for Generator-Based AMS Circuit Design**,” in IEEE Custom Integr. Circuits Conf., Apr. 2018, pp.1-8.
+16. **[ASSCC’17]** Angie Wang, Brian Richards, Palmer Dabbelt, Howard Mao, Stevo Bailey, Jaeduk Han, Eric Chang, James Dunn, Elad Alon, Borivoje Nikolić, “**A 0.37mm2 LTE/Wi-Fi Compatible, Memory-Based, Runtime-Reconfigurable 2n3m5k FFT Accelerator for RISC-V Rocket Core in 16nm FinFET**," in IEEE Asian Solid-State Circuits Conf., Nov. 2017, pp. 305-307.
+17. **[ISSCC’17]** Jaeduk Han, Yue Lu, Nicholas Sutardja, Elad Alon, "**A 60Gb/s 288mW NRZ Transceiver with Adaptive Equalization and Baud-Rate Clock and Data Recovery in 65nm CMOS Technology**," in IEEE Int. Solid-State Circuits Conf., Feb. 2017, pp. 112-113.
+18. **[ISSCC’17]** J. Im, D. Freitas, A. Roldan, R. Casey, S. Chen, A. Chou, T. Cronin, K. Geary, S. McLeod, L. Zhou, I. Zhuang, J. Han, S. Lin, P. Upadhyaya, G. Zhang, Y. Frans, K. Chang, “**A 40-to-56Gb/s PAM-4 Receiver with 10-Tap Direct Decision-Feedback Equalization in 16nm FinFET**,” in IEEE Int. Solid-State Circuits Conf., Feb. 2017, pp. 114-115.
+19. **[VLSI’15]** Jaeduk Han, Yue Lu, Nicholas Sutardja, Kwangmo Jung, Elad Alon, "**A 60Gb/s 173mW Receiver Frontend in 65nm CMOS technology**," in IEEE Int. Symp. VLSI Circuits, Jun. 2015, pp. 230-231.
+20. **[ISSCC’11]** Woo-Yeol Shin, Gi-Moon Hong, Hyongmin Lee, Jae-Duk Han, Sunkwon Kim, Kyu-Sang Park, Dong-Hyuk Lim, Jung-Hoon Chun, Deog-Kyoon Jeong, Suhwan Kim, "**A 4.8Gb/s impedance-matched bidirectional multi-drop transceiver for high-capacity memory interface**," in IEEE Int. Solid-State Circuits Conf., Feb. 2011, pp.494-496.
+21. **[ASSCC’10]** J. D. Han, W-Y. Shin, W-S. Choi, J-H. Chun, S. Kim, D-K. Jeong, "**A 5-Gb/s digitally controlled 3-tap DFE receiver for serial communications**," in IEEE Asian Solid-State Circuits Conf., Nov. 2010, pp.1-4.
 
 ### Domestic Journal/Conference Papers
 1. **[RFANA’21]** S. Lee and J. Han, “**Reset D-FlipFlop을 사용한 저전력 PFD**,” in 21th RF/Analog Circuit Workshop, Oct. 2021.
