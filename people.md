@@ -17,8 +17,6 @@ layout: default
 
 #### PhD / MS-PhD students
 
-이은상(Eunsang Lee) 석박통합과정 14기 leees904@hanyang.ac.kr
-
 서형민(Hyeongmin Seo) 석박통합과정 8기 shm6878@hanyang.ac.kr
 
 김현태(Hyuntae Kim) 석박통합과정 7기 hyuntae@hanyang.ac.kr
@@ -46,10 +44,6 @@ layout: default
 
 
 #### MS students
-
-송은지(Eunji Song) 석사과정 4기 eunji1412@hanyang.ac.kr
-
-신욱진(Wookjin Shin) 석사과정 4기
 
 염선오(Sunoh Yeom) 석사과정 3기 qwe1123ok@hanyang.ac.kr
 
@@ -91,6 +85,13 @@ layout: default
 이무석(Moosuk Lee) MS, Class of 2022, DB Hitek
 
 박기진(Gijin Park) BS, Class of 2022, TAMU 박사과정
+
+이은상(Eunsang Lee) Ph.D, Class of 2023, 삼성전자
+
+송은지(Eunji Song) MS, Class of 2023, SK하이닉스
+
+신욱진(Wookjin Shin) MS, Class of 2023, SK하이닉스
+
 
 
 [back](./)
