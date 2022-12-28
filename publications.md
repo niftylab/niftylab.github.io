@@ -81,9 +81,12 @@ M. Choi, Z. Wang, K. Lee, K. Park, Z. Liu, A. Biswas, J. Han, and E. Alon, “**
 ![badge](https://img.shields.io/badge/IEEE-DATE-blue)  
 Y. Yoon, D. Han, S. Chu, S. Lee, J. Han and J. Chun, “**Process-Portable and Programmable Layout Generation of Digital Circuits in Advanced DRAM Technologies**,” in Proc. Design, Autom. Test Eur. Conf., Feb. 2021.
 
-#### Prior to 2021
+#### 2020
+![badge](https://img.shields.io/badge/IEEE-ISOCC-blue)  
+Taeung No and Jaeduk Han, “**Design Techniques for Robust and Area-efficient Current Sources in Nanometer CMOS Technology**,” in IEEE 17th Int. SoC Design Conf., Oct. 2020.
 
-1. **[ISOCC’20]** Taeung No and Jaeduk Han, “**Design Techniques for Robust and Area-efficient Current Sources in Nanometer CMOS Technology**,” in IEEE 17th Int. SoC Design Conf., Oct. 2020.
+#### Prior to 2020
+
 1. **[ISOCC’19, Invited]** Jaeduk Han, Eric Chang, Elad Alon, “**Design and Automatic Generation of High-Speed Circuits for Wireline Communications**,” in IEEE 16th Int. SoC Design Conf., 8 Oct. 2019, pp. 40-41.
 1. **[ESSCIRC’19]** Nicholas Sutardja, Jaeduk Han, Nathan Narevsky, Elad Alon, Borivoje Nikolić, “**A 2-tap switched capacitor FFE transmitter achieving 1-20 Gb/s at 0.72-0.62 pJ/bit**,” in IEEE Eur. Solid-State Circuits Conf., Sep. 2019, pp. 273-276.
 1. **[CICC’19]** Jaeduk Han, Eric Chang, Stevo Bailey, Zhongkai Wang, Woorham Bae, Angie Wang, Nathan Narevsky, Amy Whitcombe, Pengpeng Lu, Borivoje Nikolic, Elad Alon, “**A Generated 7GS/s 8b Time-Interleaved SAR ADC with 38.2dB SNDR at Nyquist in 16nm CMOS FinFET**,” in IEEE Custom Integr. Circuits Conf., 17 Apr. 2019, pp. 1-4.
