@@ -19,7 +19,7 @@ E. Song, S. Park, and J. Han, "**Transition-Limited Pulse-Amplitude Modulation T
 ![badge](https://img.shields.io/badge/IEEK-JSTS-blue)  
 E. Lee, and J. Han, "**Time-domain Continuous-time Delta-sigma Modulator using VCO-based Integrator and GRO-based Quantizer**," J. Semicond. Technol. Sci., Aug. 2022.
 
-![badge](https://img.shields.io/badge/IEEE-TCAS--I-red)  
+![badge](https://img.shields.io/badge/IEEE-TCAS--I-blue)  
 E. Lee, C. Pyo, S. Lee, and J. Han, "**A 1.5-GS/s 6-bit Single-Channel Loop-Unrolled SAR ADC With Speculative CDAC Switching Control Technique in 28-nm CMOS**," IEEE Trans. Circuits and Syst. I: Regular Papers, Jun. 2022.
 
 ![badge](https://img.shields.io/badge/IEEE-Access-blue)  
@@ -29,10 +29,10 @@ T. No, S. Choi, G. Sung, S.-B. Kim, J. Han, and Y.-H. Song, "**A Discharge-Path-
 ![badge](https://img.shields.io/badge/MDPI-Electronics-blue)  
 G. Park, J. Han, and W. Bae, "**Design and Analysis of Asynchronous Sampling Duty Cycle Corrector**," MDPI Electronics, Oct. 2021.
 
-![badge](https://img.shields.io/badge/IEEE-JSSC--ISSCC-red)  
+![badge](https://img.shields.io/badge/IEEE-JSSC--ISSCC-blue)  
 Z. Wang, M. Choi, K. Lee, K. Park, Z. Liu, A. Biswas, J. Han, S. Du, and E. Alon, "**An Output Bandwidth Optimized 200 Gb/s PAM-4 100 Gb/s NRZ Transmitter with 5-Tap FFE in 28nm CMOS**," IEEE J. Solid-State Circuits, Special Issue on the 2021 International Solid State Circuits Conference (ISSCC 2021), Vol. 57, No. 1, pp. 21-31, Sep. 2021.
 
-![badge](https://img.shields.io/badge/IEEE-TCAS--I-red)   
+![badge](https://img.shields.io/badge/IEEE-TCAS--I-blue)   
 J. Han, W. Bae, E. Y. Chang, Z. Wang, B. Nikolić, and E. Alon, "**LAYGO: A Template-and-Grid-Based Layout Generation Engine for Advanced CMOS Technologies**," IEEE Trans. Circuits and Syst. I: Regular Papers, vol. 68, no. 3, pp. 1012–1022, Mar. 2021.
 
 #### Prior to 2021
@@ -49,7 +49,7 @@ J. Han, W. Bae, E. Y. Chang, Z. Wang, B. Nikolić, and E. Alon, "**LAYGO: A Temp
 ### Peer-reviewed Conference Papers
 
 #### 2023
-![badge](https://img.shields.io/badge/IEEE-ISSCC-red)  
+![badge](https://img.shields.io/badge/IEEE-ISSCC-blue)  
 _(accepted)_ J. Yang, E. Song, S. Hong, D. Lee, S. Lee, H. Im, T. Shin, and J. Han, "**A 100Gb/s 1.6Vppd PAM-8 Transmitter with High-Swing 3+1 Hybrid FFE Taps in 40nm**," in IEEE Int. Solid-State Circuits Conf., Feb. 2023.
 
 #### 2022
@@ -59,7 +59,7 @@ Y. Su, S. Lee, E. Song, D. Kim, J. Han, and H. Kim, "**Energy-Efficient Bus Enco
 ![badge](https://img.shields.io/badge/IEEE-MWSCAS-blue)  
 E. Song, J. Yang, S. Hong, and J. Han, "**A 32-Gb/S High-Swing PAM-4 Current-Mode Driver with Current-Bleeding Cascode Technique and Capacitive-Coupled Pre-Drivers in 40-nm CMOS for Short-Reach Wireline Communication**,” in IEEE Int. Midwest Symp. on Circuits and Syst., Aug. 2022.
 
-![badge](https://img.shields.io/badge/IEEE-VLSI-red)  
+![badge](https://img.shields.io/badge/IEEE-VLSI-blue)  
 Z. Wang, M. Choi, P. Kwon, K. Lee, B. Yin, Z. Liu, K. Park, A. Biswas, J. Han, S. Du, E. Alon, “**A 200Gb/s PAM-4 Transmitter with Hybrid Sub-Sampling PLL in 28nm CMOS Technology**,” in IEEE Int. Symp. VLSI Circuits, Jun. 2022.
 
 ![badge](https://img.shields.io/badge/IEEE-ISCAS-blue)  
@@ -75,10 +75,10 @@ Dongjun Lee and Jaeduk Han, “**Design Techniques for Area-efficient Two-Stacke
 ![badge](https://img.shields.io/badge/IEEE-ISOCC-blue)  
 Gaeryun Sung and Jaeduk Han, “**High-speed StrongARM-latch-based Bang-bang Phase Detector in 40-nm CMOS Technology**,” in IEEE 18th Int. SoC Design Conf., Oct. 2021.
 
-![badge](https://img.shields.io/badge/IEEE-ISSCC-red)  
+![badge](https://img.shields.io/badge/IEEE-ISSCC-blue)  
 M. Choi, Z. Wang, K. Lee, K. Park, Z. Liu, A. Biswas, J. Han, and E. Alon, “**An output bandwidth optimized 200Gb/s PAM-4 / 100Gb/s NRZ transmitter with 5-Tap FFE in 28nm CMOS**,” in IEEE Int. Solid-State Circuits Conf., Feb. 2021.
 
-![badge](https://img.shields.io/badge/ACM-DATE-red)  
+![badge](https://img.shields.io/badge/IEEE-DATE-blue)  
 Y. Yoon, D. Han, S. Chu, S. Lee, J. Han and J. Chun, “**Process-Portable and Programmable Layout Generation of Digital Circuits in Advanced DRAM Technologies**,” in Proc. Design, Autom. Test Eur. Conf., Feb. 2021.
 
 #### Prior to 2021
