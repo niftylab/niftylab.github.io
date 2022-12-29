@@ -6,6 +6,9 @@ layout: default
 
 ### Peer-reviewed Journal Articles
 #### 2023
+![badge](https://img.shields.io/badge/IEEE-Access-blue) 
+D. Lee, G. Park, J. Han, and M.-S. Choo, "**An Automated Design Methodology for Ring Voltage-Controlled Oscillators in Nanometer CMOS Technologies**," IEEE Access, 2023.
+
 ![badge](https://img.shields.io/badge/IEEE-TCAS--II-blue)  
 H. Kim, H. Seo, Y. Jo, C. Yoo, and J. Han, "**An 8b9b 77.44-Gb/s Noise-Immune Spatial-Delta Coded Transceiver for Short-Reach Memory Interfaces in 28-nm CMOS**," IEEE Trans. Circuits and Syst. II: Express Briefs, 2023. 
 
