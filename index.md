@@ -4,7 +4,7 @@ layout: default
 
 [Research](./research.html)
 
-[Scholars](./people.html)
+[Members](./people.html)
 
 [Publications](./publications.html)
 
