@@ -140,11 +140,11 @@ Taeung No and Jaeduk Han, “**Design Techniques for Robust and Area-efficient C
 11. J. Han, G. Park, E. Song, "**Method of stabilizing internal voltages of cascode current-mode logic circuits**," filed, KR10-2021-0042985.
 12. Y. Song, J. Han, S. Kim, "**GGNMOS-based sensing scheme**," filed, KR10-2021-0009876.
 13. Y. Song, J. Han, S. Kim, "**Feedforward-path-based sensing scheme**," filed, KR10-2021-0009875.
-14. J. Han, E. Song, "**High-order PAM drive circuit**," KR102292736.
-15. J. Han, J. Yang, "**High speed multiplexer**," KR102295709.
+14. J. Han, E. Song, "**High-order PAM drive circuit**," KR102292736 / PCT-KR2021-017559.
+15. J. Han, J. Yang, "**High speed multiplexer**," KR102295709 / PCT-KR2021-017563.
 16. J. Han, T. No, “**Current mirror**,” filed, KR10-2020-0173740.
 17. J. Han, “**Current mode logic circuit**,”  KR102295708.
-18. J. Han, “**Current mode logic circuit**,” filed, KR10-2020-0062512 / PCT-KR-2020-017832.
+18. J. Han, “**Current mode logic circuit**,” filed, KR10-23657292 / US17802555.
 19. F.Farbiz, J.Han, P.Singh, "**High Speed ESD Protection Circuit**".
 20. J. Han, W. Liu, W. Liu, M.-S. Chen, S. K. Maheshwari, V. Varma, S. Bhosekar, L. Zhong, "**Serial data receiver with sampling clock skew compensation**," US10972107.
 21. J. Han, J. Im, “**Low-Power Decision Threshold Control for High-Speed Signaling**,” US10193540.
