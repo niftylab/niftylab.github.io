@@ -128,14 +128,14 @@ Taeung No and Jaeduk Han, “**Design Techniques for Robust and Area-efficient C
 1. J. Han, E. Song, S. Park, "**Transition limited pulse amplitude modulation signaling**," filed, KR10-2022-0048694.
 1. J. Han, W. Shin, H. Seo, "**Feed-forward equalizer transmitter**," filed, KR10-2022-0040923.
 1. J. Han, D.Lee, T.Shin, D.Kim, G. Sung, "**Apparatus of generating semiconductor integrated circuits**," filed, KR10-2022-0074725.
-2. **[삼성전자 전략특허상]** J. Han, S.Lee, H. Kim, J. Yang, "**A semiconductor apratus**", filed.
+2. **[삼성전자 전략특허상]** J. Han, S.Lee, H. Kim, J. Yang, "**A semiconductor apratus**", filed / USXXXXXXXX.
 3. J. Han, S.Lee. E. Song, K. Park, "**Passive continuous time linear equalizer**," filed, KR10-2021-0165307.
 4. J. Han, J. Yang. H. Kim. H. Seo, "**High-speed 4:1 multiplexer**," KR10-2420430.
 5. J. Han, E. Song. T. Shin. S. Hong, "**Feed-forward equalizer using shunt mosfets**", filed, KR10-2021-0174816.
-6. **[SK하이닉스 우수특허상]** J. Han, E. Song. G. Park. J. Kim, "**Continuous time linear equalizer**", filed, KR10-2021-0170049.
-7. Y. Yoon, J. Han, "**Method of generating layout for integrated circuits**," filed, KR10-2021-0086673.
-8. J. Han, E. Song, S. Lee, Y. Cho, H. Seo, H. Kim, "**Data inversion circuit for DBI-AC encoded PAM4 signaling**," filed, KR10-2021-0112910.
-9. J. Han, E. Song, S. Lee, Y. Cho, H. Seo, H. Kim, "**Data inversion circuit for DBI-DC encoded PAM4 signaling**," filed, KR10-2021-0112909.
+6. **[SK하이닉스 우수특허상]** J. Han, E. Song. G. Park. J. Kim, "**Continuous time linear equalizer**", filed, KR10-2021-0170049 / USXXXXXXXX.
+7. Y. Yoon, J. Han, "**Method of generating layout for integrated circuits**," filed, KR10-2021-0086673 / USXXXXXXXX.
+8. J. Han, E. Song, S. Lee, Y. Cho, H. Seo, H. Kim, "**Data inversion circuit for DBI-AC encoded PAM4 signaling**," filed, KR10-2021-0112910 / US17896471.
+9. J. Han, E. Song, S. Lee, Y. Cho, H. Seo, H. Kim, "**Data inversion circuit for DBI-DC encoded PAM4 signaling**," filed, KR10-2021-0112909 /	US17896549.
 10. J. Han, G. Sung, "**High-speed clock and data recovery circuit**," filed, KR10-2021-0042984.
 11. J. Han, G. Park, E. Song, "**Method of stabilizing internal voltages of cascode current-mode logic circuits**," filed, KR10-2021-0042985.
 12. Y. Song, J. Han, S. Kim, "**GGNMOS-based sensing scheme**," filed, KR10-2021-0009876.
@@ -144,7 +144,7 @@ Taeung No and Jaeduk Han, “**Design Techniques for Robust and Area-efficient C
 15. J. Han, J. Yang, "**High speed multiplexer**," KR102295709 / PCT-KR2021-017563.
 16. J. Han, T. No, “**Current mirror**,” filed, KR10-2020-0173740.
 17. J. Han, “**Current mode logic circuit**,”  KR102295708.
-18. J. Han, “**Current mode logic circuit**,” filed, KR10-23657292 / US17802555.
+18. J. Han, “**Current mode logic circuit**,” KR1023657292 / PCT-KR2020-017832 / US17802555.
 19. F.Farbiz, J.Han, P.Singh, "**High Speed ESD Protection Circuit**".
 20. J. Han, W. Liu, W. Liu, M.-S. Chen, S. K. Maheshwari, V. Varma, S. Bhosekar, L. Zhong, "**Serial data receiver with sampling clock skew compensation**," US10972107.
 21. J. Han, J. Im, “**Low-Power Decision Threshold Control for High-Speed Signaling**,” US10193540.
