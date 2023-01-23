@@ -148,7 +148,7 @@ Taeung No and Jaeduk Han, “**Design Techniques for Robust and Area-efficient C
 16. J. Han, T. No, “**Current mirror**,” filed, KR10-2020-0173740.
 17. J. Han, “**Current mode logic circuit**,”  KR102295708.
 18. J. Han, “**Current mode logic circuit**,” KR1023657292 / PCT-KR2020-017832 / US17802555.
-19. F.Farbiz, J.Han, P.Singh, "**High Speed ESD Protection Circuit**".
+19. F.Farbiz, J.Han, P.Singh, "**High Speed ESD Protection Circuit**", US11322935.
 20. J. Han, W. Liu, W. Liu, M.-S. Chen, S. K. Maheshwari, V. Varma, S. Bhosekar, L. Zhong, "**Serial data receiver with sampling clock skew compensation**," US10972107.
 21. J. Han, J. Im, “**Low-Power Decision Threshold Control for High-Speed Signaling**,” US10193540.
 22. J. Seo, H. Kim, H. Ju, H. Kim, J. D. Han, D. K. Jeong, “**LED Lighting System and AC-DC Converting Circuit used thereto**,” KR101340297.
