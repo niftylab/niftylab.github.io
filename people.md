@@ -60,6 +60,8 @@ layout: default
 
 곽태원 석사과정 1기
 
+김보경 석사과정 1기
+
 
 ### Alumni
 
