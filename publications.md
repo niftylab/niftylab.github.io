@@ -5,6 +5,11 @@ layout: default
 ## Nifty Papers
 
 ### Peer-reviewed Journal Articles
+
+#### 2023
+![badge](https://img.shields.io/badge/IEEE-SSCL-blue)  
+(Accepted) G. Park, D. Lee, J. Han, and W. Bae, "**A High-Frequency and Low-Jitter DLL with Quadrature Error and Duty Cycle Corrections Based on Asynchronous Sampling**," IEEE Solid-State Circuits Letters, 2023.
+
 #### 2022
 
 ![badge](https://img.shields.io/badge/IEEE-Access-blue)  
