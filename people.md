@@ -87,7 +87,7 @@ layout: default
 
 김동휘(Dongwhe Kim) MS, Class of 2022
 
-양정휴(Jeonghyu Yang) MS, Class of 2022, 박사과정
+양정휴(Jeonghyu Yang) MS, Class of 2022, 박사과정 / 램쉽
 
 이동준(Dongjun Lee) MS, Class of 2022, 박사과정
 
