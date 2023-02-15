@@ -47,6 +47,8 @@ layout: default
 
 임본아 석박통합과정 1기
 
+ 석박통합과정 1기
+
 
 #### MS students
 
