@@ -33,9 +33,8 @@ The **Nifty Chips Laboratory** at Hanyang University is working on crafting grea
 관심 있으신 분은 간단한 자기소개서 및 성적표를 첨부하여 제 이메일로 메일주시기 바랍니다.
 
 
-
 [Research Introduction / 연구내용 소개 세미나](https://www.youtube.com/watch?v=lo9Zcg205Ig&list=PL3tXkx6yyrEelC-KHj3iEiwrDR_9bWGsL&index=2&t=6873s&ab_channel=%EC%B5%9C%EC%A2%85%ED%98%84%ED%95%99%EC%88%A0%EC%9B%90)
-
+[Lab Introduction / 한양대학교 융합전자공학과 연구실 소개 동영상](https://www.youtube.com/watch?v=umuOi5A6v1c&ab_channel=%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90%EC%9C%B5%ED%95%A9%EC%A0%84%EC%9E%90%EA%B3%B5%ED%95%99%EA%B3%BC)
 
 
 **Past/Present Sponsors** (Chronological)
