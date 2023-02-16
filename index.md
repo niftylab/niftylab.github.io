@@ -34,6 +34,7 @@ The **Nifty Chips Laboratory** at Hanyang University is working on crafting grea
 
 
 [Research Introduction / 연구내용 소개 세미나](https://www.youtube.com/watch?v=lo9Zcg205Ig&list=PL3tXkx6yyrEelC-KHj3iEiwrDR_9bWGsL&index=2&t=6873s&ab_channel=%EC%B5%9C%EC%A2%85%ED%98%84%ED%95%99%EC%88%A0%EC%9B%90)
+
 [Lab Introduction / 한양대학교 융합전자공학과 연구실 소개 동영상](https://www.youtube.com/watch?v=umuOi5A6v1c&ab_channel=%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90%EC%9C%B5%ED%95%A9%EC%A0%84%EC%9E%90%EA%B3%B5%ED%95%99%EA%B3%BC)
 
 
