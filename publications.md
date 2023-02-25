@@ -61,7 +61,7 @@ J. Han, W. Bae, E. Y. Chang, Z. Wang, B. Nikolić, and E. Alon, "**LAYGO: A Temp
 
 #### 2023
 ![badge](https://img.shields.io/badge/IEEE-ISSCC-blue)  
-_(accepted)_ J. Yang, E. Song, S. Hong, D. Lee, S. Lee, H. Im, T. Shin, and J. Han, "**A 100Gb/s 1.6Vppd PAM-8 Transmitter with High-Swing 3+1 Hybrid FFE Taps in 40nm**," in IEEE Int. Solid-State Circuits Conf., Feb. 2023.
+J. Yang, E. Song, S. Hong, D. Lee, S. Lee, H. Im, T. Shin, and J. Han, "**A 100Gb/s 1.6Vppd PAM-8 Transmitter with High-Swing 3+1 Hybrid FFE Taps in 40nm**," in IEEE Int. Solid-State Circuits Conf., Feb. 2023.
 
 #### 2022
 ![badge](https://img.shields.io/badge/IEEE-ICCD-blue)  
