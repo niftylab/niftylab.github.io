@@ -16,6 +16,9 @@ H. Kim, H. Seo, H. Kim, C. Yoo, and J. Han, "**A 16-Gb/s/wire 4-Wire Short-Haul 
 ![badge](https://img.shields.io/badge/IEEE-SSCL-blue)  
 G. Park, D. Lee, J. Han, and W. Bae, "**A High-Frequency and Low-Jitter DLL with Quadrature Error and Duty Cycle Corrections Based on Asynchronous Sampling**," IEEE Solid-State Circuits Letters, Feb. 2023.
 
+![badge](https://img.shields.io/badge/IEEE-TCAS--II-blue)  
+H. Seo, J. Han, K. Kim, B. Lim, E. Shin, Y. Choi, H. Ko, J. Choi, S. Lee, C. Yoo, and J. Han, "**A 12-Gb/s Baud-rate Clock and Data Recovery with 75% Phase-detection Probability by Precoding and Integration-Hold-Reset Frontend**," IEEE Trans. Circuits and Syst. II: Express Briefs, Feb. 2023.
+
 ![badge](https://img.shields.io/badge/IEEE-Access-blue)  
 D. Lee, G. Park, J. Han, and M.-S. Choo, "**An Automated Design Methodology for Ring Voltage-Controlled Oscillators in Nanometer CMOS Technologies**," IEEE Access, Jan. 2023.
 
@@ -23,9 +26,6 @@ D. Lee, G. Park, J. Han, and M.-S. Choo, "**An Automated Design Methodology for 
 
 ![badge](https://img.shields.io/badge/Wiley-ETRIJ-blue)  
 E. Song, S. Park, and J. Han, "**Transition-Limited Pulse-Amplitude Modulation Technique for High-Speed Wireline Communication Systems**," ETRI J., Nov. 2022.
-
-![badge](https://img.shields.io/badge/IEEE-TCAS--II-blue)  
-H. Seo, J. Han, K. Kim, B. Lim, E. Shin, Y. Choi, H. Ko, J. Choi, S. Lee, C. Yoo, and J. Han, "**A 12-Gb/s Baud-rate Clock and Data Recovery with 75% Phase-detection Probability by Precoding and Integration-Hold-Reset Frontend**," IEEE Trans. Circuits and Syst. II: Express Briefs, Oct. 2022.
 
 ![badge](https://img.shields.io/badge/IEEK-JSTS-blue)  
 E. Lee, and J. Han, "**Time-domain Continuous-time Delta-sigma Modulator using VCO-based Integrator and GRO-based Quantizer**," J. Semicond. Technol. Sci., Aug. 2022.
