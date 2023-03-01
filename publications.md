@@ -8,18 +8,18 @@ layout: default
 
 #### 2023
 ![badge](https://img.shields.io/badge/IEEE-TCAS--II-blue)  
+H. Kim, H. Seo, Y. Jo, C. Yoo, and J. Han, "**An 8b9b 77.44-Gb/s Noise-Immune Spatial-Delta Coded Transceiver for Short-Reach Memory Interfaces in 28-nm CMOS**," IEEE Trans. Circuits and Syst. II: Express Briefs, Mar. 2023. 
+
+![badge](https://img.shields.io/badge/IEEE-TCAS--II-blue)  
 H. Kim, H. Seo, H. Kim, C. Yoo, and J. Han, "**A 16-Gb/s/wire 4-Wire Short-Haul Transceiver with Balanced Single-Ended Signaling (BASES) in 28-nm CMOS**," IEEE Trans. Circuits and Syst. II: Express Briefs, Feb. 2023. 
 
 ![badge](https://img.shields.io/badge/IEEE-SSCL-blue)  
 G. Park, D. Lee, J. Han, and W. Bae, "**A High-Frequency and Low-Jitter DLL with Quadrature Error and Duty Cycle Corrections Based on Asynchronous Sampling**," IEEE Solid-State Circuits Letters, Feb. 2023.
 
-#### 2022
-
 ![badge](https://img.shields.io/badge/IEEE-Access-blue)  
-D. Lee, G. Park, J. Han, and M.-S. Choo, "**An Automated Design Methodology for Ring Voltage-Controlled Oscillators in Nanometer CMOS Technologies**," IEEE Access, Dec. 2022.
+D. Lee, G. Park, J. Han, and M.-S. Choo, "**An Automated Design Methodology for Ring Voltage-Controlled Oscillators in Nanometer CMOS Technologies**," IEEE Access, Jan. 2023.
 
-![badge](https://img.shields.io/badge/IEEE-TCAS--II-blue)  
-H. Kim, H. Seo, Y. Jo, C. Yoo, and J. Han, "**An 8b9b 77.44-Gb/s Noise-Immune Spatial-Delta Coded Transceiver for Short-Reach Memory Interfaces in 28-nm CMOS**," IEEE Trans. Circuits and Syst. II: Express Briefs, Nov. 2022. 
+#### 2022
 
 ![badge](https://img.shields.io/badge/Wiley-ETRIJ-blue)  
 E. Song, S. Park, and J. Han, "**Transition-Limited Pulse-Amplitude Modulation Technique for High-Speed Wireline Communication Systems**," ETRI J., Nov. 2022.
