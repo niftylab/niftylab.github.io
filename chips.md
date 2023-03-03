@@ -4,6 +4,21 @@ layout: default
 
 ## Nifty Chips
 
+#### A 100-Gb/s PAM-8 Transmitter
+![chip14](https://raw.githubusercontent.com/niftylab/niftylab.github.io/master/assets/img/chips/14_pam8.png)  
+Process: 40nm CMOS  
+Tapeout Date: Oct 2021
+
+#### A 4-wire Balanced-Single-Ended Signaling Transceiver Array
+![chip13](https://raw.githubusercontent.com/niftylab/niftylab.github.io/master/assets/img/chips/13_bases.png)  
+Process: 28nm CMOS  
+Tapeout Date: Oct 2019
+
+#### An Asynchronous Sampling Duty-Cycle Corrector
+![chip12](https://raw.githubusercontent.com/niftylab/niftylab.github.io/master/assets/img/chips/12_dcc.png)  
+Process: 40nm CMOS  
+Tapeout Date: Oct 2021
+
 #### A Transition-Limited Pulse-Amplitude Modulation Transmitter Prototype
 ![chip11](https://raw.githubusercontent.com/niftylab/niftylab.github.io/master/assets/img/chips/11_tlpam.png)  
 Process: FPGA+DAC board    
