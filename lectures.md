@@ -4,6 +4,12 @@ layout: default
 
 ## Nifty Lectures
 
+#### Spring 2023
+
+ELE3074 Microelectronic Circuits I (English)
+ITE4003 SOC Design   
+ENE8079 Analog Integrated Circuit Design (Graduate, PBL)
+
 #### Fall 2022
 
 ELE3081 VLSI Engineering  
