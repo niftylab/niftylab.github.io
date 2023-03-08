@@ -6,9 +6,9 @@ layout: default
 
 #### Spring 2023
 
-ELE3074 Microelectronic Circuits I (English)
+ELE3074 Microelectronic Circuits I (English)   
 ITE4003 SOC Design   
-ENE8079 Analog Integrated Circuit Design (Graduate, PBL)
+ENE8079 Analog Integrated Circuit Design (Graduate, PBL)   
 
 #### Fall 2022
 
