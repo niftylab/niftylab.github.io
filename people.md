@@ -97,7 +97,7 @@ layout: default
 
 김재호(Jaeho Kim) MS, Class of 2022, TLI
 
-이무석(Moosuk Lee) MS, Class of 2022, DB Hitek
+이무석(Moosuk Lee) MS, Class of 2022, LX Semicon
 
 박기진(Gijin Park) BS, Class of 2022, TAMU 박사과정
 
