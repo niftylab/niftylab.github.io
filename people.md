@@ -35,34 +35,34 @@ layout: default
 
 심태양(Taeyang Sim) 석박통합과정 5기 sunnysim96@hanyang.ac.kr
 
-오영민 석박통합과정 3기 miny0328@hanyang.ac.kr
+오영민(Youngmin Oh) 석박통합과정 3기 miny0328@hanyang.ac.kr
 
-김현석 석박통합과정 3기
+김현석(Hyunseok Kim) 석박통합과정 3기 gustjraaa@hanyang.ac.kr
 
-강태승 석박통합과정 3기
+강태승(Taeseung Kang) 석박통합과정 3기 xotmd97@hanyang.ac.kr
 
-조한희 석박통합과정 1기
+조한희(Hanhee Jo) 석박통합과정 1기 whgksgml1@hanyang.ac.kr
 
-정희도 석박통합과정 1기
+정희도(Heedo Jeong) 석박통합과정 1기 jeonghido@hanyang.ac.kr
 
-임본아 석박통합과정 1기
+임본아(Bona Lim) 석박통합과정 1기 bonalim97@hanyang.ac.kr
 
-서주은 석박통합과정 1기
+서주은(Jueun Seo) 석박통합과정 1기 eun08ju@hanyang.ac.kr
 
 
 #### MS students
 
 염선오(Sunoh Yeom) 석사과정 4기 qwe1123ok@hanyang.ac.kr
 
-손승우 석사과정 3기 son970917@hanyang.ac.kr
+손승우(Seungwoo Son) 석사과정 3기 son970917@hanyang.ac.kr
 
-장지훈 석사과정 1기
+장지훈(Jihoon Jang) 석사과정 1기 littleleeds@hanyang.ac.kr
 
-이태희 석사과정 1기
+이태희(Taehee Lee) 석사과정 1기 dlxogmlm9@hanyang.ac.kr
 
-곽태원 석사과정 1기
+곽태원(Taewon Kwak) 석사과정 1기 kxodnjs97@hanyang.ac.kr
 
-김보경 석사과정 1기
+김보경(Bokyung Kim) 석사과정 1기 shd04280@hanyang.ac.kr
 
 
 ### Alumni
