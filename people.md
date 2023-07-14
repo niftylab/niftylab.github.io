@@ -17,50 +17,50 @@ layout: default
 
 #### PhD / MS-PhD students
 
-서형민(Hyeongmin Seo) 석박통합과정 9기 shm6878@hanyang.ac.kr
+서형민(Hyeongmin Seo) 석박통합과정 10기 shm6878@hanyang.ac.kr
 
-김현태(Hyuntae Kim) 석박통합과정 8기 hyuntae@hanyang.ac.kr
+김현태(Hyuntae Kim) 석박통합과정 9기 hyuntae@hanyang.ac.kr
 
-이상훈(Sanghun Lee) 석박통합과정 7기 lurker4@hanyang.ac.kr
+이상훈(Sanghun Lee) 석박통합과정 8기 lurker4@hanyang.ac.kr
 
-조윤성(Yunseong Jo) 석박통합과정 7기 jhj101777@hanyang.ac.kr
+조윤성(Yunseong Jo) 석박통합과정 8기 jhj101777@hanyang.ac.kr
 
-이동준(Dongjun Lee) 박사과정 2기 lreedong12@hanyang.ac.kr
+이동준(Dongjun Lee) 박사과정 3기 lreedong12@hanyang.ac.kr
 
-양정휴(Jeonghyu Yang) 박사과정 1기 hyu2980@hanyang.ac.kr
+양정휴(Jeonghyu Yang) 박사과정 2기 hyu2980@hanyang.ac.kr
 
-이상완(Sangwan Lee) 석박통합과정 5기 esang12@hanyang.ac.kr
+이상완(Sangwan Lee) 석박통합과정 6기 esang12@hanyang.ac.kr
 
-신태호(Taeho Shin) 석박통합과정 5기 sth4101@hanyang.ac.kr
+신태호(Taeho Shin) 석박통합과정 6기 sth4101@hanyang.ac.kr
 
-심태양(Taeyang Sim) 석박통합과정 5기 sunnysim96@hanyang.ac.kr
+심태양(Taeyang Sim) 석박통합과정 6기 sunnysim96@hanyang.ac.kr
 
-오영민(Youngmin Oh) 석박통합과정 3기 miny0328@hanyang.ac.kr
+김현석(Hyunseok Kim) 석박통합과정 4기 gustjraaa@hanyang.ac.kr
 
-김현석(Hyunseok Kim) 석박통합과정 3기 gustjraaa@hanyang.ac.kr
+강태승(Taeseung Kang) 석박통합과정 4기 xotmd97@hanyang.ac.kr
 
-강태승(Taeseung Kang) 석박통합과정 3기 xotmd97@hanyang.ac.kr
+조한희(Hanhee Jo) 석박통합과정 2기 whgksgml1@hanyang.ac.kr
 
-조한희(Hanhee Jo) 석박통합과정 1기 whgksgml1@hanyang.ac.kr
+정희도(Heedo Jeong) 석박통합과정 2기 jeonghido@hanyang.ac.kr
 
-정희도(Heedo Jeong) 석박통합과정 1기 jeonghido@hanyang.ac.kr
+임본아(Bona Lim) 석박통합과정 2기 bonalim97@hanyang.ac.kr
 
-임본아(Bona Lim) 석박통합과정 1기 bonalim97@hanyang.ac.kr
-
-서주은(Jueun Seo) 석박통합과정 1기 eun08ju@hanyang.ac.kr
+서주은(Jueun Seo) 석박통합과정 2기 eun08ju@hanyang.ac.kr
 
 
 #### MS students
 
-손승우(Seungwoo Son) 석사과정 3기 son970917@hanyang.ac.kr
+오영민(Youngmin Oh) 석사과정 4기 miny0328@hanyang.ac.kr
 
-장지훈(Jihoon Jang) 석사과정 1기 littleleeds@hanyang.ac.kr
+손승우(Seungwoo Son) 석사과정 4기 son970917@hanyang.ac.kr
 
-이태희(Taehee Lee) 석사과정 1기 dlxogmlm9@hanyang.ac.kr
+장지훈(Jihoon Jang) 석사과정 2기 littleleeds@hanyang.ac.kr
 
-곽태원(Taewon Kwak) 석사과정 1기 kxodnjs97@hanyang.ac.kr
+이태희(Taehee Lee) 석사과정 2기 dlxogmlm9@hanyang.ac.kr
 
-김보경(Bokyung Kim) 석사과정 1기 shd04280@hanyang.ac.kr
+곽태원(Taewon Kwak) 석사과정 2기 kxodnjs97@hanyang.ac.kr
+
+김보경(Bokyung Kim) 석사과정 2기 shd04280@hanyang.ac.kr
 
 
 ### Alumni
