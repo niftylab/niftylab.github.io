@@ -52,8 +52,6 @@ layout: default
 
 #### MS students
 
-염선오(Sunoh Yeom) 석사과정 4기 qwe1123ok@hanyang.ac.kr
-
 손승우(Seungwoo Son) 석사과정 3기 son970917@hanyang.ac.kr
 
 장지훈(Jihoon Jang) 석사과정 1기 littleleeds@hanyang.ac.kr
@@ -107,6 +105,7 @@ layout: default
 
 신욱진(Wookjin Shin) MS, Class of 2023, SK하이닉스
 
+염선오(Sunoh Yeom) MS, Class of 2023, SK하이닉스
 
 
 [back](./)
