@@ -117,9 +117,9 @@ Taeung No and Jaeduk Han, “**Design Techniques for Robust and Area-efficient C
 21. **[ASSCC’10]** J. D. Han, W-Y. Shin, W-S. Choi, J-H. Chun, S. Kim, D-K. Jeong, "**A 5-Gb/s digitally controlled 3-tap DFE receiver for serial communications**," in IEEE Asian Solid-State Circuits Conf., Nov. 2010, pp.1-4.
 
 ### Patents 
-1. J. Han, S. Lee, "High-speed amplifier", filed, KR10-2023-0005221.
-1. J. Han, H. Im, T. Sim, S. Yeom, "High-speed sampler and its data transmission method", filed, KR10-2022-0151586.
-1. J. Han, S. Park, E. Song, J. Yang, Y. Oh, "Method and appartus of data transmission system with reduced supply noise", filed, KR10-2022-0100356.
+1. J. Han, S. Lee, "**High-speed amplifier**", filed, KR10-2023-0005221.
+1. J. Han, H. Im, T. Sim, S. Yeom, "**High-speed sampler and its data transmission method**", filed, KR10-2022-0151586.
+1. J. Han, S. Park, E. Song, J. Yang, Y. Oh, "**Method and appartus of data transmission system with reduced supply noise**", filed, KR10-2022-0100356.
 1. J. Han, E. Song, S. Park, "**Transition limited pulse amplitude modulation signaling**," filed, KR10-2022-0048694.
 1. J. Han, W. Shin, H. Seo, "**Feed-forward equalizer transmitter**," filed, KR10-2022-0040923.
 1. J. Han, D.Lee, T.Shin, D.Kim, G. Sung, "**Apparatus of generating semiconductor integrated circuits**," filed, KR10-2022-0074725.
