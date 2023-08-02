@@ -7,11 +7,15 @@ layout: default
 ### Peer-reviewed Journal Articles
 
 #### 2023
-![badge](https://img.shields.io/badge/IEEE-TCAD-blue)  
-T. Shin, D. Lee, D. Kim, G. Sung, W. Shin, Y. Jo, H. Park, and J. Han, "**LAYGO2: A Custom Layout Generation Engine Based on Dynamic Templates and Grids for Advanced CMOS Technologies**," IEEE Trans. Comput.-Aided Des. Integr., Jul. 2023.
 
 ![badge](https://img.shields.io/badge/IEEE-TCAS--II-blue)  
-H. Kim, H. Seo, H. Kim, C. Yoo, and J. Han, "**A 16-Gb/s/wire 4-Wire Short-Haul Transceiver with Balanced Single-Ended Signaling (BASES) in 28-nm CMOS**," IEEE Trans. Circuits and Syst. II: Express Briefs, Feb. 2023. 
+*(accepted)* E. Song, J. Han, H. Seo, H. Kim, H. Im, and J. Han, "**A 35-Gb/s PAM-4 Transmitter with 7B4Q FullTransition Avoidance and Area-Efficient GmBoosting Technique**," IEEE Trans. Circuits and Syst. II: Express Briefs, Aug. 2023. 
+
+![badge](https://img.shields.io/badge/IEEE-TCAS--II-blue)  
+H. Kim, H. Seo, H. Kim, C. Yoo, and J. Han, "**A 16-Gb/s/wire 4-Wire Short-Haul Transceiver with Balanced Single-Ended Signaling (BASES) in 28-nm CMOS**," IEEE Trans. Circuits and Syst. II: Express Briefs, Aug. 2023. 
+
+![badge](https://img.shields.io/badge/IEEE-TCAD-blue)  
+T. Shin, D. Lee, D. Kim, G. Sung, W. Shin, Y. Jo, H. Park, and J. Han, "**LAYGO2: A Custom Layout Generation Engine Based on Dynamic Templates and Grids for Advanced CMOS Technologies**," IEEE Trans. Comput.-Aided Des. Integr., Jul. 2023.
 
 ![badge](https://img.shields.io/badge/IEEE-SSCL-blue)  
 G. Park, D. Lee, J. Han, and W. Bae, "**A High-Frequency and Low-Jitter DLL with Quadrature Error and Duty Cycle Corrections Based on Asynchronous Sampling**," IEEE Solid-State Circuits Letters, Feb. 2023.
