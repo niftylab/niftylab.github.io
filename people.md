@@ -85,7 +85,7 @@ layout: default
 
 김희준(Heejoon Kim) MS, Class of 2022, DB Hitek
 
-김동휘(Dongwhe Kim) MS, Class of 2022
+김동휘(Dongwhe Kim) MS, Class of 2022, 램쉽
 
 양정휴(Jeonghyu Yang) MS, Class of 2022, 박사과정 / 램쉽
 
