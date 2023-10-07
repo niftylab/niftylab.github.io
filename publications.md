@@ -11,8 +11,6 @@ layout: default
 ![badge](https://img.shields.io/badge/IEEE-TCAS--I-blue)  
 K. Kim, S. Moon, J. Han, E. Alon, and A. M. Niknejad, "**Precursor ISI Cancellation Sliding-Block DFE for High-Speed Wireline Receivers**," IEEE Trans. Circuits and Syst. I: Regular Papers, Vol. 70, No. 10, pp. 4169-4182, Oct. 2023.
 
-Aug. 2023. 
-
 ![badge](https://img.shields.io/badge/IEEE-TCAS--II-blue)  
 E. Song, J. Han, H. Seo, H. Kim, H. Im, and J. Han, "**A 35-Gb/s PAM-4 Transmitter with 7B4Q Full-Transition Avoidance and Area-Efficient Gm-Boosting Technique**," IEEE Trans. Circuits and Syst. II: Express Briefs, Aug. 2023. 
 
