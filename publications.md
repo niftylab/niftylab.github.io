@@ -9,6 +9,9 @@ layout: default
 #### 2023
 
 ![badge](https://img.shields.io/badge/IEEE-TCAS--II-blue)  
+W. Shin, H. Seo, S. Lee, D.-H. Choi, Y.-H. Kwak, S.-J. Won, and J. Han, "**A Variation-Tolerant Voltage-Mode Transmitter With 3+1 Tap FFE in 28-nm CMOS**," IEEE Trans. Circuits and Syst. II: Express Briefs, Nov. 2023. 
+
+![badge](https://img.shields.io/badge/IEEE-TCAS--II-blue)  
 T. Sim, S. Yeom, H. Im, Y. Oh, H. Seo, H. Ko, H. Chi, H. Jung, and J. Han, "**A 28-Gb/s Single-Ended PAM-4 Receiver With T-Coil-Integrated Continuous-Time Linear Equalizer in 40-nm CMOS Technology**," IEEE Trans. Circuits and Syst. II: Express Briefs, Oct. 2023. 
 
 ![badge](https://img.shields.io/badge/IEEE-TCAS--I-blue)  
