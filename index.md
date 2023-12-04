@@ -28,7 +28,7 @@ The **Nifty Chips Laboratory** at Hanyang University is working on crafting grea
 * 학부연구생(본 연구실 진학 희망자 또는 유학 희망자 대상)
 * 석사 (나노반도체공학과)
 * 석박통합과정 및 박사 (융합전자공학과 / [인공지능반도체공학과](http://aisemi.hanyang.ac.kr/) / 나노반도체공학과)
-* 전자회로1/2 수강 필수, 아날로그회로설계/VLSI공학/SoC설계 수강 권장
+* 전자회로1/2, VLSI공학, SoC설계, 아날로그회로설계 수강 필수
 
 관심 있으신 분은 간단한 자기소개서 및 석차 표기된 성적표를 첨부하여 제 이메일로 메일주시기 바랍니다.
 
