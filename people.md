@@ -47,8 +47,6 @@ layout: default
 
 서주은(Jueun Seo) 석박통합과정 2기 eun08ju@hanyang.ac.kr
 
-성중훈 석박통합과정 1기
-
 이동훈 석박통합과정 1기
 
 
