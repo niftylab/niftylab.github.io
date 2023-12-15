@@ -76,11 +76,11 @@ layout: default
 
 홍승욱(Seungwook Hong) MS, Class of 2022, LX Semicon
 
-양동주(Dongju Yang) MS, Class of 2022, SK하이닉스
+양동주(Dongju Yang) MS, Class of 2022, SK 하이닉스
 
 김성해(Sunghae Kim) MS, Class of 2022, LX Semicon
 
-표창현(Changhyun Pyo) MS, Class of 2022, SK하이닉스
+표창현(Changhyun Pyo) MS, Class of 2022, SK 하이닉스
 
 임현우(Hyunwoo Im) MS, Class of 2022, LX Semicon
 
@@ -104,11 +104,11 @@ layout: default
 
 이은상(Eunsang Lee) Ph.D, Class of 2023, 삼성전자
 
-송은지(Eunji Song) MS, Class of 2023, SK하이닉스
+송은지(Eunji Song) MS, Class of 2023, SK 하이닉스
 
-신욱진(Wookjin Shin) MS, Class of 2023, SK하이닉스
+신욱진(Wookjin Shin) MS, Class of 2023, SK 하이닉스
 
-염선오(Sunoh Yeom) MS, Class of 2023, SK하이닉스
+염선오(Sunoh Yeom) MS, Class of 2023, SK 하이닉스
 
 
 [back](./)
