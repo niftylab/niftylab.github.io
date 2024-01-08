@@ -37,9 +37,9 @@ layout: default
 
 강태승(Taeseung Kang) 석박통합과정 5기 xotmd97@hanyang.ac.kr
 
-조한희(Hanhee Jo) 석박통합과정 4기 whgksgml1@hanyang.ac.kr
+조한희(Hanhee Jo) 석박통합과정 3기 whgksgml1@hanyang.ac.kr
 
-정희도(Heedo Jeong) 석박통합과정 4기 jeonghido@hanyang.ac.kr
+정희도(Heedo Jeong) 석박통합과정 3기 jeonghido@hanyang.ac.kr
 
 임본아(Bona Lim) 석박통합과정 3기 bonalim97@hanyang.ac.kr
 
