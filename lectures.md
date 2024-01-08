@@ -4,7 +4,7 @@ layout: default
 
 ## Nifty Lectures
 
-#### Fall 2022
+#### Fall 2023
 
 ELE3081 VLSI Engineering 
 ELE4106 Capstone Design - Analog Circuits (PBL, English)  
