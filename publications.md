@@ -8,6 +8,8 @@ layout: default
 
 #### 2024
 
+Y. Oh, H. Im, J. Yang, E. Song, D. Lee, S. Lee, T. Shin, and J. Han, "**A 100-Gb/s PAM-8 Transmitter With 3-Tap FFE and High-Swing Hybrid Driver in 40-nm CMOS Technology**," IEEE Trans. Circuits and Syst. II: Express Briefs, 2024. 
+
 ![badge](https://img.shields.io/badge/IEEE-TCAS--II-blue)  
 E. Song, J. Han, H. Seo, H. Kim, H. Im, and J. Han, "**A 35-Gb/s PAM-4 Transmitter with 7B4Q Full-Transition Avoidance and Area-Efficient Gm-Boosting Technique**," IEEE Trans. Circuits and Syst. II: Express Briefs, Vol. 71, No. 1, pp. 46-50, Jan. 2024. 
 
