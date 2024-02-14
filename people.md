@@ -45,8 +45,17 @@ layout: default
 
 서주은(Jueun Seo) 석박통합과정 3기 eun08ju@hanyang.ac.kr
 
-이동훈 석박통합과정 2기
+이동훈(Donghun Lee) 석박통합과정 2기
 
+김민태(Mintae Kim) 석박통합과정 1기
+
+장유성(Yooseong Jang) 석박통합과정 1기
+
+유근영(GeunYoung You) 석박통합과정 1기
+
+권용화(Yonghwa Kwon) 석박통합과정 1기
+
+변유진(Youjin Byun) 석박통합과정 1기
 
 #### MS students
 
@@ -58,7 +67,17 @@ layout: default
 
 김보경(Bokyung Kim) 석사과정 3기 shd04280@hanyang.ac.kr
 
-정환석 석사과정 2기
+정환석(Hwanseok Jung) 석사과정 2기
+
+송형준(Hyeongjun Song) 석사과정 1기
+
+임소진(Sojin Lim) 석사과정 1기
+
+박형주(Hyungjoo Park) 석사과정 1기
+
+윤석민 석사과정 1기
+
+최우진 석사과정 1기
 
 ### Alumni
 
@@ -109,6 +128,7 @@ layout: default
 오영민(Youngmin Oh) MS, Class of 2024, 삼성전자
 
 손승우(Seungwoo Son) MS, Class of 2024, SK 하이닉스
+
 
 
 [back](./)
