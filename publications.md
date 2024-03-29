@@ -15,7 +15,7 @@ S. Lee, J. Lim, and J. Han, "**A PSRR-Enhanced Fast-Response Inverter-Based LDO 
 Y. Oh, H. Im, J. Yang, E. Song, D. Lee, S. Lee, T. Shin, and J. Han, "**A 100-Gb/s PAM-8 Transmitter With 3-Tap FFE and High-Swing Hybrid Driver in 40-nm CMOS Technology**," IEEE Trans. Circuits and Syst. II: Express Briefs, 2024. 
 
 ![badge](https://img.shields.io/badge/IEEE-TCAS--II-blue)  
-W. Shin, H. Seo, S. Lee, D.-H. Choi, Y.-H. Kwak, S.-J. Won, and J. Han, "**A Variation-Tolerant Voltage-Mode Transmitter With 3+1 Tap FFE in 28-nm CMOS**," IEEE Trans. Circuits and Syst. II: Express Briefs, Apr. 2024. 
+W. Shin, H. Seo, S. Lee, D.-H. Choi, Y.-H. Kwak, S.-J. Won, and J. Han, "**A Variation-Tolerant Voltage-Mode Transmitter With 3+1 Tap FFE in 28-nm CMOS**," IEEE Trans. Circuits and Syst. II: Express Briefs, Vol. 71, No. 4, pp. 1819 - 1823, Apr. 2024. 
 
 ![badge](https://img.shields.io/badge/IEEE-TCAS--II-blue)  
 E. Song, J. Han, H. Seo, H. Kim, H. Im, and J. Han, "**A 35-Gb/s PAM-4 Transmitter with 7B4Q Full-Transition Avoidance and Area-Efficient Gm-Boosting Technique**," IEEE Trans. Circuits and Syst. II: Express Briefs, Vol. 71, No. 1, pp. 46-50, Jan. 2024. 
