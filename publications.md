@@ -9,6 +9,9 @@ layout: default
 #### 2024
 
 ![badge](https://img.shields.io/badge/IEEE-TCAS--II-blue)  
+G. Park, S. Yeom, I.-W. Jang, D. Lee, Jaeduk Han, and Min-Seong Choo, "**3.2-GHz Digital Phase-Locked Loop With Autocorrelation-Based Direct Jitter Correction**," IEEE Trans. Circuits and Syst. II: Express Briefs, 2024. 
+
+![badge](https://img.shields.io/badge/IEEE-TCAS--II-blue)  
 S. Lee, J. Lim, and J. Han, "**A PSRR-Enhanced Fast-Response Inverter-Based LDO for Mobile Devices**," IEEE Trans. Circuits and Syst. II: Express Briefs, 2024. 
 
 ![badge](https://img.shields.io/badge/IEEE-TCAS--II-blue)  
