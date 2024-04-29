@@ -21,10 +21,10 @@ Y. Oh, H. Im, J. Yang, E. Song, D. Lee, S. Lee, T. Shin, and J. Han, "**A 100-Gb
 W. Shin, H. Seo, S. Lee, D.-H. Choi, Y.-H. Kwak, S.-J. Won, and J. Han, "**A Variation-Tolerant Voltage-Mode Transmitter With 3+1 Tap FFE in 28-nm CMOS**," IEEE Trans. Circuits and Syst. II: Express Briefs, Vol. 71, No. 4, pp. 1819 - 1823, Apr. 2024. 
 
 ![badge](https://img.shields.io/badge/IEEE-TCAS--II-blue)  
-E. Song, J. Han, H. Seo, H. Kim, H. Im, and J. Han, "**A 35-Gb/s PAM-4 Transmitter with 7B4Q Full-Transition Avoidance and Area-Efficient Gm-Boosting Technique**," IEEE Trans. Circuits and Syst. II: Express Briefs, Vol. 71, No. 1, pp. 46-50, Jan. 2024. 
+T. Sim, S. Yeom, H. Im, Y. Oh, H. Seo, H. Ko, H. Chi, H. Jung, and J. Han, "**A 28-Gb/s Single-Ended PAM-4 Receiver With T-Coil-Integrated Continuous-Time Linear Equalizer in 40-nm CMOS Technology**," IEEE Trans. Circuits and Syst. II: Express Briefs, Volu. 71, No. 3, pp. 1012-1016, Mar. 2023. 
 
 ![badge](https://img.shields.io/badge/IEEE-TCAS--II-blue)  
-T. Sim, S. Yeom, H. Im, Y. Oh, H. Seo, H. Ko, H. Chi, H. Jung, and J. Han, "**A 28-Gb/s Single-Ended PAM-4 Receiver With T-Coil-Integrated Continuous-Time Linear Equalizer in 40-nm CMOS Technology**," IEEE Trans. Circuits and Syst. II: Express Briefs, Volu. 71, No. 3, pp. 1012-1016, Mar. 2023. 
+E. Song, J. Han, H. Seo, H. Kim, H. Im, and J. Han, "**A 35-Gb/s PAM-4 Transmitter with 7B4Q Full-Transition Avoidance and Area-Efficient Gm-Boosting Technique**," IEEE Trans. Circuits and Syst. II: Express Briefs, Vol. 71, No. 1, pp. 46-50, Jan. 2024. 
 
 #### 2023
 
