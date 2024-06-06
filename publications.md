@@ -86,7 +86,7 @@ J. Han, W. Bae, E. Y. Chang, Z. Wang, B. Nikolić, and E. Alon, "**LAYGO: A Temp
 
 ### Peer-reviewed Conference Papers
 ![badge](https://img.shields.io/badge/IEEE-SMACD-blue)  
-/(accepted) J. Nam, J. Han, and H. Kim, "**Low-Power Encoding for PAM-3 DRAM Bus**," in Int. Conf. Synth., Model., Anal. Simul. Methods, Appl. Circuit Des. (SMACD), Jul. 2024.
+(accepted) J. Nam, J. Han, and H. Kim, "**Low-Power Encoding for PAM-3 DRAM Bus**," in Int. Conf. Synth., Model., Anal. Simul. Methods, Appl. Circuit Des. (SMACD), Jul. 2024.
 
 #### 2023
 ![badge](https://img.shields.io/badge/IEEE-ISSCC-blue)  
