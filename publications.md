@@ -85,6 +85,8 @@ J. Han, W. Bae, E. Y. Chang, Z. Wang, B. Nikolić, and E. Alon, "**LAYGO: A Temp
 1. **[TCPMT’13]** W. Y. Shin, G. M. Hong, H. Lee, J. D. Han, K. S. Park, D. H. Lim, S. Kim, D. Shim, J. H. Chun, D. K. Jeong, and S. Kim, "**4-Slot, 8-Drop Impedance-Matched Bidirectional Multidrop DQ Bus With a 4.8-Gb/s Memory Controller Transceiver**," IEEE Trans. Compon., Packag. and Manuf. Technol., vol. 3, no. 5, pp. 858-869, May. 2013.
 
 ### Peer-reviewed Conference Papers
+![badge](https://img.shields.io/badge/IEEE-SMACD-blue) 
+(Accepted) J. Nam, J. Han, and H. Kim, "**Low-Power Encoding for PAM-3 DRAM Bus**," in International Conference on Synthesis, Modeling, Analysis and Simulation Methods, and Applications to Circuit Design (SMACD), Jul. 2024.
 
 #### 2023
 ![badge](https://img.shields.io/badge/IEEE-ISSCC-blue)  
