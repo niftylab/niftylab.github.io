@@ -7,7 +7,6 @@ layout: default
 ### Peer-reviewed Journal Articles
 
 #### 2024
-
 ![badge](https://img.shields.io/badge/IEEE-TCAS--II-blue)  
 G. Park, S. Yeom, I.-W. Jang, D. Lee, Jaeduk Han, and Min-Seong Choo, "**3.2-GHz Digital Phase-Locked Loop With Autocorrelation-Based Direct Jitter Correction**," IEEE Trans. Circuits and Syst. II: Express Briefs, 2024. 
 
@@ -27,7 +26,6 @@ T. Sim, S. Yeom, H. Im, Y. Oh, H. Seo, H. Ko, H. Chi, H. Jung, and J. Han, "**A 
 E. Song, J. Han, H. Seo, H. Kim, H. Im, and J. Han, "**A 35-Gb/s PAM-4 Transmitter with 7B4Q Full-Transition Avoidance and Area-Efficient Gm-Boosting Technique**," IEEE Trans. Circuits and Syst. II: Express Briefs, Vol. 71, No. 1, pp. 46-50, Jan. 2024. 
 
 #### 2023
-
 ![badge](https://img.shields.io/badge/IEEE-TCAD-blue)  
 T. Shin, D. Lee, D. Kim, G. Sung, W. Shin, Y. Jo, H. Park, and J. Han, "**LAYGO2: A Custom Layout Generation Engine Based on Dynamic Templates and Grids for Advanced CMOS Technologies**," IEEE Trans. Comput.-Aided Des. Integr., Vol. 42, No. 10, pp. 4402-4412, Dec. 2023.
 
@@ -50,7 +48,6 @@ H. Seo, J. Han, K. Kim, B. Lim, E. Shin, Y. Choi, H. Ko, J. Choi, S. Lee, C. Yoo
 D. Lee, G. Park, J. Han, and M.-S. Choo, "**An Automated Design Methodology for Ring Voltage-Controlled Oscillators in Nanometer CMOS Technologies**," IEEE Access, Jan. 2023.
 
 #### 2022
-
 ![badge](https://img.shields.io/badge/Wiley-ETRIJ-blue)  
 E. Song, S. Park, and J. Han, "**Transition-Limited Pulse-Amplitude Modulation Technique for High-Speed Wireline Communication Systems**," ETRI J., Nov. 2022.
 
@@ -85,6 +82,8 @@ J. Han, W. Bae, E. Y. Chang, Z. Wang, B. Nikolić, and E. Alon, "**LAYGO: A Temp
 1. **[TCPMT’13]** W. Y. Shin, G. M. Hong, H. Lee, J. D. Han, K. S. Park, D. H. Lim, S. Kim, D. Shim, J. H. Chun, D. K. Jeong, and S. Kim, "**4-Slot, 8-Drop Impedance-Matched Bidirectional Multidrop DQ Bus With a 4.8-Gb/s Memory Controller Transceiver**," IEEE Trans. Compon., Packag. and Manuf. Technol., vol. 3, no. 5, pp. 858-869, May. 2013.
 
 ### Peer-reviewed Conference Papers
+
+#### 2024
 ![badge](https://img.shields.io/badge/IEEE-SMACD-blue)  
 (accepted) J. Nam, J. Han, and H. Kim, "**Low-Power Encoding for PAM-3 DRAM Bus**," in Int. Conf. Synth., Model., Anal. Simul. Methods, Appl. Circuit Des. (SMACD), Jul. 2024.
 
