@@ -5,17 +5,17 @@ layout: default
 ## Nifty Chips
 
 #### A 18-Gb/s Variation-Tolerant Transmitter
-![chip15](https://raw.githubusercontent.com/niftylab/niftylab.github.io/master/assets/img/chips/16_18gtx.png)  
+![chip17](https://raw.githubusercontent.com/niftylab/niftylab.github.io/master/assets/img/chips/16_18gtx.png)  
 Process: 28nm CMOS  
 Tapeout Year: 2022
 
 #### A 28-Gb/s Single-Ended PAM-4 Receiver
-![chip15](https://raw.githubusercontent.com/niftylab/niftylab.github.io/master/assets/img/chips/15_28grx.png)  
+![chip16](https://raw.githubusercontent.com/niftylab/niftylab.github.io/master/assets/img/chips/15_28grx.png)  
 Process: 40nm CMOS  
 Tapeout Year: 2022
 
 #### A 35-Gb/s PAM-4 Transmitter
-![chip15](https://raw.githubusercontent.com/niftylab/niftylab.github.io/master/assets/img/chips/14_35gtx.png)  
+![chip15](https://raw.githubusercontent.com/niftylab/niftylab.github.io/master/assets/img/chips/14_b_35gtx.png)  
 Process: 28nm CMOS  
 Tapeout Year: 2021
 
