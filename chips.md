@@ -17,7 +17,7 @@ Tapeout Year: 2022
 #### A 35-Gb/s PAM-4 Transmitter
 ![chip15](https://raw.githubusercontent.com/niftylab/niftylab.github.io/master/assets/img/chips/14_b_35gpam4.png)  
 Process: 28nm CMOS  
-Tapeout Year: 2021
+Tapeout Year: 2022
 
 #### A 100-Gb/s PAM-8 Transmitter
 ![chip14](https://raw.githubusercontent.com/niftylab/niftylab.github.io/master/assets/img/chips/14_pam8.png)  
