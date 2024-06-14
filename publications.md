@@ -7,7 +7,7 @@ layout: default
 ### Peer-reviewed Journal Articles
 
 #### 2024
-![badge](https://img.shields.io/badge/IEEE-TCAS--I-blue) 
+![badge](https://img.shields.io/badge/IEEE-TCAS--I-blue)  
 H. Kim, Y. Jo, S. Lee, E. Lee, Y. Choi, J. Park, M. Kwak, J. Choi, Y. Choi, and J. Han, "**A 32-Gb/s Single-Ended PAM-4 Transceiver With Asymmetric Termination and Equalization Techniques for Next-Generation Memory Interfaces**," IEEE Trans. Circuits and Syst. I: Regular Papers, Jun. 2024.
 
 ![badge](https://img.shields.io/badge/IEEE-TCAS--II-blue)  
