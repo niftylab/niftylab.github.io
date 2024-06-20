@@ -14,10 +14,10 @@ H. Kim, Y. Jo, S. Lee, E. Lee, Y. Choi, J. Park, M. Kwak, J. Choi, Y. Choi, and 
 G. Park, S. Yeom, I.-W. Jang, D. Lee, Jaeduk Han, and Min-Seong Choo, "**3.2-GHz Digital Phase-Locked Loop With Autocorrelation-Based Direct Jitter Correction**," IEEE Trans. Circuits and Syst. II: Express Briefs, 2024. 
 
 ![badge](https://img.shields.io/badge/IEEE-TCAS--II-blue)  
-S. Lee, J. Lim, and J. Han, "**A PSRR-Enhanced Fast-Response Inverter-Based LDO for Mobile Devices**," IEEE Trans. Circuits and Syst. II: Express Briefs, 2024. 
+S. Lee, J. Lim, and J. Han, "**A PSRR-Enhanced Fast-Response Inverter-Based LDO for Mobile Devices**," IEEE Trans. Circuits and Syst. II: Express Briefs, Vol. 71, No. 6, pp. 3226-3230, Jun. 2024. 
 
 ![badge](https://img.shields.io/badge/IEEE-TCAS--II-blue)  
-Y. Oh, H. Im, J. Yang, E. Song, D. Lee, S. Lee, T. Shin, and J. Han, "**A 100-Gb/s PAM-8 Transmitter With 3-Tap FFE and High-Swing Hybrid Driver in 40-nm CMOS Technology**," IEEE Trans. Circuits and Syst. II: Express Briefs, 2024. 
+Y. Oh, H. Im, J. Yang, E. Song, D. Lee, S. Lee, T. Shin, and J. Han, "**A 100-Gb/s PAM-8 Transmitter With 3-Tap FFE and High-Swing Hybrid Driver in 40-nm CMOS Technology**," IEEE Trans. Circuits and Syst. II: Express Briefs, Vol. 71, No. 6, pp. 2936-2940, Jun. 2024. 
 
 ![badge](https://img.shields.io/badge/IEEE-TCAS--II-blue)  
 W. Shin, H. Seo, S. Lee, D.-H. Choi, Y.-H. Kwak, S.-J. Won, and J. Han, "**A Variation-Tolerant Voltage-Mode Transmitter With 3+1 Tap FFE in 28-nm CMOS**," IEEE Trans. Circuits and Syst. II: Express Briefs, Vol. 71, No. 4, pp. 1819 - 1823, Apr. 2024. 
