@@ -48,7 +48,7 @@ H. Kim, H. Seo, Y. Jo, C. Yoo, and J. Han, "**An 8b9b 77.44-Gb/s Noise-Immune Sp
 H. Seo, J. Han, K. Kim, B. Lim, E. Shin, Y. Choi, H. Ko, J. Choi, S. Lee, C. Yoo, and J. Han, "**A 12-Gb/s Baud-rate Clock and Data Recovery with 75% Phase-detection Probability by Precoding and Integration-Hold-Reset Frontend**," IEEE Trans. Circuits and Syst. II: Express Briefs, Feb. 2023.
 
 ![badge](https://img.shields.io/badge/IEEE-Access-blue)  
-D. Lee, G. Park, J. Han, and M.-S. Choo, "**An Automated Design Methodology for Ring Voltage-Controlled Oscillators in Nanometer CMOS Technologies**," IEEE Access, Jan. 2023.
+D. Lee, G. Park, J. Han, and M.-S. Choo, "**An Automated Design Methodology for Ring Voltage-Controlled Oscillators in Nanometer CMOS Technologies**," IEEE Access, Vol. 11, pp. 7530-7539, Jan. 2023.
 
 #### 2022
 ![badge](https://img.shields.io/badge/Wiley-ETRIJ-blue)  
