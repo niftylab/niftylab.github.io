@@ -90,7 +90,7 @@ J. Han, W. Bae, E. Y. Chang, Z. Wang, B. Nikolić, and E. Alon, "**LAYGO: A Temp
 ![badge](https://img.shields.io/badge/IEEE-SMACD-blue)  
 J. Nam, J. Han, and H. Kim, "**Low-Power Encoding for PAM-3 DRAM Bus**," in Int. Conf. Synth., Model., Anal. Simul. Methods, Appl. Circuit Des. (SMACD), Jul. 2024.
 
-![badge](https://img.shields.io/badge/IEEE-ISCAS-blue) 
+![badge](https://img.shields.io/badge/IEEE-ISCAS-blue)  
 Z. Wang, M. Choi, P. Kwon, K. Lee, B. Yin, Z. Liu, K. Park, A. Biswas, J. Han, S. Du, E. Alon, "**A 24.6-29.6GHz Hybrid Sub-Sampling PLL with Tri-State Integral Path Achieving 44fs Jitter and -254.8dB FOM in 28nm CMOS**," in IEEE Int. Symp. on Circuits and Syst., May. 2024.
 
 #### 2023
