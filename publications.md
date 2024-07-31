@@ -7,6 +7,9 @@ layout: default
 ### Peer-reviewed Journal Articles
 
 #### 2024
+![badge](https://img.shields.io/badge/IEEE-Access-blue)  
+S. Hong, Y. Tae, D. Lee, G. Park, J. Lim, K. Cho, C. Jeong, M.-J. Park, and J. Han, "**Analog Circuit Design Automation via Sequential RL Agents and gm/ID Methodology**," IEEE Access, 2024.
+
 ![badge](https://img.shields.io/badge/IEEE-TCAS--I-blue)  
 H. Kim, Y. Jo, S. Lee, E. Lee, Y. Choi, J. Park, M. Kwak, J. Choi, Y. Choi, and J. Han, "**A 32-Gb/s Single-Ended PAM-4 Transceiver With Asymmetric Termination and Equalization Techniques for Next-Generation Memory Interfaces**," IEEE Trans. Circuits and Syst. I: Regular Papers, 2024.
 
