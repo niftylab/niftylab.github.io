@@ -7,6 +7,10 @@ layout: default
 ### Peer-reviewed Journal Articles
 
 #### 2024
+
+![badge](https://img.shields.io/badge/IEEE-TCAS--II-blue)  
+S. Lee, H. Seo, S. Son, S. Yeom, and J. Han, "**A 102-Gb/s/lane 1.4-Vppd Linear Range PAM-8 Receiver Frontend With Multi-Path Continuous-Time Linear Equalization in 28-nm CMOS**," IEEE Trans. Circuits and Syst. II: Express Briefs, 2024. 
+
 ![badge](https://img.shields.io/badge/IEEE-Access-blue)  
 S. Hong, Y. Tae, D. Lee, G. Park, J. Lim, K. Cho, C. Jeong, M.-J. Park, and J. Han, "**Analog Circuit Design Automation via Sequential RL Agents and gm/ID Methodology**," IEEE Access, 2024.
 
