@@ -8,6 +8,9 @@ layout: default
 
 #### 2024
 
+![badge](https://img.shields.io/badge/arXiv-blue)  
+G. You, Y. Byun, S. Lim, and J. Han, "**Interactive and Automatic Generation of Primitive Custom Circuit Layout Using LLMs**," arXiv, Aug. 2024. 
+
 ![badge](https://img.shields.io/badge/IEEE-TCAS--II-blue)  
 S. Lee, H. Seo, S. Son, S. Yeom, and J. Han, "**A 102-Gb/s/lane 1.4-Vppd Linear Range PAM-8 Receiver Frontend With Multi-Path Continuous-Time Linear Equalization in 28-nm CMOS**," IEEE Trans. Circuits and Syst. II: Express Briefs, 2024. 
 
