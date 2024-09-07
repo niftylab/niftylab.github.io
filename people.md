@@ -123,8 +123,6 @@ layout: default
 
 이무석(Moosuk Lee) MS, Class of 2022, LX Semicon
 
-박기진(Gijin Park) BS, Class of 2022, TAMU 박사과정
-
 송은지(Eunji Song) MS, Class of 2023, SK 하이닉스
 
 신욱진(Wookjin Shin) MS, Class of 2023, SK 하이닉스
@@ -135,6 +133,8 @@ layout: default
 
 손승우(Seungwoo Son) MS, Class of 2024, SK 하이닉스
 
+#### Bachelor of Science
 
+박기진(Gijin Park) BS, Class of 2022, TAMU 박사과정
 
 [back](./)
