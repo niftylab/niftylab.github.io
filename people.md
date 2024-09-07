@@ -83,6 +83,14 @@ layout: default
 
 ### Alumni
 
+#### Doctor of Philosophy
+
+이은상(Eunsang Lee) Ph.D, Class of 2023, 삼성전자
+
+서형민(Hyeongmin Seo) Ph.D, Class of 2024, SK 하이닉스
+
+#### Master of Science
+
 한지윤(Jiyun Han) MS, Class of 2021, 삼성전자
 
 구동재(Dongjae Koo) MS, Class of 2022, IIST
@@ -117,15 +125,11 @@ layout: default
 
 박기진(Gijin Park) BS, Class of 2022, TAMU 박사과정
 
-이은상(Eunsang Lee) Ph.D, Class of 2023, 삼성전자
-
 송은지(Eunji Song) MS, Class of 2023, SK 하이닉스
 
 신욱진(Wookjin Shin) MS, Class of 2023, SK 하이닉스
 
 염선오(Sunoh Yeom) MS, Class of 2023, SK 하이닉스
-
-서형민(Hyeongmin Seo) Ph.D, Class of 2024, SK 하이닉스
 
 오영민(Youngmin Oh) MS, Class of 2024, 삼성전자
 
