@@ -21,7 +21,7 @@ S. Hong, Y. Tae, D. Lee, G. Park, J. Lim, K. Cho, C. Jeong, M.-J. Park, and J. H
 H. Kim, Y. Jo, S. Lee, E. Lee, Y. Choi, J. Park, M. Kwak, J. Choi, Y. Choi, and J. Han, "**A 32-Gb/s Single-Ended PAM-4 Transceiver With Asymmetric Termination and Equalization Techniques for Next-Generation Memory Interfaces**," IEEE Trans. Circuits and Syst. I: Regular Papers, 2024.
 
 ![badge](https://img.shields.io/badge/IEEE-TCAS--II-blue)  
-G. Park, S. Yeom, I.-W. Jang, D. Lee, Jaeduk Han, and Min-Seong Choo, "**3.2-GHz Digital Phase-Locked Loop With Autocorrelation-Based Direct Jitter Correction**," IEEE Trans. Circuits and Syst. II: Express Briefs, 2024. 
+G. Park, S. Yeom, I.-W. Jang, D. Lee, Jaeduk Han, and Min-Seong Choo, "**3.2-GHz Digital Phase-Locked Loop With Autocorrelation-Based Direct Jitter Correction**," IEEE Trans. Circuits and Syst. II: Express Briefs, vol. 71, no. 9, pp. 4091-4095, Sep. 2024.
 
 ![badge](https://img.shields.io/badge/IEEE-TCAS--II-blue)  
 S. Lee, J. Lim, and J. Han, "**A PSRR-Enhanced Fast-Response Inverter-Based LDO for Mobile Devices**," IEEE Trans. Circuits and Syst. II: Express Briefs, Vol. 71, No. 6, pp. 3226-3230, Jun. 2024. 
