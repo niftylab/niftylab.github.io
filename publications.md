@@ -16,6 +16,9 @@ H. Kim, Y. Jo, S. Lee, E. Lee, Y. Choi, J. Park, M. Kwak, J. Choi, Y. Choi, and 
 ![badge](https://img.shields.io/badge/IEEE-TCAS--II-blue)  
 G. Park, S. Yeom, I.-W. Jang, D. Lee, Jaeduk Han, and Min-Seong Choo, "**3.2-GHz Digital Phase-Locked Loop With Autocorrelation-Based Direct Jitter Correction**," IEEE Trans. Circuits and Syst. II: Express Briefs, vol. 71, no. 9, pp. 4091-4095, Sep. 2024.
 
+![badge](https://img.shields.io/badge/IEEK-JSTS-blue)  
+E. Lee, S. Lee, C. Pyo, H. Kim, and J. Han, "**A 2-GS/s 6-bit Single-Channel Speculative Loop-Unrolled SAR ADC with Low-Overhead Comparator Offset Calibration in 28-nm CMOS**," J. Semicond. Technol. Sci., Aug. 2024.
+
 ![badge](https://img.shields.io/badge/arXiv-blue)  
 G. You, Y. Byun, S. Lim, and J. Han, "**Interactive and Automatic Generation of Primitive Custom Circuit Layout Using LLMs**," arXiv, Aug. 2024. 
 
