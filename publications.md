@@ -8,13 +8,13 @@ layout: default
 
 #### 2024
 ![badge](https://img.shields.io/badge/IEEE-TCAS--II-blue)  
-S. Lee, H. Seo, S. Son, S. Yeom, and J. Han, "**A 102-Gb/s/lane 1.4-Vppd Linear Range PAM-8 Receiver Frontend With Multi-Path Continuous-Time Linear Equalization in 28-nm CMOS**," IEEE Trans. Circuits and Syst. II: Express Briefs, 2024. 
+S. Lee, H. Seo, S. Son, S. Yeom, and J. Han, "**A 102-Gb/s/lane 1.4-Vppd Linear Range PAM-8 Receiver Frontend With Multi-Path Continuous-Time Linear Equalization in 28-nm CMOS**," IEEE Trans. Circuits Syst. II: Express Briefs, 2024. 
 
 ![badge](https://img.shields.io/badge/IEEE-TCAS--I-blue)  
-**[삼성전자 우수논문상]** H. Kim, Y. Jo, S. Lee, E. Lee, Y. Choi, J. Park, M. Kwak, J. Choi, Y. Choi, and J. Han, "**A 32-Gb/s Single-Ended PAM-4 Transceiver With Asymmetric Termination and Equalization Techniques for Next-Generation Memory Interfaces**," IEEE Trans. Circuits and Syst. I: Regular Papers, 2024.
+**[삼성전자 우수논문상]** H. Kim, Y. Jo, S. Lee, E. Lee, Y. Choi, J. Park, M. Kwak, J. Choi, Y. Choi, and J. Han, "**A 32-Gb/s Single-Ended PAM-4 Transceiver With Asymmetric Termination and Equalization Techniques for Next-Generation Memory Interfaces**," IEEE Trans. Circuits Syst. I: Regular Papers, 2024.
 
 ![badge](https://img.shields.io/badge/IEEE-TCAS--II-blue)  
-G. Park, S. Yeom, I.-W. Jang, D. Lee, Jaeduk Han, and Min-Seong Choo, "**3.2-GHz Digital Phase-Locked Loop With Autocorrelation-Based Direct Jitter Correction**," IEEE Trans. Circuits and Syst. II: Express Briefs, vol. 71, no. 9, pp. 4091-4095, Sep. 2024.
+G. Park, S. Yeom, I.-W. Jang, D. Lee, Jaeduk Han, and Min-Seong Choo, "**3.2-GHz Digital Phase-Locked Loop With Autocorrelation-Based Direct Jitter Correction**," IEEE Trans. Circuits Syst. II: Express Briefs, vol. 71, no. 9, pp. 4091-4095, Sep. 2024.
 
 ![badge](https://img.shields.io/badge/IEEK-JSTS-blue)  
 E. Lee, S. Lee, C. Pyo, H. Kim, and J. Han, "**A 2-GS/s 6-bit Single-Channel Speculative Loop-Unrolled SAR ADC with Low-Overhead Comparator Offset Calibration in 28-nm CMOS**," J. Semicond. Technol. Sci., Aug. 2024.
@@ -26,38 +26,38 @@ G. You, Y. Byun, S. Lim, and J. Han, "**Interactive and Automatic Generation of 
 S. Hong, Y. Tae, D. Lee, G. Park, J. Lim, K. Cho, C. Jeong, M.-J. Park, and J. Han, "**Analog Circuit Design Automation via Sequential RL Agents and gm/ID Methodology**," IEEE Access, vol. 12, pp. 104473-104489, Aug. 2024.
 
 ![badge](https://img.shields.io/badge/IEEE-TCAS--II-blue)  
-S. Lee, J. Lim, and J. Han, "**A PSRR-Enhanced Fast-Response Inverter-Based LDO for Mobile Devices**," IEEE Trans. Circuits and Syst. II: Express Briefs, Vol. 71, No. 6, pp. 3226-3230, Jun. 2024. 
+S. Lee, J. Lim, and J. Han, "**A PSRR-Enhanced Fast-Response Inverter-Based LDO for Mobile Devices**," IEEE Trans. Circuits Syst. II: Express Briefs, Vol. 71, No. 6, pp. 3226-3230, Jun. 2024. 
 
 ![badge](https://img.shields.io/badge/IEEE-TCAS--II-blue)  
-Y. Oh, H. Im, J. Yang, E. Song, D. Lee, S. Lee, T. Shin, and J. Han, "**A 100-Gb/s PAM-8 Transmitter With 3-Tap FFE and High-Swing Hybrid Driver in 40-nm CMOS Technology**," IEEE Trans. Circuits and Syst. II: Express Briefs, Vol. 71, No. 6, pp. 2936-2940, Jun. 2024. 
+Y. Oh, H. Im, J. Yang, E. Song, D. Lee, S. Lee, T. Shin, and J. Han, "**A 100-Gb/s PAM-8 Transmitter With 3-Tap FFE and High-Swing Hybrid Driver in 40-nm CMOS Technology**," IEEE Trans. Circuits Syst. II: Express Briefs, Vol. 71, No. 6, pp. 2936-2940, Jun. 2024. 
 
 ![badge](https://img.shields.io/badge/IEEE-TCAS--II-blue)  
-W. Shin, H. Seo, S. Lee, D.-H. Choi, Y.-H. Kwak, S.-J. Won, and J. Han, "**A Variation-Tolerant Voltage-Mode Transmitter With 3+1 Tap FFE in 28-nm CMOS**," IEEE Trans. Circuits and Syst. II: Express Briefs, Vol. 71, No. 4, pp. 1819 - 1823, Apr. 2024. 
+W. Shin, H. Seo, S. Lee, D.-H. Choi, Y.-H. Kwak, S.-J. Won, and J. Han, "**A Variation-Tolerant Voltage-Mode Transmitter With 3+1 Tap FFE in 28-nm CMOS**," IEEE Trans. Circuits Syst. II: Express Briefs, Vol. 71, No. 4, pp. 1819 - 1823, Apr. 2024. 
 
 ![badge](https://img.shields.io/badge/IEEE-TCAS--II-blue)  
-T. Sim, S. Yeom, H. Im, Y. Oh, H. Seo, H. Ko, H. Chi, H. Jung, and J. Han, "**A 28-Gb/s Single-Ended PAM-4 Receiver With T-Coil-Integrated Continuous-Time Linear Equalizer in 40-nm CMOS Technology**," IEEE Trans. Circuits and Syst. II: Express Briefs, Vol. 71, No. 3, pp. 1012-1016, Mar. 2024. 
+T. Sim, S. Yeom, H. Im, Y. Oh, H. Seo, H. Ko, H. Chi, H. Jung, and J. Han, "**A 28-Gb/s Single-Ended PAM-4 Receiver With T-Coil-Integrated Continuous-Time Linear Equalizer in 40-nm CMOS Technology**," IEEE Trans. Circuits Syst. II: Express Briefs, Vol. 71, No. 3, pp. 1012-1016, Mar. 2024. 
 
 ![badge](https://img.shields.io/badge/IEEE-TCAS--II-blue)  
-E. Song, J. Han, H. Seo, H. Kim, H. Im, and J. Han, "**A 35-Gb/s PAM-4 Transmitter with 7B4Q Full-Transition Avoidance and Area-Efficient Gm-Boosting Technique**," IEEE Trans. Circuits and Syst. II: Express Briefs, Vol. 71, No. 1, pp. 46-50, Jan. 2024. 
+E. Song, J. Han, H. Seo, H. Kim, H. Im, and J. Han, "**A 35-Gb/s PAM-4 Transmitter with 7B4Q Full-Transition Avoidance and Area-Efficient Gm-Boosting Technique**," IEEE Trans. Circuits Syst. II: Express Briefs, Vol. 71, No. 1, pp. 46-50, Jan. 2024. 
 
 #### 2023
 ![badge](https://img.shields.io/badge/IEEE-TCAD-blue)  
 T. Shin, D. Lee, D. Kim, G. Sung, W. Shin, Y. Jo, H. Park, and J. Han, "**LAYGO2: A Custom Layout Generation Engine Based on Dynamic Templates and Grids for Advanced CMOS Technologies**," IEEE Trans. Comput.-Aided Des. Integr., Vol. 42, No. 10, pp. 4402-4412, Dec. 2023.
 
 ![badge](https://img.shields.io/badge/IEEE-TCAS--I-blue)  
-K. Kim, S. Moon, J. Han, E. Alon, and A. M. Niknejad, "**Precursor ISI Cancellation Sliding-Block DFE for High-Speed Wireline Receivers**," IEEE Trans. Circuits and Syst. I: Regular Papers, Vol. 70, No. 10, pp. 4169-4182, Aug. 2023.
+K. Kim, S. Moon, J. Han, E. Alon, and A. M. Niknejad, "**Precursor ISI Cancellation Sliding-Block DFE for High-Speed Wireline Receivers**," IEEE Trans. Circuits Syst. I: Regular Papers, Vol. 70, No. 10, pp. 4169-4182, Aug. 2023.
 
 ![badge](https://img.shields.io/badge/IEEE-TCAS--II-blue)  
-H. Kim, H. Seo, H. Kim, C. Yoo, and J. Han, "**A 16-Gb/s/wire 4-Wire Short-Haul Transceiver with Balanced Single-Ended Signaling (BASES) in 28-nm CMOS**," IEEE Trans. Circuits and Syst. II: Express Briefs, Aug. 2023. 
+H. Kim, H. Seo, H. Kim, C. Yoo, and J. Han, "**A 16-Gb/s/wire 4-Wire Short-Haul Transceiver with Balanced Single-Ended Signaling (BASES) in 28-nm CMOS**," IEEE Trans. Circuits Syst. II: Express Briefs, Aug. 2023. 
 
 ![badge](https://img.shields.io/badge/IEEE-SSCL-blue)  
 G. Park, D. Lee, J. Han, and W. Bae, "**A High-Frequency and Low-Jitter DLL with Quadrature Error and Duty Cycle Corrections Based on Asynchronous Sampling**," IEEE Solid-State Circuits Letters, Feb. 2023.
 
 ![badge](https://img.shields.io/badge/IEEE-TCAS--II-blue)  
-H. Kim, H. Seo, Y. Jo, C. Yoo, and J. Han, "**An 8b9b 77.44-Gb/s Noise-Immune Spatial-Delta Coded Transceiver for Short-Reach Memory Interfaces in 28-nm CMOS**," IEEE Trans. Circuits and Syst. II: Express Briefs, Mar. 2023. 
+H. Kim, H. Seo, Y. Jo, C. Yoo, and J. Han, "**An 8b9b 77.44-Gb/s Noise-Immune Spatial-Delta Coded Transceiver for Short-Reach Memory Interfaces in 28-nm CMOS**," IEEE Trans. Circuits Syst. II: Express Briefs, Mar. 2023. 
 
 ![badge](https://img.shields.io/badge/IEEE-TCAS--II-blue)  
-H. Seo, J. Han, K. Kim, B. Lim, E. Shin, Y. Choi, H. Ko, J. Choi, S. Lee, C. Yoo, and J. Han, "**A 12-Gb/s Baud-rate Clock and Data Recovery with 75% Phase-detection Probability by Precoding and Integration-Hold-Reset Frontend**," IEEE Trans. Circuits and Syst. II: Express Briefs, Feb. 2023.
+H. Seo, J. Han, K. Kim, B. Lim, E. Shin, Y. Choi, H. Ko, J. Choi, S. Lee, C. Yoo, and J. Han, "**A 12-Gb/s Baud-rate Clock and Data Recovery with 75% Phase-detection Probability by Precoding and Integration-Hold-Reset Frontend**," IEEE Trans. Circuits Syst. II: Express Briefs, Feb. 2023.
 
 ![badge](https://img.shields.io/badge/IEEE-Access-blue)  
 D. Lee, G. Park, J. Han, and M.-S. Choo, "**An Automated Design Methodology for Ring Voltage-Controlled Oscillators in Nanometer CMOS Technologies**," IEEE Access, Vol. 11, pp. 7530-7539, Jan. 2023.
@@ -70,7 +70,7 @@ E. Song, S. Park, and J. Han, "**Transition-Limited Pulse-Amplitude Modulation T
 E. Lee, and J. Han, "**Time-domain Continuous-time Delta-sigma Modulator using VCO-based Integrator and GRO-based Quantizer**," J. Semicond. Technol. Sci., Aug. 2022.
 
 ![badge](https://img.shields.io/badge/IEEE-TCAS--I-blue)  
-E. Lee, C. Pyo, S. Lee, and J. Han, "**A 1.5-GS/s 6-bit Single-Channel Loop-Unrolled SAR ADC With Speculative CDAC Switching Control Technique in 28-nm CMOS**," IEEE Trans. Circuits and Syst. I: Regular Papers, Jun. 2022.
+E. Lee, C. Pyo, S. Lee, and J. Han, "**A 1.5-GS/s 6-bit Single-Channel Loop-Unrolled SAR ADC With Speculative CDAC Switching Control Technique in 28-nm CMOS**," IEEE Trans. Circuits Syst. I: Regular Papers, Jun. 2022.
 
 ![badge](https://img.shields.io/badge/IEEE-Access-blue)  
 T. No, S. Choi, G. Sung, S.-B. Kim, J. Han, and Y.-H. Song, "**A Discharge-Path-Based Sensing Circuit with OTS Snapback Current Protection for Phase Change Memories**," IEEE Access, vol. 10, pp. 53513-53521, May 2022.
@@ -83,7 +83,7 @@ G. Park, J. Han, and W. Bae, "**Design and Analysis of Asynchronous Sampling Dut
 Z. Wang, M. Choi, K. Lee, K. Park, Z. Liu, A. Biswas, J. Han, S. Du, and E. Alon, "**An Output Bandwidth Optimized 200 Gb/s PAM-4 100 Gb/s NRZ Transmitter with 5-Tap FFE in 28nm CMOS**," IEEE J. Solid-State Circuits, Special Issue on the 2021 International Solid State Circuits Conference (ISSCC 2021), Vol. 57, No. 1, pp. 21-31, Sep. 2021.
 
 ![badge](https://img.shields.io/badge/IEEE-TCAS--I-blue)   
-J. Han, W. Bae, E. Y. Chang, Z. Wang, B. Nikolić, and E. Alon, "**LAYGO: A Template-and-Grid-Based Layout Generation Engine for Advanced CMOS Technologies**," IEEE Trans. Circuits and Syst. I: Regular Papers, vol. 68, no. 3, pp. 1012–1022, Mar. 2021.
+J. Han, W. Bae, E. Y. Chang, Z. Wang, B. Nikolić, and E. Alon, "**LAYGO: A Template-and-Grid-Based Layout Generation Engine for Advanced CMOS Technologies**," IEEE Trans. Circuits Syst. I: Regular Papers, vol. 68, no. 3, pp. 1012–1022, Mar. 2021.
 
 #### Prior to 2021
 
@@ -99,11 +99,17 @@ J. Han, W. Bae, E. Y. Chang, Z. Wang, B. Nikolić, and E. Alon, "**LAYGO: A Temp
 ### Peer-reviewed Conference Papers
 
 #### 2024
+![badge](https://img.shields.io/badge/IEEE-ISICAS-blue)  
+S. Lee, H. Seo, S. Son, S. Yeom, and J. Han, "**A 102-Gb/s/lane 1.4-Vppd Linear Range PAM-8 Receiver Frontend With Multi-Path Continuous-Time Linear Equalization in 28-nm CMOS**," in IEEE Int. Symp. Integr. Circuits Syst., Oct. 2024.
+
+![badge](https://img.shields.io/badge/IEEE-ISICAS-blue)  
+H. Kim, Y. Jo, S. Lee, E. Lee, Y. Choi, J. Park, M. Kwak, J. Choi, Y. Choi, and J. Han, "**A 32-Gb/s Single-Ended PAM-4 Transceiver With Asymmetric Termination and Equalization Techniques for Next-Generation Memory Interfaces**," in IEEE Int. Symp. Integr. Circuits Syst., Oct. 2024.
+
 ![badge](https://img.shields.io/badge/IEEE-SMACD-blue)  
 J. Nam, J. Han, and H. Kim, "**Low-Power Encoding for PAM-3 DRAM Bus**," in Int. Conf. Synth., Model., Anal. Simul. Methods, Appl. Circuit Des. (SMACD), Jul. 2024.
 
 ![badge](https://img.shields.io/badge/IEEE-ISCAS-blue)  
-Z. Wang, M. Choi, P. Kwon, K. Lee, B. Yin, Z. Liu, K. Park, A. Biswas, J. Han, S. Du, E. Alon, "**A 24.6-29.6GHz Hybrid Sub-Sampling PLL with Tri-State Integral Path Achieving 44fs Jitter and -254.8dB FOM in 28nm CMOS**," in IEEE Int. Symp. on Circuits and Syst., May. 2024.
+Z. Wang, M. Choi, P. Kwon, K. Lee, B. Yin, Z. Liu, K. Park, A. Biswas, J. Han, S. Du, E. Alon, "**A 24.6-29.6GHz Hybrid Sub-Sampling PLL with Tri-State Integral Path Achieving 44fs Jitter and -254.8dB FOM in 28nm CMOS**," in IEEE Int. Symp. Circuits and Syst., May. 2024.
 
 #### 2023
 ![badge](https://img.shields.io/badge/IEEE-ISSCC-blue)  
@@ -120,7 +126,7 @@ E. Song, J. Yang, S. Hong, and J. Han, "**A 32-Gb/S High-Swing PAM-4 Current-Mod
 Z. Wang, M. Choi, P. Kwon, K. Lee, B. Yin, Z. Liu, K. Park, A. Biswas, J. Han, S. Du, E. Alon, “**A 200Gb/s PAM-4 Transmitter with Hybrid Sub-Sampling PLL in 28nm CMOS Technology**,” in IEEE Int. Symp. VLSI Circuits, Jun. 2022.
 
 ![badge](https://img.shields.io/badge/IEEE-ISCAS-blue)  
-Z. Wang, M. Choi, J. Wright, K. Lee, Z. Liu, B. Yin, J. Han, S. Du, E. Alon, “**A Ring-Oscillator Sub-Sampling PLL with Hybrid Loop Using Generator-Based Design Flow**,” in IEEE Int. Symp. on Circuits and Syst., May. 2022.
+Z. Wang, M. Choi, J. Wright, K. Lee, Z. Liu, B. Yin, J. Han, S. Du, E. Alon, “**A Ring-Oscillator Sub-Sampling PLL with Hybrid Loop Using Generator-Based Design Flow**,” in IEEE Int. Symp. Circuits and Syst., May. 2022.
 
 #### 2021
 ![badge](https://img.shields.io/badge/IEEE-ISOCC-blue)  
