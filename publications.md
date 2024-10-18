@@ -100,7 +100,7 @@ J. Han, W. Bae, E. Y. Chang, Z. Wang, B. Nikolić, and E. Alon, "**LAYGO: A Temp
 
 #### 2025
 ![badge](https://img.shields.io/badge/IEEE-ISSCC-blue)  
-(accepted) Y. Jo, H. Kim, Y. Choi, J. Park, M. Kwak, and J. Han, "**A 32-50Gb/s/pin Single-Ended PAM-4 Transmitter with ZQBased FFE and PAM-4 LSB DBI-DC Encoding**," in IEEE Int. Solid-State Circuits Conf. (ISSCC 2025), Feb. 2025.
+(accepted) Y. Jo, H. Kim, Y. Choi, J. Park, M. Kwak, and J. Han, "**A 32-50Gb/s/pin Single-Ended PAM-4 Transmitter with ZQ-Based FFE and PAM-4 LSB DBI-DC Encoding**," in IEEE Int. Solid-State Circuits Conf. (ISSCC 2025), Feb. 2025.
 
 ![badge](https://img.shields.io/badge/IEEE-ASPDAC-blue)  
 (accepted) Y. Jo, T. Kang, J. Yang, and J. Han, "**A 500-MS/s 8-bit SAR ADC Generated from an Automated Layout Generation Framework in 14-nm FinFET Technology**," in Proceedings of Asia South Pacific Des. Autom. Conf. (ASPDAC 2025), Jan. 2025.
