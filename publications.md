@@ -100,25 +100,27 @@ J. Han, W. Bae, E. Y. Chang, Z. Wang, B. Nikolić, and E. Alon, "**LAYGO: A Temp
 
 #### 2025
 ![badge](https://img.shields.io/badge/IEEE-ISSCC-blue)  
-(accepted) Y. Jo, H. Kim, Y. Choi, J. Park, M. Kwak, and J. Han, "**A 32-50Gb/s/pin Single-Ended PAM-4 Transmitter with ZQBased FFE and PAM-4 LSB DBI-DC Encoding**," in IEEE Int. Solid-State Circuits Conf., Feb. 2025.
+(accepted) Y. Jo, H. Kim, Y. Choi, J. Park, M. Kwak, and J. Han, "**A 32-50Gb/s/pin Single-Ended PAM-4 Transmitter with ZQBased FFE and PAM-4 LSB DBI-DC Encoding**," in IEEE Int. Solid-State Circuits Conf. (ISSCC 2025), Feb. 2025.
 
+![badge](https://img.shields.io/badge/IEEE-ASPDAC-blue)  
+(accepted) Y. Jo, T. Kang, J. Yang, and J. Han, "**A 500-MS/s 8-bit SAR ADC Generated from an Automated Layout Generation Framework in 14-nm FinFET Technology**," in Proceedings of Asia South Pacific Des. Autom. Conf. (ASPDAC 2025), Jan. 2025.
 
 #### 2024
 ![badge](https://img.shields.io/badge/IEEE-ISICAS-blue)  
-S. Lee, H. Seo, S. Son, S. Yeom, and J. Han, "**A 102-Gb/s/lane 1.4-Vppd Linear Range PAM-8 Receiver Frontend With Multi-Path Continuous-Time Linear Equalization in 28-nm CMOS**," in IEEE Int. Symp. Integr. Circuits Syst., Oct. 2024.
+S. Lee, H. Seo, S. Son, S. Yeom, and J. Han, "**A 102-Gb/s/lane 1.4-Vppd Linear Range PAM-8 Receiver Frontend With Multi-Path Continuous-Time Linear Equalization in 28-nm CMOS**," in IEEE Int. Symp. Integr. Circuits Syst. (ISICAS 2024), Oct. 2024.
 
 ![badge](https://img.shields.io/badge/IEEE-ISICAS-blue)  
-H. Kim, Y. Jo, S. Lee, E. Lee, Y. Choi, J. Park, M. Kwak, J. Choi, Y. Choi, and J. Han, "**A 32-Gb/s Single-Ended PAM-4 Transceiver With Asymmetric Termination and Equalization Techniques for Next-Generation Memory Interfaces**," in IEEE Int. Symp. Integr. Circuits Syst., Oct. 2024.
+H. Kim, Y. Jo, S. Lee, E. Lee, Y. Choi, J. Park, M. Kwak, J. Choi, Y. Choi, and J. Han, "**A 32-Gb/s Single-Ended PAM-4 Transceiver With Asymmetric Termination and Equalization Techniques for Next-Generation Memory Interfaces**," in IEEE Int. Symp. Integr. Circuits Syst. (ISICAS 2024), Oct. 2024.
 
 ![badge](https://img.shields.io/badge/IEEE-SMACD-blue)  
-J. Nam, J. Han, and H. Kim, "**Low-Power Encoding for PAM-3 DRAM Bus**," in Int. Conf. Synth., Model., Anal. Simul. Methods, Appl. Circuit Des. (SMACD), Jul. 2024.
+J. Nam, J. Han, and H. Kim, "**Low-Power Encoding for PAM-3 DRAM Bus**," in Int. Conf. Synth., Model., Anal. Simul. Methods, Appl. Circuit Des. (SMACD 204), Jul. 2024.
 
 ![badge](https://img.shields.io/badge/IEEE-ISCAS-blue)  
-Z. Wang, M. Choi, P. Kwon, K. Lee, B. Yin, Z. Liu, K. Park, A. Biswas, J. Han, S. Du, E. Alon, "**A 24.6-29.6GHz Hybrid Sub-Sampling PLL with Tri-State Integral Path Achieving 44fs Jitter and -254.8dB FOM in 28nm CMOS**," in IEEE Int. Symp. Circuits and Syst., May. 2024.
+Z. Wang, M. Choi, P. Kwon, K. Lee, B. Yin, Z. Liu, K. Park, A. Biswas, J. Han, S. Du, E. Alon, "**A 24.6-29.6GHz Hybrid Sub-Sampling PLL with Tri-State Integral Path Achieving 44fs Jitter and -254.8dB FOM in 28nm CMOS**," in IEEE Int. Symp. Circuits and Syst. (ISCAS 2024), May. 2024.
 
 #### 2023
 ![badge](https://img.shields.io/badge/IEEE-ISSCC-blue)  
-J. Yang, E. Song, S. Hong, D. Lee, S. Lee, H. Im, T. Shin, and J. Han, "**A 100Gb/s 1.6Vppd PAM-8 Transmitter with High-Swing 3+1 Hybrid FFE Taps in 40nm**," in IEEE Int. Solid-State Circuits Conf., Feb. 2023.
+J. Yang, E. Song, S. Hong, D. Lee, S. Lee, H. Im, T. Shin, and J. Han, "**A 100Gb/s 1.6Vppd PAM-8 Transmitter with High-Swing 3+1 Hybrid FFE Taps in 40nm**," in IEEE Int. Solid-State Circuits Conf. (ISSCC 2023), Feb. 2023.
 
 #### 2022
 ![badge](https://img.shields.io/badge/IEEE-ICCD-blue)  
