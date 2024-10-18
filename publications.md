@@ -99,6 +99,9 @@ J. Han, W. Bae, E. Y. Chang, Z. Wang, B. Nikolić, and E. Alon, "**LAYGO: A Temp
 ### Peer-reviewed Conference Papers
 
 #### 2024
+![badge](https://img.shields.io/badge/IEEE-ISSCC-blue)  
+(accepted) Y. Jo, H. Kim, Y. Choi, J. Park, M. Kwak, and J. Han, "**A 32-50Gb/s/pin Single-Ended PAM-4 Transmitter with ZQBased FFE and PAM-4 LSB DBI-DC Encoding**," in IEEE Int. Solid-State Circuits Conf., Feb. 2025.
+
 ![badge](https://img.shields.io/badge/IEEE-ISICAS-blue)  
 S. Lee, H. Seo, S. Son, S. Yeom, and J. Han, "**A 102-Gb/s/lane 1.4-Vppd Linear Range PAM-8 Receiver Frontend With Multi-Path Continuous-Time Linear Equalization in 28-nm CMOS**," in IEEE Int. Symp. Integr. Circuits Syst., Oct. 2024.
 
