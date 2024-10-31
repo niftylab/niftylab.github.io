@@ -8,7 +8,7 @@ layout: default
 
 #### 2024
 ![badge](https://img.shields.io/badge/IEEE-TCAS--II-blue)  
-S. Lee, H. Seo, S. Son, S. Yeom, and J. Han, "**A 102-Gb/s/lane 1.4-Vppd Linear Range PAM-8 Receiver Frontend With Multi-Path Continuous-Time Linear Equalization in 28-nm CMOS**," IEEE Trans. Circuits Syst. II: Express Briefs, 2024. 
+S. Lee, H. Seo, S. Son, S. Yeom, and J. Han, "**A 102-Gb/s/lane 1.4-Vppd Linear Range PAM-8 Receiver Frontend With Multi-Path Continuous-Time Linear Equalization in 28-nm CMOS**," IEEE Trans. Circuits Syst. II: Express Briefs, vol. 71, no. 11, pp. 4623-4627, Nov. 2024. 
 
 ![badge](https://img.shields.io/badge/IEEE-TCAS--I-blue)  
 **[삼성전자 우수논문상]** H. Kim, Y. Jo, S. Lee, E. Lee, Y. Choi, J. Park, M. Kwak, J. Choi, Y. Choi, and J. Han, "**A 32-Gb/s Single-Ended PAM-4 Transceiver With Asymmetric Termination and Equalization Techniques for Next-Generation Memory Interfaces**," IEEE Trans. Circuits Syst. I: Regular Papers, vol. 71, no. 11, pp. 4912-4923, Nov. 2024.
