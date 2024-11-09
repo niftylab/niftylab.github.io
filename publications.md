@@ -116,6 +116,9 @@ S. Lee, H. Seo, S. Son, S. Yeom, and J. Han, "**A 102-Gb/s/lane 1.4-Vppd Linear 
 ![badge](https://img.shields.io/badge/IEEE-ISICAS-blue)  
 H. Kim, Y. Jo, S. Lee, E. Lee, Y. Choi, J. Park, M. Kwak, J. Choi, Y. Choi, and J. Han, "**A 32-Gb/s Single-Ended PAM-4 Transceiver With Asymmetric Termination and Equalization Techniques for Next-Generation Memory Interfaces**," in IEEE Int. Symp. Integr. Circuits Syst. (ISICAS 2024), Oct. 2024.
 
+![badge](https://img.shields.io/badge/ACM-MLCAD(WIP)-blue)  
+G. You, Y. Byun, S. Lim, and J Han, "**Interactive and Automatic Generation of Primitive Custom Circuit Layout Using LLMs**", in 6th ACM/IEEE International Symposium on Machine Learning for CAD (MLCAD), Work-In-Progress Presentation, Sep. 2024.
+
 ![badge](https://img.shields.io/badge/IEEE-SMACD-blue)  
 J. Nam, J. Han, and H. Kim, "**Low-Power Encoding for PAM-3 DRAM Bus**," in Int. Conf. Synth., Model., Anal. Simul. Methods, Appl. Circuit Des. (SMACD 204), Jul. 2024.
 
