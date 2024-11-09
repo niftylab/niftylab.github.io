@@ -106,6 +106,10 @@ J. Han, W. Bae, E. Y. Chang, Z. Wang, B. Nikolić, and E. Alon, "**LAYGO: A Temp
 (accepted) Y. Jo, T. Kang, J. Yang, and J. Han, "**A 500-MS/s 8-bit SAR ADC Generated from an Automated Layout Generation Framework in 14-nm FinFET Technology**," in Proceedings of Asia South Pacific Des. Autom. Conf. (ASPDAC 2025), Jan. 2025.
 
 #### 2024
+
+![badge](https://img.shields.io/badge/WOSET-blue)  
+(accepted) J. Park, M. Kim, and J. Han, "**pyngspice: A High-performance Python Binding for Ngspice**", in Workshop on Open-Source EDA Technology (WOSET), Nov. 2024.
+
 ![badge](https://img.shields.io/badge/IEEE-ISICAS-blue)  
 S. Lee, H. Seo, S. Son, S. Yeom, and J. Han, "**A 102-Gb/s/lane 1.4-Vppd Linear Range PAM-8 Receiver Frontend With Multi-Path Continuous-Time Linear Equalization in 28-nm CMOS**," in IEEE Int. Symp. Integr. Circuits Syst. (ISICAS 2024), Oct. 2024.
 
