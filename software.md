@@ -16,4 +16,6 @@ for characterization of MOSFETs.
 
 [Process-Portable Full-Custom Memory Compiler using Laygo2 with Yosys Integration](https://github.com/sscs-ose/sscs-ose-code-a-chip.github.io/tree/main/VLSI23): A Jupyter-Notebook-based circuit generator accepted to the VLSI23's code-a-chip contest.
 
+[pyngspice](https://github.com/LeunPark/pyngspice): A High-performance Python Binding for Ngspice
+
 [back](./)
