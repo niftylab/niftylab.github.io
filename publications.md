@@ -17,7 +17,7 @@ S. Lee, H. Seo, S. Son, S. Yeom, and J. Han, "**A 102-Gb/s/lane 1.4-Vppd Linear 
 **[삼성전자 우수논문상]** H. Kim, Y. Jo, S. Lee, E. Lee, Y. Choi, J. Park, M. Kwak, J. Choi, Y. Choi, and J. Han, "**A 32-Gb/s Single-Ended PAM-4 Transceiver With Asymmetric Termination and Equalization Techniques for Next-Generation Memory Interfaces**," IEEE Trans. Circuits Syst. I: Regular Papers, vol. 71, no. 11, pp. 4912-4923, Nov. 2024.
 
 ![badge](https://img.shields.io/badge/MDPI-Sensors-blue)  
-T. Kim, G. Kim, M.-K. Cho, J. D. Cressler, J. Han, J., and I. Song, "**Investigation of Device- and Circuit-Level Reliability of Inverse-Mode Silicon-Germanium Heterojunction Bipolar Transistors**," MDPI Sensors, Nov. 2024.  
+T. Kim, G. Kim, M.-K. Cho, J. D. Cressler, J. Han, and I. Song, "**Investigation of Device- and Circuit-Level Reliability of Inverse-Mode Silicon-Germanium Heterojunction Bipolar Transistors**," MDPI Sensors, Nov. 2024.  
 
 ![badge](https://img.shields.io/badge/IEEE-TCAS--II-blue)  
 G. Park, S. Yeom, I.-W. Jang, D. Lee, Jaeduk Han, and Min-Seong Choo, "**3.2-GHz Digital Phase-Locked Loop With Autocorrelation-Based Direct Jitter Correction**," IEEE Trans. Circuits Syst. II: Express Briefs, vol. 71, no. 9, pp. 4091-4095, Sep. 2024.
