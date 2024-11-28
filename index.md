@@ -31,7 +31,6 @@ The **Nifty Chips Laboratory** at Hanyang University is working on crafting grea
 
 
 **Past/Present Sponsors** (Chronological)
-* 한양대학교 산학협력단
 * 정보통신기획평가원
 * 삼성미래기술육성센터
 * (주)SK하이닉스
