@@ -7,6 +7,9 @@ layout: default
 ### Peer-reviewed Journal Articles
 
 #### 2024
+![badge](https://img.shields.io/badge/IEEE-TCAS--I-blue)  
+S. Lee, H. Seo, W. Shin, D. Yang, G. Sung, S. Lee, D. Choi, Y. Kwak, S. Won, I. Song, and J. Han, "*A Variation-Robust 20-Gb/s Wireline Transceiver With Real-Time Calibration in 28-nm CMOS**," IEEE Trans. Circuits Syst. I: Regular Papers, Dec. 2024.
+
 ![badge](https://img.shields.io/badge/IEEE-JSSC-blue)  
 E. Song, J. Yang, Y. Oh, S. Hong, D. Lee, S. Lee, and J. Han, "**100–112-Gb/s 1.6-Vppd PAM-8 Transmitters With High-Swing 3 + 1 Hybrid FFE Taps in 40-nm Technology**," IEEE J. Solid-State Circuits, Nov. 2024. 
 
