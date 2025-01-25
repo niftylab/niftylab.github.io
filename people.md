@@ -81,7 +81,7 @@ layout: default
 
 최준영 석사과정 1기
 
-### Alumni and Last Known Affiliation
+### Alumni with Last Known Affiliation
 
 #### Doctor of Philosophy
 
