@@ -81,7 +81,7 @@ layout: default
 
 최준영 석사과정 1기
 
-### Alumni
+### Alumni and Last Known Affiliation
 
 #### Doctor of Philosophy
 
@@ -101,11 +101,11 @@ layout: default
 
 양동주(Dongju Yang) MS, Class of 2022, SK 하이닉스
 
-김성해(Sunghae Kim) MS, Class of 2022, LX Semicon
+김성해(Sunghae Kim) MS, Class of 2022, 삼성전자
 
 표창현(Changhyun Pyo) MS, Class of 2022, SK 하이닉스
 
-임현우(Hyunwoo Im) MS, Class of 2022, LX Semicon
+임현우(Hyunwoo Im) MS, Class of 2022, SK 하이닉스
 
 성개륜(Gaeryun Sung) MS, Class of 2022, 삼성전자
 
@@ -135,6 +135,6 @@ layout: default
 
 #### Bachelor of Science
 
-박기진(Gijin Park) BS, Class of 2022, TAMU 박사과정
+박기진(Gijin Park) BS, Class of 2022, Apple
 
 [back](./)
