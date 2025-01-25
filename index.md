@@ -22,9 +22,6 @@ The **Nifty Chips Laboratory** at Hanyang University is working on crafting grea
 * 4학년 1학기까지 전자회로1/2, VLSI공학, SoC설계 수강 필수, 4학년 2학기 아날로그회로설계 수강 필수
   
 관심 있으신 분은 간단한 자기소개서 및 석차 표기된 성적표를 첨부하여 제 이메일로 메일주시기 바랍니다.  
-<!--
-* 졸업 연구의 경우 매년 1월 중 저희 연구실 석박 진학 희망자 대상으로 소정의 절차를 통하여 선발합니다. 수행을 희망하시면 겨울 학기 종료 후 12월 15-30일 사이에 이메일을 보내주시기 바랍니다.
--->
 
 [Research Introduction / 연구내용 소개 세미나](https://www.youtube.com/watch?v=lo9Zcg205Ig&list=PL3tXkx6yyrEelC-KHj3iEiwrDR_9bWGsL&index=2&t=6873s&ab_channel=%EC%B5%9C%EC%A2%85%ED%98%84%ED%95%99%EC%88%A0%EC%9B%90)
 
