@@ -51,6 +51,14 @@ layout: default
 
 변유진(Youjin Byun) 석박통합과정 3기
 
+이동현 석박통합과정 1기
+
+전홍기 석박통합과정 1기
+
+송의찬 석박통합과정 1기
+
+임예찬 석박통합과정 1기
+
 #### MS students
 
 정환석(Hwanseok Jung) 석사과정 4기
@@ -67,6 +75,13 @@ layout: default
 
 최준영 석사과정 2기
 
+박윤수 석사과정 1기
+
+고재경 석사과정 1기
+
+이경준 석사과정 1기
+
+
 ### Alumni with Last Known Affiliation
 
 #### Doctor of Philosophy
@@ -75,9 +90,9 @@ layout: default
 
 서형민(Hyeongmin Seo) Ph.D, Class of 2024, SK 하이닉스
 
-김현태(Hyuntae Kim) Ph. D, Class of 2025, SK 하이닉스
+김현태(Hyuntae Kim) Ph. D, Class of 2025, 삼성전자
 
-조윤성(Yunseong Jo) Ph. D, Class of 2025, SK 하이닉스
+조윤성(Yunseong Jo) Ph. D, Class of 2025, 삼성전자자
 
 
 #### Master of Science
