@@ -92,7 +92,7 @@ layout: default
 
 김현태(Hyuntae Kim) Ph. D, Class of 2025, 삼성전자
 
-조윤성(Yunseong Jo) Ph. D, Class of 2025, 삼성전자자
+조윤성(Yunseong Jo) Ph. D, Class of 2025, 삼성전자
 
 
 #### Master of Science
