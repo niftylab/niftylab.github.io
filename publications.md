@@ -10,12 +10,12 @@ layout: default
 ![badge](https://img.shields.io/badge/IEEE-TVLSI-blue)  
 (accepted) S. Kim, T. Lee, K. Cho, and J. Han, "**A Flying-Capacitor-Assisted Single-Mode Buck-Boost Converter for Battery-Powered Applications**," IEEE Trans. Very Large Scale Integr. (VLSI) Syst., 2025.
 
+![badge](https://img.shields.io/badge/IEEE-JSSC-blue)  
+E. Song, J. Yang, Y. Oh, S. Hong, D. Lee, S. Lee, and J. Han, "**100–112-Gb/s 1.6-Vppd PAM-8 Transmitters With High-Swing 3 + 1 Hybrid FFE Taps in 40-nm Technology**," IEEE J. Solid-State Circuits, vol. 60, no. 2, pp. 543-554, Feb. 2025.
+
 #### 2024
 ![badge](https://img.shields.io/badge/IEEE-TCAS--I-blue)  
 S. Lee, H. Seo, W. Shin, D. Yang, G. Sung, S. Lee, D. Choi, Y. Kwak, S. Won, I. Song, and J. Han, "**A Variation-Robust 20-Gb/s Wireline Transceiver With Real-Time Calibration in 28-nm CMOS**," IEEE Trans. Circuits Syst. I: Regular Papers, Dec. 2024.
-
-![badge](https://img.shields.io/badge/IEEE-JSSC-blue)  
-E. Song, J. Yang, Y. Oh, S. Hong, D. Lee, S. Lee, and J. Han, "**100–112-Gb/s 1.6-Vppd PAM-8 Transmitters With High-Swing 3 + 1 Hybrid FFE Taps in 40-nm Technology**," IEEE J. Solid-State Circuits, Nov. 2024. 
 
 ![badge](https://img.shields.io/badge/IEEE-TCAS--II-blue)  
 S. Lee, H. Seo, S. Son, S. Yeom, and J. Han, "**A 102-Gb/s/lane 1.4-Vppd Linear Range PAM-8 Receiver Frontend With Multi-Path Continuous-Time Linear Equalization in 28-nm CMOS**," IEEE Trans. Circuits Syst. II: Express Briefs, vol. 71, no. 11, pp. 4623-4627, Nov. 2024. 
