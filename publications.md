@@ -8,7 +8,11 @@ layout: default
 
 #### 2025
 ![badge](https://img.shields.io/badge/IEEE-TVLSI-blue)  
-(accepted) S. Kim, T. Lee, K. Cho, and J. Han, "**A Flying-Capacitor-Assisted Single-Mode Buck-Boost Converter for Battery-Powered Applications**," IEEE Trans. Very Large Scale Integr. (VLSI) Syst., 2025.
+(accepted) S. Palermo and J. Han, "**Editorial: Special section on High-Performance Wireline Transceiver Circuits**," IEEE Open. J. Solid-State Circuits Society, vol. 4, pp. 379-380, Feb. 2025.
+
+
+![badge](https://img.shields.io/badge/IEEE-OJ-SSCS-blue)  
+E. Song, J. Yang, Y. Oh, S. Hong, D. Lee, S. Lee, and J. Han, "**100–112-Gb/s 1.6-Vppd PAM-8 Transmitters With High-Swing 3 + 1 Hybrid FFE Taps in 40-nm Technology**," IEEE J. Solid-State Circuits, vol. 60, no. 2, pp. 543-554, Feb. 2025.
 
 ![badge](https://img.shields.io/badge/IEEE-JSSC-blue)  
 E. Song, J. Yang, Y. Oh, S. Hong, D. Lee, S. Lee, and J. Han, "**100–112-Gb/s 1.6-Vppd PAM-8 Transmitters With High-Swing 3 + 1 Hybrid FFE Taps in 40-nm Technology**," IEEE J. Solid-State Circuits, vol. 60, no. 2, pp. 543-554, Feb. 2025.
@@ -120,7 +124,7 @@ J. Han, W. Bae, E. Y. Chang, Z. Wang, B. Nikolić, and E. Alon, "**LAYGO: A Temp
 (accepted) B. Lim, H. Jo, H. Jeong, J. Yang, and J. Han, "**A 96-Gb/s PAM-8 Transmitter with Transition-Boosted Current-Mode Logic Driver in 40-nm CMOS for Wireline Communication**," in IEEE Int. Symp. Circuits Syst. (ISCAS 2025), May 2025.
 
 ![badge](https://img.shields.io/badge/IEEE-ISSCC-blue)  
-(accepted) Y. Jo, H. Kim, Y. Choi, J. Park, M. Kwak, and J. Han, "**A 32-50Gb/s/pin Single-Ended PAM-4 Transmitter with ZQ-Based FFE and PAM-4 LSB DBI-DC Encoding**," in IEEE Int. Solid-State Circuits Conf. (ISSCC 2025), Feb. 2025.
+Y. Jo, H. Kim, Y. Choi, J. Park, M. Kwak, and J. Han, "**A 32-50Gb/s/pin Single-Ended PAM-4 Transmitter with ZQ-Based FFE and PAM-4 LSB DBI-DC Encoding**," in IEEE Int. Solid-State Circuits Conf. (ISSCC 2025), Feb. 2025.
 
 ![badge](https://img.shields.io/badge/IEEE-ASPDAC-blue)  
 Y. Jo, T. Kang, J. Yang, and J. Han, "**A 500-MS/s 8-bit SAR ADC Generated from an Automated Layout Generation Framework in 14-nm FinFET Technology**," in Proceedings of Asia South Pacific Des. Autom. Conf. (ASPDAC 2025), Jan. 2025.
