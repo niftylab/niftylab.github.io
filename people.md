@@ -75,7 +75,7 @@ layout: default
 
 최준영 석사과정 2기
 
-박윤수 석사과정 1기
+박윤수(Yoonsoo Park) 석사과정 1기 ksyj0108@hanyang.ac.kr
 
 고재경 석사과정 1기
 
