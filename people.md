@@ -57,7 +57,7 @@ layout: default
 
 송의찬 석박통합과정 1기
 
-임예찬 석박통합과정 1기
+임예찬(Yechan Rim) 석박통합과정 1기 lrzsb15376@hanyang.ac.kr
 
 #### MS students
 
@@ -77,7 +77,7 @@ layout: default
 
 박윤수(Yoonsoo Park) 석사과정 1기 ksyj0108@hanyang.ac.kr
 
-고재경 석사과정 1기
+고재경(Jaekyung Ko) 석사과정 1기 jkko00@hanyang.ac.kr
 
 이경준 석사과정 1기
 
