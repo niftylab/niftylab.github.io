@@ -8,7 +8,7 @@ layout: default
 
 #### 2025
 ![badge](https://img.shields.io/badge/IEEE-TVLSI-blue)  
-(accepted) S. Kim, T. Lee, K. Cho, and J. Han, "**A Flying-Capacitor-Assisted Single-Mode Buck-Boost Converter for Battery-Powered Applications**," IEEE Trans. Very Large Scale Integr. (VLSI) Syst., 2025.
+S. Kim, T. Lee, K. Cho, and J. Han, "**A Flying-Capacitor-Assisted Single-Mode Buck-Boost Converter for Battery-Powered Applications**," IEEE Trans. Very Large Scale Integr. (VLSI) Syst., 2025.
 
 ![badge](https://img.shields.io/badge/IEEE-OJ--SSCS-blue)  
 S. Palermo and J. Han, "**Editorial: Special section on High-Performance Wireline Transceiver Circuits**," IEEE Open. J. Solid-State Circuits Society, vol. 4, pp. 379-380, Feb. 2025.
