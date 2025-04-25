@@ -17,6 +17,9 @@ S. Palermo and J. Han, "**Editorial: Special section on High-Performance Wirelin
 E. Song, J. Yang, Y. Oh, S. Hong, D. Lee, S. Lee, and J. Han, "**100–112-Gb/s 1.6-Vppd PAM-8 Transmitters With High-Swing 3 + 1 Hybrid FFE Taps in 40-nm Technology**," IEEE J. Solid-State Circuits, vol. 60, no. 2, pp. 543-554, Feb. 2025.
 
 #### 2024
+![badge](https://img.shields.io/badge/IEEK-JSTS-blue)  
+Y. Jo and J. Han, "A 24-Gb/s PAM-4 Tailless Current Mode Driver with Output Impedance Enhancing Technique in 14-nm FinFET," J. Semicond. Technol. Sci., Vol. 24, No. 6, pp. 540-546, Dec. 2024.
+
 ![badge](https://img.shields.io/badge/IEEE-TCAS--I-blue)  
 S. Lee, H. Seo, W. Shin, D. Yang, G. Sung, S. Lee, D. Choi, Y. Kwak, S. Won, I. Song, and J. Han, "**A Variation-Robust 20-Gb/s Wireline Transceiver With Real-Time Calibration in 28-nm CMOS**," IEEE Trans. Circuits Syst. I: Regular Papers, Dec. 2024.
 
