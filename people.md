@@ -69,7 +69,7 @@ layout: default
 
 박형주(Hyungjoo Park) 석사과정 3기
 
-윤석민 석사과정 3기 yyssmm09@hanyang.ac.kr
+윤석민(Seokmin Yun) 석사과정 3기 yyssmm09@hanyang.ac.kr
 
 최우진 석사과정 3기
 
