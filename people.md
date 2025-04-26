@@ -39,9 +39,9 @@ layout: default
 
 서주은(Jueun Seo) 석박통합과정 5기 eun08ju@hanyang.ac.kr
 
-이동훈(Donghun Lee) 석박통합과정 4기
+이동훈(Donghun Lee) 석박통합과정 4기 ydh667@hanyang.ac.kr
 
-김민태(Mintae Kim) 석박통합과정 3기
+김민태(Mintae Kim) 석박통합과정 3기 alsxo326@hanyang.ac.kr
 
 장유성(Yooseong Jang) 석박통합과정 3기
 
@@ -69,7 +69,7 @@ layout: default
 
 박형주(Hyungjoo Park) 석사과정 3기
 
-윤석민 석사과정 3기
+윤석민 석사과정 3기 yyssmm09@hanyang.ac.kr
 
 최우진 석사과정 3기
 
