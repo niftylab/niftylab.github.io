@@ -45,9 +45,9 @@ layout: default
 
 장유성(Yooseong Jang) 석박통합과정 3기
 
-유근영(GeunYoung You) 석박통합과정 3기
+유근영(GeunYoung You) 석박통합과정 3기 dbrmsdud22@hanyang.ac.kr
 
-권용화(Yonghwa Kwon) 석박통합과정 3기
+권용화(Yonghwa Kwon) 석박통합과정 3기 kyh0610@hanyang.ac.kr
 
 변유진(Youjin Byun) 석박통합과정 3기
 
