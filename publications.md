@@ -21,7 +21,7 @@ E. Song, J. Yang, Y. Oh, S. Hong, D. Lee, S. Lee, and J. Han, "**100–112-Gb/s 
 
 #### 2024
 ![badge](https://img.shields.io/badge/IEEK-JSTS-blue)  
-Y. Jo and J. Han, "A 24-Gb/s PAM-4 Tailless Current Mode Driver with Output Impedance Enhancing Technique in 14-nm FinFET," J. Semicond. Technol. Sci., Vol. 24, No. 6, pp. 540-546, Dec. 2024.
+Y. Jo and J. Han, "**A 24-Gb/s PAM-4 Tailless Current Mode Driver with Output Impedance Enhancing Technique in 14-nm FinFET**," J. Semicond. Technol. Sci., Vol. 24, No. 6, pp. 540-546, Dec. 2024.
 
 ![badge](https://img.shields.io/badge/IEEE-TCAS--II-blue)  
 S. Lee, H. Seo, S. Son, S. Yeom, and J. Han, "**A 102-Gb/s/lane 1.4-Vppd Linear Range PAM-8 Receiver Frontend With Multi-Path Continuous-Time Linear Equalization in 28-nm CMOS**," IEEE Trans. Circuits Syst. II: Express Briefs, vol. 71, no. 11, pp. 4623-4627, Nov. 2024. 
