@@ -8,6 +8,9 @@ layout: default
 
 #### 2025
 ![badge](https://img.shields.io/badge/IEEE-TVLSI-blue)  
+T. Kang, J. Yang, E. Song, S. Son, H. Kim, and J. Han, "**A 96-Gb/s 1.6-V ppd PAM-8 Transmitter With High-Swing and Low-Loading Cascaded Driver in 40-nm CMOS Technology**," IEEE Trans. Very Large Scale Integr. (VLSI) Syst., 2025.
+
+![badge](https://img.shields.io/badge/IEEE-TVLSI-blue)  
 S. Kim, T. Lee, K. Cho, and J. Han, "**A Flying-Capacitor-Assisted Single-Mode Buck-Boost Converter for Battery-Powered Applications**," IEEE Trans. Very Large Scale Integr. (VLSI) Syst., 2025.
 
 ![badge](https://img.shields.io/badge/IEEE-TCAS--I-blue)  
