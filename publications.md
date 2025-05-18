@@ -122,6 +122,12 @@ J. Han, W. Bae, E. Y. Chang, Z. Wang, B. Nikolić, and E. Alon, "**LAYGO: A Temp
 
 #### 2025
 
+![badge](https://img.shields.io/badge/IEEE-SMACD-blue)  
+(accepted) T. Kang, T. Shin, H. Kim, and J. Han, "**Process-Portable Layout Generation of High-Speed Digital Circuit Using Standard Cells in FinFET**," in Int. Conf. Synth., Model., Anal. Simul. Methods, Appl. Circuit Des. (SMACD 2025), Jul. 2025.
+
+![badge](https://img.shields.io/badge/IEEE-SMACD-blue)  
+(accepted) Y. Park and J. Han, "**WDP: A Weighted Delay Prediction Method for Integrated Circuit Interconnects,**," in Int. Conf. Synth., Model., Anal. Simul. Methods, Appl. Circuit Des. (SMACD 2025), Jul. 2025.
+
 ![badge](https://img.shields.io/badge/IEEE-ISCAS-blue)  
 (accepted) Y. Jang, S. Yun, J. Yang, T. Shin, E. Song, and J. Han, "**A 56-Gb/s 0.39-pJ/bit PAM-4 Transmitter Frontend with Shunt-FFE Tail-Less Driver and External Bias-Tees**," in IEEE Int. Symp. Circuits Syst. (ISCAS 2025), May 2025.
 
@@ -149,7 +155,7 @@ H. Kim, Y. Jo, S. Lee, E. Lee, Y. Choi, J. Park, M. Kwak, J. Choi, Y. Choi, and 
 G. You, Y. Byun, S. Lim, and J Han, "**Interactive and Automatic Generation of Primitive Custom Circuit Layout Using LLMs**", in 6th ACM/IEEE International Symposium on Machine Learning for CAD (MLCAD), Work-In-Progress Presentation, Sep. 2024.
 
 ![badge](https://img.shields.io/badge/IEEE-SMACD-blue)  
-J. Nam, J. Han, and H. Kim, "**Low-Power Encoding for PAM-3 DRAM Bus**," in Int. Conf. Synth., Model., Anal. Simul. Methods, Appl. Circuit Des. (SMACD 204), Jul. 2024.
+J. Nam, J. Han, and H. Kim, "**Low-Power Encoding for PAM-3 DRAM Bus**," in Int. Conf. Synth., Model., Anal. Simul. Methods, Appl. Circuit Des. (SMACD 2024), Jul. 2024.
 
 ![badge](https://img.shields.io/badge/IEEE-ISCAS-blue)  
 Z. Wang, M. Choi, P. Kwon, K. Lee, B. Yin, Z. Liu, K. Park, A. Biswas, J. Han, S. Du, E. Alon, "**A 24.6-29.6GHz Hybrid Sub-Sampling PLL with Tri-State Integral Path Achieving 44fs Jitter and -254.8dB FOM in 28nm CMOS**," in IEEE Int. Symp. Circuits and Syst. (ISCAS 2024), May. 2024.
