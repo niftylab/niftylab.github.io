@@ -129,10 +129,10 @@ J. Han, W. Bae, E. Y. Chang, Z. Wang, B. Nikolić, and E. Alon, "**LAYGO: A Temp
 (accepted) Y. Park and J. Han, "**WDP: A Weighted Delay Prediction Method for Integrated Circuit Interconnects,**," in Int. Conf. Synth., Model., Anal. Simul. Methods, Appl. Circuit Des. (SMACD 2025), Jul. 2025.
 
 ![badge](https://img.shields.io/badge/IEEE-ISCAS-blue)  
-(accepted) Y. Jang, S. Yun, J. Yang, T. Shin, E. Song, and J. Han, "**A 56-Gb/s 0.39-pJ/bit PAM-4 Transmitter Frontend with Shunt-FFE Tail-Less Driver and External Bias-Tees**," in IEEE Int. Symp. Circuits Syst. (ISCAS 2025), May 2025.
+Y. Jang, S. Yun, J. Yang, T. Shin, E. Song, and J. Han, "**A 56-Gb/s 0.39-pJ/bit PAM-4 Transmitter Frontend with Shunt-FFE Tail-Less Driver and External Bias-Tees**," in IEEE Int. Symp. Circuits Syst. (ISCAS 2025), May 2025.
 
 ![badge](https://img.shields.io/badge/IEEE-ISCAS-blue)  
-(accepted) B. Lim, H. Jo, H. Jeong, J. Yang, and J. Han, "**A 96-Gb/s PAM-8 Transmitter with Transition-Boosted Current-Mode Logic Driver in 40-nm CMOS for Wireline Communication**," in IEEE Int. Symp. Circuits Syst. (ISCAS 2025), May 2025.
+B. Lim, H. Jo, H. Jeong, J. Yang, and J. Han, "**A 96-Gb/s PAM-8 Transmitter with Transition-Boosted Current-Mode Logic Driver in 40-nm CMOS for Wireline Communication**," in IEEE Int. Symp. Circuits Syst. (ISCAS 2025), May 2025.
 
 ![badge](https://img.shields.io/badge/IEEE-ISSCC-blue)  
 Y. Jo, H. Kim, Y. Choi, J. Park, M. Kwak, and J. Han, "**A 32-50Gb/s/pin Single-Ended PAM-4 Transmitter with ZQ-Based FFE and PAM-4 LSB DBI-DC Encoding**," in IEEE Int. Solid-State Circuits Conf. (ISSCC 2025), Feb. 2025.
