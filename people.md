@@ -43,7 +43,7 @@ layout: default
 
 김민태(Mintae Kim) 석박통합과정 3기 alsxo326@hanyang.ac.kr
 
-장유성(Yooseong Jang) 석박통합과정 3기
+장유성(Yooseong Jang) 석박통합과정 3기 g39941@hanyang.ac.kr
 
 유근영(GeunYoung You) 석박통합과정 3기 dbrmsdud22@hanyang.ac.kr
 
