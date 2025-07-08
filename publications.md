@@ -123,10 +123,10 @@ J. Han, W. Bae, E. Y. Chang, Z. Wang, B. Nikolić, and E. Alon, "**LAYGO: A Temp
 #### 2025
 
 ![badge](https://img.shields.io/badge/IEEE-SMACD-blue)  
-(accepted) T. Kang, T. Shin, H. Kim, and J. Han, "**Process-Portable Layout Generation of High-Speed Digital Circuit Using Standard Cells in FinFET**," in Int. Conf. Synth., Model., Anal. Simul. Methods, Appl. Circuit Des. (SMACD 2025), Jul. 2025.
+T. Kang, T. Shin, H. Kim, and J. Han, "**Process-Portable Layout Generation of High-Speed Digital Circuit Using Standard Cells in FinFET**," in Int. Conf. Synth., Model., Anal. Simul. Methods, Appl. Circuit Des. (SMACD 2025), Jul. 2025.
 
 ![badge](https://img.shields.io/badge/IEEE-SMACD-blue)  
-(accepted) Y. Park and J. Han, "**WDP: A Weighted Delay Prediction Method for Integrated Circuit Interconnects,**," in Int. Conf. Synth., Model., Anal. Simul. Methods, Appl. Circuit Des. (SMACD 2025), Jul. 2025.
+Y. Park and J. Han, "**WDP: A Weighted Delay Prediction Method for Integrated Circuit Interconnects,**," in Int. Conf. Synth., Model., Anal. Simul. Methods, Appl. Circuit Des. (SMACD 2025), Jul. 2025.
 
 ![badge](https://img.shields.io/badge/IEEE-ISCAS-blue)  
 Y. Jang, S. Yun, J. Yang, T. Shin, E. Song, and J. Han, "**A 56-Gb/s 0.39-pJ/bit PAM-4 Transmitter Frontend with Shunt-FFE Tail-Less Driver and External Bias-Tees**," in IEEE Int. Symp. Circuits Syst. (ISCAS 2025), May 2025.
