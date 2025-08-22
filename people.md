@@ -17,69 +17,65 @@ layout: default
 
 #### PhD / MS-PhD students
 
-이상훈(Sanghun Lee) 석박통합과정 11기 lurker4@hanyang.ac.kr
+이동준(Dongjun Lee) 박사과정 7기 lreedong12@hanyang.ac.kr
 
-이동준(Dongjun Lee) 박사과정 6기 lreedong12@hanyang.ac.kr
+양정휴(Jeonghyu Yang) 박사과정 6기 hyu2980@hanyang.ac.kr
 
-양정휴(Jeonghyu Yang) 박사과정 5기 hyu2980@hanyang.ac.kr
+이상완(Sangwan Lee) 석박통합과정 10기 esang12@hanyang.ac.kr
 
-이상완(Sangwan Lee) 석박통합과정 9기 esang12@hanyang.ac.kr
+신태호(Taeho Shin) 석박통합과정 10기 sth4101@hanyang.ac.kr
 
-신태호(Taeho Shin) 석박통합과정 9기 sth4101@hanyang.ac.kr
+심태양(Taeyang Sim) 석박통합과정 10기 sunnysim96@hanyang.ac.kr
 
-심태양(Taeyang Sim) 석박통합과정 9기 sunnysim96@hanyang.ac.kr
+김현석(Hyunseok Kim) 석박통합과정 8기 gustjraaa@hanyang.ac.kr
 
-김현석(Hyunseok Kim) 석박통합과정 7기 gustjraaa@hanyang.ac.kr
+강태승(Taeseung Kang) 석박통합과정 8기 xotmd97@hanyang.ac.kr
 
-강태승(Taeseung Kang) 석박통합과정 7기 xotmd97@hanyang.ac.kr
+정희도(Heedo Jeong) 석박통합과정 6기 jeonghido@hanyang.ac.kr
 
-정희도(Heedo Jeong) 석박통합과정 5기 jeonghido@hanyang.ac.kr
+임본아(Bona Lim) 석박통합과정 6기 bonalim97@hanyang.ac.kr
 
-임본아(Bona Lim) 석박통합과정 5기 bonalim97@hanyang.ac.kr
+서주은(Jueun Seo) 석박통합과정 6기 eun08ju@hanyang.ac.kr
 
-서주은(Jueun Seo) 석박통합과정 5기 eun08ju@hanyang.ac.kr
+이동훈(Donghun Lee) 석박통합과정 6기 ydh667@hanyang.ac.kr
 
-이동훈(Donghun Lee) 석박통합과정 4기 ydh667@hanyang.ac.kr
+김민태(Mintae Kim) 석박통합과정 4기 alsxo326@hanyang.ac.kr
 
-김민태(Mintae Kim) 석박통합과정 3기 alsxo326@hanyang.ac.kr
+장유성(Yooseong Jang) 석박통합과정 4기 g39941@hanyang.ac.kr
 
-장유성(Yooseong Jang) 석박통합과정 3기 g39941@hanyang.ac.kr
+유근영(GeunYoung You) 석박통합과정 4기 dbrmsdud22@hanyang.ac.kr
 
-유근영(GeunYoung You) 석박통합과정 3기 dbrmsdud22@hanyang.ac.kr
+권용화(Yonghwa Kwon) 석박통합과정 4기 kyh0610@hanyang.ac.kr
 
-권용화(Yonghwa Kwon) 석박통합과정 3기 kyh0610@hanyang.ac.kr
+변유진(Youjin Byun) 석박통합과정 4기
 
-변유진(Youjin Byun) 석박통합과정 3기
+박형주(Hyungjoo Park) 석박통합과정 4기
 
-이동현 석박통합과정 1기
+이동현 석박통합과정 2기
 
-전홍기 석박통합과정 1기
+전홍기 석박통합과정 2기
 
-송의찬 석박통합과정 1기
+송의찬 석박통합과정 2기
 
-임예찬(Yechan Rim) 석박통합과정 1기 lrzsb15376@hanyang.ac.kr
+임예찬(Yechan Rim) 석박통합과정 2기 lrzsb15376@hanyang.ac.kr
 
 #### MS students
 
-정환석(Hwanseok Jung) 석사과정 4기
+송형준(Hyeongjun Song) 석사과정 4기
 
-송형준(Hyeongjun Song) 석사과정 3기
+임소진(Sojin Lim) 석사과정 4기
 
-임소진(Sojin Lim) 석사과정 3기
+윤석민(Seokmin Yun) 석사과정 4기 yyssmm09@hanyang.ac.kr
 
-박형주(Hyungjoo Park) 석사과정 3기
+최우진 석사과정 4기
 
-윤석민(Seokmin Yun) 석사과정 3기 yyssmm09@hanyang.ac.kr
+최준영 석사과정 3기
 
-최우진 석사과정 3기
+박윤수(Yoonsoo Park) 석사과정 2기 ksyj0108@hanyang.ac.kr
 
-최준영 석사과정 2기
+고재경(Jaekyung Ko) 석사과정 2기 jkko00@hanyang.ac.kr
 
-박윤수(Yoonsoo Park) 석사과정 1기 ksyj0108@hanyang.ac.kr
-
-고재경(Jaekyung Ko) 석사과정 1기 jkko00@hanyang.ac.kr
-
-이경준 석사과정 1기
+이경준 석사과정 2기
 
 
 ### Alumni with Last Known Affiliation
@@ -94,6 +90,7 @@ layout: default
 
 조윤성(Yunseong Jo) Ph. D, Class of 2025, 삼성전자
 
+이상훈(Sanghun Lee) Ph. D, Class of 2025, 삼성전자
 
 #### Master of Science
 
@@ -149,7 +146,7 @@ layout: default
 
 곽태원(Taewon Kwak) MS, Class of 2025, SK 하이닉스
 
-
+정환석(Hwanseok Jung) MS, Class of 2025, SK 하이닉스
 
 
 #### Bachelor of Science
