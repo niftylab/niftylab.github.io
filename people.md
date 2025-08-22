@@ -77,6 +77,10 @@ layout: default
 
 이경준 석사과정 2기
 
+변희주 석사과정 1기
+
+이민수 석사과정 1기
+
 
 ### Alumni with Last Known Affiliation
 
