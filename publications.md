@@ -122,6 +122,9 @@ J. Han, W. Bae, E. Y. Chang, Z. Wang, B. Nikolić, and E. Alon, "**LAYGO: A Temp
 
 #### 2025
 
+![badge](https://img.shields.io/badge/IEEE-EMC+SIPI-blue)  
+B. Min, K. Kim, M. Kim, J. Han, S. Yun, Y. Jang, "**Ultra-wideband Balanced-Line-Based Common-mode Rejection Filter with Dumbbell-Shaped Conductors for Over 64 Gb/s Digital Transmission**," in 2025 IEEE Int. Symp. Electromagnetic Compatibility, Sig, Power Integrity (EMC+SIPI 2025), Aug. 2025.
+
 ![badge](https://img.shields.io/badge/IEEE-SMACD-blue)  
 T. Kang, T. Shin, H. Kim, and J. Han, "**Process-Portable Layout Generation of High-Speed Digital Circuit Using Standard Cells in FinFET**," in Int. Conf. Synth., Model., Anal. Simul. Methods, Appl. Circuit Des. (SMACD 2025), Jul. 2025.
 
