@@ -43,7 +43,7 @@ layout: default
 
 장유성(Yooseong Jang) 석박통합과정 4기 g39941@hanyang.ac.kr
 
-유근영(GeunYoung You) 석박통합과정 4기 dbrmsdud22@hanyang.ac.kr
+유근영(Geunyoung You) 석박통합과정 4기 dbrmsdud22@hanyang.ac.kr
 
 권용화(Yonghwa Kwon) 석박통합과정 4기 kyh0610@hanyang.ac.kr
 
