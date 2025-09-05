@@ -122,11 +122,17 @@ J. Han, W. Bae, E. Y. Chang, Z. Wang, B. Nikolić, and E. Alon, "**LAYGO: A Temp
 
 #### 2025
 
-![badge](https://img.shields.io/badge/IEEE-EPEPS-blue)  
-(accepted) M.-J. Kim, B.-C. Min, D.-J. Go, S. Yun, Y. Jang, J. Han, K.-W. Kim, "**Compact Signal Integrity Recovery Module in Coplanar Stripline with Signal Balancing**," in 2025 Electrical Performance of Electronic Packaging and Systems (EPEPS 2025), Oct. 2025.
+![badge](https://img.shields.io/badge/IEEE-ASSCC-blue)  
+(accepted) S.-M. Jin, D.-H. Kim, K.-H. Lee, H. Ju, G.-S. Jeong, W. Bae, J. Han, and M.-S. Choo, "**A 22Gb/s-54Gb/s Reconfigurable PAM-2/4/8 DSP-Based Transmitter with 14-Tap Feedforward Equalization**," in IEEE Asian Solid-State Circuits Conf (ASSCC 2025), Nov. 2025,
+
+![badge](https://img.shields.io/badge/IEEE-ASSCC-blue)  
+(accepted) S. Lee, H. Jo, H. Jeong, H. Jeong, and J. Han, "**A 108Gb/S PAM-8 CTLE+FFE Receiver Frontend with 1.4Vppd Input Range in 28nm**," in IEEE Asian Solid-State Circuits Conf (ASSCC 2025), Nov. 2025,
 
 ![badge](https://img.shields.io/badge/IEEE-EPEPS-blue)  
-(accepted) B. C. Min, K. W. Kim, M. J. Kim, Y. Jang, S. Yun, J. Han, "**A 12-to-20Gb/s, 2.93-pJ/Bit Jitter-Filtering Retimer with High Input Jitter Tolerance in 28nm CMOS**," in 2025 Electrical Performance of Electronic Packaging and Systems (EPEPS 2025), Oct. 2025.
+(accepted) M.-J. Kim, B.-C. Min, D.-J. Go, S. Yun, Y. Jang, J. Han, and K.-W. Kim, "**Compact Signal Integrity Recovery Module in Coplanar Stripline with Signal Balancing**," in 2025 Electrical Performance of Electronic Packaging and Systems (EPEPS 2025), Oct. 2025.
+
+![badge](https://img.shields.io/badge/IEEE-EPEPS-blue)  
+(accepted) B. C. Min, K. W. Kim, M. J. Kim, Y. Jang, S. Yun, and J. Han, "**A 12-to-20Gb/s, 2.93-pJ/Bit Jitter-Filtering Retimer with High Input Jitter Tolerance in 28nm CMOS**," in 2025 Electrical Performance of Electronic Packaging and Systems (EPEPS 2025), Oct. 2025.
 
 ![badge](https://img.shields.io/badge/IEEE-ESSERC-blue)  
 (accepted) I. Kim, H. Lee, A. Kumar, M. Yeo, D. Dolt, T. Sim, S. Lee, C. Park, J. Y. Won, J. Choi, J. Han, and S. Palermo, "**A 12-to-20Gb/s, 2.93-pJ/Bit Jitter-Filtering Retimer with High Input Jitter Tolerance in 28nm CMOS**," in 2025 IEEE European Solid-State Electron. Research Conf. (ESSERC 2025), Sep. 2025.
@@ -214,7 +220,7 @@ Taeung No and Jaeduk Han, “**Design Techniques for Robust and Area-efficient C
 1. **[ISOCC’19, Invited]** Jaeduk Han, Eric Chang, Elad Alon, “**Design and Automatic Generation of High-Speed Circuits for Wireline Communications**,” in IEEE 16th Int. SoC Design Conf., 8 Oct. 2019, pp. 40-41.
 1. **[ESSCIRC’19]** Nicholas Sutardja, Jaeduk Han, Nathan Narevsky, Elad Alon, Borivoje Nikolić, “**A 2-tap switched capacitor FFE transmitter achieving 1-20 Gb/s at 0.72-0.62 pJ/bit**,” in IEEE Eur. Solid-State Circuits Conf., Sep. 2019, pp. 273-276.
 1. **[CICC’19]** Jaeduk Han, Eric Chang, Stevo Bailey, Zhongkai Wang, Woorham Bae, Angie Wang, Nathan Narevsky, Amy Whitcombe, Pengpeng Lu, Borivoje Nikolic, Elad Alon, “**A Generated 7GS/s 8b Time-Interleaved SAR ADC with 38.2dB SNDR at Nyquist in 16nm CMOS FinFET**,” in IEEE Custom Integr. Circuits Conf., 17 Apr. 2019, pp. 1-4.
-1. **[ASSCC’18]** Stevo Bailey, Jaeduk Han, Paul Rigge, Richard Lin, Eric Chang, Howard Mao, Zhongkai Wang, Chick Markley, Adam Izraelevitz, Angie Wang, Nathan Narevsky, Woorham Bae, Steve Shauck, Sergio Montano, Justin Norsworthy, Munir Razzaque, Wen Hau Ma, Akalu Lentiro, Matthew Doerflein, Darin Heckendorn, Jim McGrath, Franco DeSeta, Ronen Shoham, Mike Stellfox, Mark Snowden, Joseph Cole, Dan Fuhrman, Brian Richards, Jonathan Bachrach, Elad Alon, and Borivoje Nikolic ́, “**A Generated Multirate Signal Analysis RISC-V SoC in 16nm FinFET**,” in IEEE Asian Solid-State Circuits Conf,, Nov. 2018, pp. 285-288.
+1. **[ASSCC’18]** Stevo Bailey, Jaeduk Han, Paul Rigge, Richard Lin, Eric Chang, Howard Mao, Zhongkai Wang, Chick Markley, Adam Izraelevitz, Angie Wang, Nathan Narevsky, Woorham Bae, Steve Shauck, Sergio Montano, Justin Norsworthy, Munir Razzaque, Wen Hau Ma, Akalu Lentiro, Matthew Doerflein, Darin Heckendorn, Jim McGrath, Franco DeSeta, Ronen Shoham, Mike Stellfox, Mark Snowden, Joseph Cole, Dan Fuhrman, Brian Richards, Jonathan Bachrach, Elad Alon, and Borivoje Nikolic ́, “**A Generated Multirate Signal Analysis RISC-V SoC in 16nm FinFET**,” in IEEE Asian Solid-State Circuits Conf, Nov. 2018, pp. 285-288.
 1. **[ECCE’18]** Yongjun Li, Jaeduk Han, Seth. A. Sanders, “**A Low-Cost AC Direct LED Driver with Reduced Flicker using Triac**,” in IEEE Energy Convers. Congress and Exposition, Sep. 2018, pp. 4738-4743.
 1. **[ESSCIRC’18]** Angie Wang, Woorham Bae, Jaeduk Han, Stevo Bailey, Paul Rigge, Orhan Ocal, Zhongkai Wang, Kannan Ramchandran, Elad Alon, Borivoje Nikolić, “**A Real-Time, Analog/Digital Co-Designed 1.89-GHz Bandwidth, 175-KHz Resolution Sparse Spectral Analysis RISC-V SoC in 16-nm FinFET**,” in IEEE European Solid-State Circuits Conference, Sep. 2018.
 14. **[VLSI’18]** Eric Chang, Nathan Narevsky, Jaeduk Han, Elad Alon, “**An Automated SerDes Frontend Generator Verified with a 16nm Instance Achieving 15 Gb/s at 1.96 pJ/bit**,” in IEEE Int. Symp. VLSI Circuits, Jun. 2018, pp. 153-154.
