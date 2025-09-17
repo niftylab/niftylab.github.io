@@ -47,7 +47,7 @@ layout: default
 
 권용화(Yonghwa Kwon) 석박통합과정 4기 kyh0610@hanyang.ac.kr
 
-변유진(Youjin Byun) 석박통합과정 4기
+변유진(Youjin Byun) 석박통합과정 4기 yoojin234@hanyang.ac.kr
 
 박형주(Hyungjoo Park) 석박통합과정 4기
 
