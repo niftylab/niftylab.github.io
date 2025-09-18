@@ -132,7 +132,7 @@ J. Han, W. Bae, E. Y. Chang, Z. Wang, B. Nikolić, and E. Alon, "**LAYGO: A Temp
 (accepted) M.-J. Kim, B.-C. Min, D.-J. Go, S. Yun, Y. Jang, J. Han, and K.-W. Kim, "**Compact Signal Integrity Recovery Module in Coplanar Stripline with Signal Balancing**," in 2025 Electrical Performance of Electronic Packaging and Systems (EPEPS 2025), Oct. 2025.
 
 ![badge](https://img.shields.io/badge/IEEE-EPEPS-blue)  
-(accepted) B. C. Min, K. W. Kim, M. J. Kim, Y. Jang, S. Yun, and J. Han, "**A 12-to-20Gb/s, 2.93-pJ/Bit Jitter-Filtering Retimer with High Input Jitter Tolerance in 28nm CMOS**," in 2025 Electrical Performance of Electronic Packaging and Systems (EPEPS 2025), Oct. 2025.
+(accepted) B. C. Min, K. W. Kim, M. J. Kim, Y. Jang, S. Yun, and J. Han, "**Ultra-wideband Common-mode Rejection Filter Structure with L- and T-shaped Patterns for Ultra-High-Speed Data Transmission**," in 2025 Electrical Performance of Electronic Packaging and Systems (EPEPS 2025), Oct. 2025.
 
 ![badge](https://img.shields.io/badge/IEEE-ESSERC-blue)  
 I. Kim, H. Lee, A. Kumar, M. Yeo, D. Dolt, T. Sim, S. Lee, C. Park, J. Y. Won, J. Choi, J. Han, and S. Palermo, "**A 12-to-20Gb/s, 2.93-pJ/Bit Jitter-Filtering Retimer with High Input Jitter Tolerance in 28nm CMOS**," in 2025 IEEE European Solid-State Electron. Research Conf. (ESSERC 2025), Sep. 2025.
