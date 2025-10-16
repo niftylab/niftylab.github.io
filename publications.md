@@ -153,7 +153,7 @@ Y. Jang, S. Yun, J. Yang, T. Shin, E. Song, and J. Han, "**A 56-Gb/s 0.39-pJ/bit
 B. Lim, H. Jo, H. Jeong, J. Yang, and J. Han, "**A 96-Gb/s PAM-8 Transmitter with Transition-Boosted Current-Mode Logic Driver in 40-nm CMOS for Wireline Communication**," in IEEE Int. Symp. Circuits Syst. (ISCAS 2025), May 2025.
 
 ![badge](https://img.shields.io/badge/IEEE-ISSCC-blue)  
-Y. Jo, H. Kim, Y. Choi, J. Park, M. Kwak, and J. Han, "**A 32-50Gb/s/pin Single-Ended PAM-4 Transmitter with ZQ-Based FFE and PAM-4 LSB DBI-DC Encoding**," in IEEE Int. Solid-State Circuits Conf. (ISSCC 2025), Feb. 2025.
+**[삼성전자 우수논문상]** Y. Jo, H. Kim, Y. Choi, J. Park, M. Kwak, and J. Han, "**A 32-50Gb/s/pin Single-Ended PAM-4 Transmitter with ZQ-Based FFE and PAM-4 LSB DBI-DC Encoding**," in IEEE Int. Solid-State Circuits Conf. (ISSCC 2025), Feb. 2025.
 
 ![badge](https://img.shields.io/badge/IEEE-ASPDAC-blue)  
 Y. Jo, T. Kang, J. Yang, and J. Han, "**A 500-MS/s 8-bit SAR ADC Generated from an Automated Layout Generation Framework in 14-nm FinFET Technology**," in Proceedings of Asia South Pacific Des. Autom. Conf. (ASPDAC 2025), Jan. 2025.
