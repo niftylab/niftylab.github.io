@@ -7,6 +7,10 @@ layout: default
 ### Peer-reviewed Journal Articles
 
 #### 2025
+
+![badge](https://img.shields.io/badge/IEEE-TCAS--II-blue)  
+T. Shin, Y. Jang, S. Yun, J. Yang, and J. Han, "**A Driver-Current-Regulated 120-Gb/s PAM-8 7-bit DAC-Based Transmitter in 28-nm CMOS**," IEEE Trans. Circuits Syst. II: Express Briefs, 2025. 
+
 ![badge](https://img.shields.io/badge/IEEE-TVLSI-blue)  
 T. Kang, J. Yang, E. Song, S. Son, H. Kim, and J. Han, "**A 96-Gb/s 1.6-V ppd PAM-8 Transmitter With High-Swing and Low-Loading Cascaded Driver in 40-nm CMOS Technology**," IEEE Trans. Very Large Scale Integr. (VLSI) Syst., 2025.
 
