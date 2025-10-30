@@ -127,16 +127,16 @@ J. Han, W. Bae, E. Y. Chang, Z. Wang, B. Nikolić, and E. Alon, "**LAYGO: A Temp
 #### 2025
 
 ![badge](https://img.shields.io/badge/IEEE-ASSCC-blue)  
-(accepted) S.-M. Jin, D.-H. Kim, K.-H. Lee, H. Ju, G.-S. Jeong, W. Bae, J. Han, and M.-S. Choo, "**A 22Gb/s-54Gb/s Reconfigurable PAM-2/4/8 DSP-Based Transmitter with 14-Tap Feedforward Equalization**," in IEEE Asian Solid-State Circuits Conf (ASSCC 2025), Nov. 2025,
+S.-M. Jin, D.-H. Kim, K.-H. Lee, H. Ju, G.-S. Jeong, W. Bae, J. Han, and M.-S. Choo, "**A 22Gb/s-54Gb/s Reconfigurable PAM-2/4/8 DSP-Based Transmitter with 14-Tap Feedforward Equalization**," in IEEE Asian Solid-State Circuits Conf (ASSCC 2025), Nov. 2025,
 
 ![badge](https://img.shields.io/badge/IEEE-ASSCC-blue)  
-(accepted) S. Lee, H. Jo, H. Jeong, H. Jeong, and J. Han, "**A 108Gb/S PAM-8 CTLE+FFE Receiver Frontend with 1.4Vppd Input Range in 28nm**," in IEEE Asian Solid-State Circuits Conf (ASSCC 2025), Nov. 2025,
+S. Lee, H. Jo, H. Jeong, H. Jeong, and J. Han, "**A 108Gb/S PAM-8 CTLE+FFE Receiver Frontend with 1.4Vppd Input Range in 28nm**," in IEEE Asian Solid-State Circuits Conf (ASSCC 2025), Nov. 2025,
 
 ![badge](https://img.shields.io/badge/IEEE-EPEPS-blue)  
-(accepted) M.-J. Kim, B.-C. Min, D.-J. Go, S. Yun, Y. Jang, J. Han, and K.-W. Kim, "**Compact Signal Integrity Recovery Module in Coplanar Stripline with Signal Balancing**," in 2025 Electrical Performance of Electronic Packaging and Systems (EPEPS 2025), Oct. 2025.
+M.-J. Kim, B.-C. Min, D.-J. Go, S. Yun, Y. Jang, J. Han, and K.-W. Kim, "**Compact Signal Integrity Recovery Module in Coplanar Stripline with Signal Balancing**," in 2025 Electrical Performance of Electronic Packaging and Systems (EPEPS 2025), Oct. 2025.
 
 ![badge](https://img.shields.io/badge/IEEE-EPEPS-blue)  
-(accepted) B. C. Min, K. W. Kim, M. J. Kim, Y. Jang, S. Yun, and J. Han, "**Ultra-wideband Common-mode Rejection Filter Structure with L- and T-shaped Patterns for Ultra-High-Speed Data Transmission**," in 2025 Electrical Performance of Electronic Packaging and Systems (EPEPS 2025), Oct. 2025.
+B. C. Min, K. W. Kim, M. J. Kim, Y. Jang, S. Yun, and J. Han, "**Ultra-wideband Common-mode Rejection Filter Structure with L- and T-shaped Patterns for Ultra-High-Speed Data Transmission**," in 2025 Electrical Performance of Electronic Packaging and Systems (EPEPS 2025), Oct. 2025.
 
 ![badge](https://img.shields.io/badge/IEEE-ESSERC-blue)  
 I. Kim, H. Lee, A. Kumar, M. Yeo, D. Dolt, T. Sim, S. Lee, C. Park, J. Y. Won, J. Choi, J. Han, and S. Palermo, "**A 12-to-20Gb/s, 2.93-pJ/Bit Jitter-Filtering Retimer with High Input Jitter Tolerance in 28nm CMOS**," in 2025 IEEE European Solid-State Electron. Research Conf. (ESSERC 2025), Sep. 2025.
