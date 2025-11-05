@@ -8,6 +8,9 @@ layout: default
 
 #### 2025
 
+![badge](https://img.shields.io/badge/IEEE-TCAS--I-blue)  
+T. Sim, G. You, H. Jung, D. Lee, T. Shin, and J. Han, “**A 36-Gb/s Single-Ended PAM-4 Receiver With Voltage-Feedback DFE in 40-nm CMOS Technology**,” IEEE Trans. Circuits Syst. I: Regular Papers, 2025.
+
 ![badge](https://img.shields.io/badge/IEEE-TCAS--II-blue)  
 T. Shin, Y. Jang, S. Yun, J. Yang, and J. Han, "**A Driver-Current-Regulated 120-Gb/s PAM-8 7-bit DAC-Based Transmitter in 28-nm CMOS**," IEEE Trans. Circuits Syst. II: Express Briefs, 2025. 
 
