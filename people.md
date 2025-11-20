@@ -142,7 +142,7 @@ layout: default
 
 김보경(Bokyung Kim) MS, Class of 2025, 램쉽
 
-조한희(Hanhee Jo) MS, Class of 2025
+조한희(Hanhee Jo) MS, Class of 2025, 삼성전자
 
 장지훈(Jihoon Jang) MS, Class of 2025, SK 하이닉스
 
