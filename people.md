@@ -37,7 +37,7 @@ layout: default
 
 서주은(Jueun Seo) 석박통합과정 6기 eun08ju@hanyang.ac.kr
 
-이동훈(Donghun Lee) 석박통합과정 6기 ydh667@hanyang.ac.kr
+이동훈(Donghun Lee) 석박통합과정 5기 ydh667@hanyang.ac.kr
 
 김민태(Mintae Kim) 석박통합과정 4기 alsxo326@hanyang.ac.kr
 
