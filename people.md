@@ -121,7 +121,7 @@ layout: default
 
 성개륜(Gaeryun Sung) MS, Class of 2022, 삼성전자
 
-김희준(Heejoon Kim) MS, Class of 2022, DB Hitek
+김희준(Heejoon Kim) MS, Class of 2022, DB 글로벌칩
 
 김동휘(Dongwhe Kim) MS, Class of 2022, 램쉽
 
