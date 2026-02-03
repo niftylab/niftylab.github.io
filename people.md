@@ -58,6 +58,16 @@ layout: default
 
 임예찬(Yechan Rim) 석박통합과정 3기 lrzsb15376@hanyang.ac.kr
 
+이영수 석박통합과정 1기
+
+최민경 석박통합과정 1기
+
+김태수 석박통합과정 1기
+
+김재용 석박통합과정 1기
+
+유재욱 석박통합과정 1기
+
 #### MS students
 
 최준영 석사과정 4기
@@ -86,6 +96,8 @@ layout: default
 조윤성(Yunseong Jo) Ph. D, Class of 2025, 삼성전자
 
 이상훈(Sanghun Lee) Ph. D, Class of 2025, 삼성전자
+
+이동준(Dongjun Lee) Ph. D, Class of 2026, NiftyLab 박사후연구원
 
 이상완(Sangwan Lee) Ph. D, Class of 2026, 삼성전자
 
