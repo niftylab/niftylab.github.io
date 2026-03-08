@@ -12,10 +12,6 @@ layout: default
 
 윤희라(Heerah Yoon)
 
-### Postdoctoral Researchers
-
-이동준(Dongjun Lee) lreedong12@hanyang.ac.kr
-
 ### Graduate Student Researchers
 
 #### PhD / MS-PhD students
@@ -91,15 +87,15 @@ layout: default
 
 서형민(Hyeongmin Seo) Ph.D, Class of 2024, SK 하이닉스
 
-김현태(Hyuntae Kim) Ph. D, Class of 2025, 삼성전자
+김현태(Hyuntae Kim) Ph.D, Class of 2025, 삼성전자
 
-조윤성(Yunseong Jo) Ph. D, Class of 2025, 삼성전자
+조윤성(Yunseong Jo) Ph.D, Class of 2025, 삼성전자
 
-이상훈(Sanghun Lee) Ph. D, Class of 2025, 삼성전자
+이상훈(Sanghun Lee) Ph.D, Class of 2025, 삼성전자
 
-이동준(Dongjun Lee) Ph. D, Class of 2026, NiftyLab 박사후연구원
+이동준(Dongjun Lee) Ph.D, Class of 2026, KETI 박사후연구원
 
-이상완(Sangwan Lee) Ph. D, Class of 2026, 삼성전자
+이상완(Sangwan Lee) Ph.D, Class of 2026, 삼성전자
 
 #### Master of Science
 
