@@ -103,9 +103,9 @@ layout: default
 
 구동재(Dongjae Koo) MS, Class of 2022, IIST
 
-노태웅(Taeung No) MS, Class of 2022, DB Hitek
+노태웅(Taeung No) MS, Class of 2022, DB 하이텍
 
-홍승욱(Seungwook Hong) MS, Class of 2022, LX Semicon
+홍승욱(Seungwook Hong) MS, Class of 2022, LX 세미콘
 
 양동주(Dongju Yang) MS, Class of 2022, SK 하이닉스
 
