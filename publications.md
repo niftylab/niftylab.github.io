@@ -6,19 +6,21 @@ layout: default
 
 ### Peer-reviewed Journal Articles
 
+#### 2026
+
+![badge](https://img.shields.io/badge/IEEE-TCAS--I-blue)  
+T. Sim, G. You, H. Jung, D. Lee, T. Shin, and J. Han, “**A 36-Gb/s Single-Ended PAM-4 Receiver With Voltage-Feedback DFE in 40-nm CMOS Technology**,” IEEE Trans. Circuits Syst. I: Regular Papers, Vol. 73, No. 4, Apr. 2026.
+
+![badge](https://img.shields.io/badge/IEEE-TCAS--II-blue)  
+D. Lee, B. Lim, Y. Kwon, and J. Han, "**A 6-GS/s 8-bit Time-Domain ADC with Selection-First Pipelined Successive Approximation Register TDC in 28nm CMOS Technology**," IEEE Trans. Circuits Syst. II: Express Briefs, Vol. 73, No. 1, Jan. 2026.
+
 #### 2025
 
 ![badge](https://img.shields.io/badge/IEEE-TCAS--II-blue)  
-D. Lee, B. Lim, Y. Kwon, and J. Han, "**A 6-GS/s 8-bit Time-Domain ADC with Selection-First Pipelined Successive Approximation Register TDC in 28nm CMOS Technology**," IEEE Trans. Circuits Syst. II: Express Briefs, 2025. 
-
-![badge](https://img.shields.io/badge/IEEE-TCAS--I-blue)  
-T. Sim, G. You, H. Jung, D. Lee, T. Shin, and J. Han, “**A 36-Gb/s Single-Ended PAM-4 Receiver With Voltage-Feedback DFE in 40-nm CMOS Technology**,” IEEE Trans. Circuits Syst. I: Regular Papers, 2025.
-
-![badge](https://img.shields.io/badge/IEEE-TCAS--II-blue)  
-T. Shin, Y. Jang, S. Yun, J. Yang, and J. Han, "**A Driver-Current-Regulated 120-Gb/s PAM-8 7-bit DAC-Based Transmitter in 28-nm CMOS**," IEEE Trans. Circuits Syst. II: Express Briefs, 2025. 
+T. Shin, Y. Jang, S. Yun, J. Yang, and J. Han, "**A Driver-Current-Regulated 120-Gb/s PAM-8 7-bit DAC-Based Transmitter in 28-nm CMOS**," IEEE Trans. Circuits Syst. II: Express Briefs, Vol. 72, No. 12, Dec. 2025.
 
 ![badge](https://img.shields.io/badge/IEEE-TVLSI-blue)  
-T. Kang, J. Yang, E. Song, S. Son, H. Kim, and J. Han, "**A 96-Gb/s 1.6-V ppd PAM-8 Transmitter With High-Swing and Low-Loading Cascaded Driver in 40-nm CMOS Technology**," IEEE Trans. Very Large Scale Integr. (VLSI) Syst., 2025.
+T. Kang, J. Yang, E. Song, S. Son, H. Kim, and J. Han, "**A 96-Gb/s 1.6-V ppd PAM-8 Transmitter With High-Swing and Low-Loading Cascaded Driver in 40-nm CMOS Technology**," IEEE Trans. Very Large Scale Integr. (VLSI) Syst., Vol. 33, No. 7, Jul 2025.
 
 ![badge](https://img.shields.io/badge/IEEE-TVLSI-blue)  
 S. Kim, T. Lee, K. Cho, and J. Han, "**A Flying-Capacitor-Assisted Single-Mode Buck-Boost Converter for Battery-Powered Applications**," IEEE Trans. Very Large Scale Integr. (VLSI) Syst., Vol. 33, No. 5, pp. 1412-1416, May 2025.
