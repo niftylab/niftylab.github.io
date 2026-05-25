@@ -132,6 +132,11 @@ J. Han, W. Bae, E. Y. Chang, Z. Wang, B. Nikolić, and E. Alon, "**LAYGO: A Temp
 
 ### Peer-reviewed Conference Papers
 
+#### 2026
+
+![badge](https://img.shields.io/badge/IEEE-ISCAS-blue)  
+H. Jeong, N. Bon, H. Park, A. Bandiziol, J. Han, "**HGEN: a Hierarchical Layout Framework for Automated IP Integration **," in IEEE Int. Symp. Circuits Syst. (ISCAS 2026), May 2026.
+
 #### 2025
 
 ![badge](https://img.shields.io/badge/IEEE-ASSCC-blue)  
