@@ -134,6 +134,9 @@ J. Han, W. Bae, E. Y. Chang, Z. Wang, B. Nikolić, and E. Alon, "**LAYGO: A Temp
 
 #### 2026
 
+![badge](https://img.shields.io/badge/IEEE-NEWCAS-blue)  
+J. Choi, H. Kim, T. Kwak, M. Kang,C. Park, J. Won and J. Han, "**A 16-Gb/s NRZ CTLE with a Wide Tuning Range Using a Voltage Boosting Active Inductor in 28-nm FDSOI CMOS**," in 24th IEEE Int. NEWCAS Conf. (NEWCAS 2026), Jun. 2026.
+
 ![badge](https://img.shields.io/badge/IEEE-ISCAS-blue)  
 H. Jeong, N. Bon, H. Park, A. Bandiziol, and J. Han, "**HGEN: a Hierarchical Layout Framework for Automated IP Integration**," in IEEE Int. Symp. Circuits Syst. (ISCAS 2026), May 2026.
 
