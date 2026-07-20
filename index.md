@@ -18,10 +18,11 @@ The **Nifty Chips Laboratory** at Hanyang University is working on crafting grea
 
 회로 설계 및 자동화 연구실(The Nifty Chips Laboratory)은 아날로그 및 커스텀 디지털 회로의 설계 및 설계 자동화에 대한 연구를 진행하고 있으며, 다음과 같이 학생 연구원을 모집하고 있습니다.  
 * 석박통합과정 및 석사 (나노반도체공학과) - 석박통합과정 우선 선발  
-* 석박통합과정 및 박사 (융합전자공학과 / [인공지능반도체공학과](http://aisemi.hanyang.ac.kr/) / 나노반도체공학과)  
+* 석박통합과정 및 박사 (융합전자공학과 / [인공지능반도체공학과](http://aisemi.hanyang.ac.kr/))  
 * 4학년 1학기까지 전자회로1/2, VLSI공학, SoC설계 수강 필수, 4학년 2학기 아날로그회로설계 수강 필수
   
 관심 있으신 분은 간단한 자기소개서 및 석차 표기된 성적표를 첨부하여 제 이메일로 메일주시기 바랍니다.  
+* 나노반도체공학과(나반) 지원 관련 유의사항: 나반은 계약학과 선발 전형을 통과하여야 연구실 입학이 가능합니다. 해당 전형에 불합격할 시 융전 / 인지반 지원 계획이 **없는** 학생들은 필히 계약학과 선발 전형에 합격 후 연락을 주시기 바랍니다. 저희 연구실은 나반의 경우는 전형 합격자들만을 대상으로 연구실 입학 선발을 진행합니다.
 
 [Research Introduction / 연구내용 소개 세미나](https://www.youtube.com/watch?v=lo9Zcg205Ig&list=PL3tXkx6yyrEelC-KHj3iEiwrDR_9bWGsL&index=2&t=6873s&ab_channel=%EC%B5%9C%EC%A2%85%ED%98%84%ED%95%99%EC%88%A0%EC%9B%90)
 
