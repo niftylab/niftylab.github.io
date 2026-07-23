@@ -8,6 +8,9 @@ layout: default
 
 #### 2026
 
+![badge](https://img.shields.io/badge/IEEE-JSSC-ASSCC-blue)  
+S. Lee, H. Jung, H. Jo, H. Jung, and J. Han, "**A 108-Gb/s PAM-8 CTLE + FFE Receiver Front-End With 1.4-Vppd Input Range in 28-nm CMOS**," IEEE J. Solid-State Circuits, Special Issue on the 2026 IEEE Asian Solid-State Circuits Conference (ASSCC 2026), Jul. 2026.
+
 ![badge](https://img.shields.io/badge/IEEE-TCAS--I-blue)  
 T. Sim, G. You, H. Jung, D. Lee, T. Shin, and J. Han, “**A 36-Gb/s Single-Ended PAM-4 Receiver With Voltage-Feedback DFE in 40-nm CMOS Technology**,” IEEE Trans. Circuits Syst. I: Regular Papers, Vol. 73, No. 4, Apr. 2026.
 
