@@ -8,7 +8,7 @@ layout: default
 
 #### 2026
 
-![badge](https://img.shields.io/badge/IEEE-JSSC-blue)  
+![badge](https://img.shields.io/badge/IEEE-JSSC--ASSCC-blue)  
 S. Lee, H. Jung, H. Jo, H. Jung, and J. Han, "**A 108-Gb/s PAM-8 CTLE + FFE Receiver Front-End With 1.4-Vppd Input Range in 28-nm CMOS**," IEEE J. Solid-State Circuits, Jul. 2026.
 
 ![badge](https://img.shields.io/badge/IEEE-TCAS--I-blue)  
