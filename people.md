@@ -50,8 +50,6 @@ layout: default
 
 전홍기 석박통합과정 3기
 
-송의찬 석박통합과정 3기
-
 임예찬(Yechan Rim) 석박통합과정 3기 lrzsb15376@hanyang.ac.kr
 
 이영수 석박통합과정 1기
@@ -66,11 +64,11 @@ layout: default
 
 #### MS students
 
-최준영 석사과정 4기
-
 박윤수(Yoonsoo Park) 석사과정 3기 ksyj0108@hanyang.ac.kr
 
 고재경(Jaekyung Ko) 석사과정 3기 jkko00@hanyang.ac.kr
+
+송의찬 석사과정 3기
 
 이경준 석사과정 3기
 
@@ -85,7 +83,7 @@ layout: default
 
 이은상(Eunsang Lee) Ph.D, Class of 2023, 삼성전자
 
-서형민(Hyeongmin Seo) Ph.D, Class of 2024, SK 하이닉스
+서형민(Hyeongmin Seo) Ph.D, Class of 2024, SK하이닉스
 
 김현태(Hyuntae Kim) Ph.D, Class of 2025, 삼성전자
 
@@ -103,21 +101,21 @@ layout: default
 
 구동재(Dongjae Koo) MS, Class of 2022, IIST
 
-노태웅(Taeung No) MS, Class of 2022, DB 하이텍
+노태웅(Taeung No) MS, Class of 2022, DB하이텍
 
-홍승욱(Seungwook Hong) MS, Class of 2022, LX 세미콘
+홍승욱(Seungwook Hong) MS, Class of 2022, LX세미콘
 
-양동주(Dongju Yang) MS, Class of 2022, SK 하이닉스
+양동주(Dongju Yang) MS, Class of 2022, SK하이닉스
 
 김성해(Sunghae Kim) MS, Class of 2022, 삼성전자
 
-표창현(Changhyun Pyo) MS, Class of 2022, SK 하이닉스
+표창현(Changhyun Pyo) MS, Class of 2022, SK하이닉스
 
-임현우(Hyunwoo Im) MS, Class of 2022, SK 하이닉스
+임현우(Hyunwoo Im) MS, Class of 2022, SK하이닉스
 
 성개륜(Gaeryun Sung) MS, Class of 2022, 삼성전자
 
-김희준(Heejoon Kim) MS, Class of 2022, DB 글로벌칩
+김희준(Heejoon Kim) MS, Class of 2022, DB글로벌칩
 
 김동휘(Dongwhe Kim) MS, Class of 2022, 램쉽
 
@@ -129,37 +127,40 @@ layout: default
 
 김재호(Jaeho Kim) MS, Class of 2022, TLI
 
-이무석(Moosuk Lee) MS, Class of 2022, LX 세미콘
+이무석(Moosuk Lee) MS, Class of 2022, LX세미콘
 
-송은지(Eunji Song) MS, Class of 2023, SK 하이닉스
+송은지(Eunji Song) MS, Class of 2023, SK하이닉스
 
-신욱진(Wookjin Shin) MS, Class of 2023, SK 하이닉스
+신욱진(Wookjin Shin) MS, Class of 2023, SK하이닉스
 
-염선오(Sunoh Yeom) MS, Class of 2023, SK 하이닉스
+염선오(Sunoh Yeom) MS, Class of 2023, SK하이닉스
 
 오영민(Youngmin Oh) MS, Class of 2024, 삼성전자
 
-손승우(Seungwoo Son) MS, Class of 2024, SK 하이닉스
+손승우(Seungwoo Son) MS, Class of 2024, SK하이닉스
 
 김보경(Bokyung Kim) MS, Class of 2025, 램쉽
 
 조한희(Hanhee Jo) MS, Class of 2025, 삼성전자
 
-장지훈(Jihoon Jang) MS, Class of 2025, SK 하이닉스
+장지훈(Jihoon Jang) MS, Class of 2025, SK하이닉스
 
-이태희(Taehee Lee) MS, Class of 2025, SK 하이닉스
+이태희(Taehee Lee) MS, Class of 2025, SK하이닉스
 
-곽태원(Taewon Kwak) MS, Class of 2025, SK 하이닉스
+곽태원(Taewon Kwak) MS, Class of 2025, SK하이닉스
 
-정환석(Hwanseok Jung) MS, Class of 2025, SK 하이닉스
+정환석(Hwanseok Jung) MS, Class of 2025, SK하이닉스
 
-송형준(Hyeongjun Song) MS, Class of 2026, DB 글로벌칩
+송형준(Hyeongjun Song) MS, Class of 2026, DB하이텍
 
-임소진(Sojin Lim) MS, Class of 2026, SK 하이닉스
+임소진(Sojin Lim) MS, Class of 2026, SK하이닉스
 
-윤석민(Seokmin Yun) MS, Class of 2026, SK 하이닉스
+윤석민(Seokmin Yun) MS, Class of 2026, SK하이닉스
 
-최우진 MS, Class of 2026, LX 세미콘
+최우진 MS, Class of 2026, LX세미콘
+
+최준영 MS, Class of 2026, SK하이닉스
+
 
 
 #### Bachelor of Science
