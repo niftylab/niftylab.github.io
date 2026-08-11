@@ -121,8 +121,6 @@ layout: default
 
 양정휴(Jeonghyu Yang) MS, Class of 2022, 박사과정 / 램쉽
 
-이동준(Dongjun Lee) MS, Class of 2022, 박사과정
-
 이동기(Dongki Lee) MS, Class of 2022, TLI
 
 김재호(Jaeho Kim) MS, Class of 2022, TLI
