@@ -8,6 +8,9 @@ layout: default
 
 #### 2026
 
+![badge](https://img.shields.io/badge/IEEE-JSSC-blue)  
+Y. Kwon, G. You, Y. Jo, H. Kim, Y. Choi, J. Park, M. Kwak, and J. Han, "**An Eight-Channel, 42-Gb/s/Channel Single-Ended PAM-4 Transmitter With a ZQ-Based FFE and PAM-4 LSB DBI Encoding for Memory Interfaces**," IEEE J. Solid-State Circuits, Aug. 2026.
+
 ![badge](https://img.shields.io/badge/IEEE-JSSC--ASSCC-blue)  
 S. Lee, H. Jung, H. Jo, H. Jung, and J. Han, "**A 108-Gb/s PAM-8 CTLE + FFE Receiver Front-End With 1.4-Vppd Input Range in 28-nm CMOS**," IEEE J. Solid-State Circuits, Jul. 2026.
 
