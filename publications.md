@@ -8,6 +8,9 @@ layout: default
 
 #### 2026
 
+![badge](https://img.shields.io/badge/IEEE-Access-blue)  
+S. Lee, H. Kim, E. Lee, S. Lee, and J. Han, "**An 8-GS/s 7-bit Eight-Way Time-Interleaved Partially Speculative Loop-Unrolled SAR ADC**," IEEE Access, Aug. 2026.
+
 ![badge](https://img.shields.io/badge/IEEE-JSSC-blue)  
 Y. Kwon, G. You, Y. Jo, H. Kim, Y. Choi, J. Park, M. Kwak, and J. Han, "**An Eight-Channel, 42-Gb/s/Channel Single-Ended PAM-4 Transmitter With a ZQ-Based FFE and PAM-4 LSB DBI Encoding for Memory Interfaces**," IEEE J. Solid-State Circuits, Aug. 2026.
 
