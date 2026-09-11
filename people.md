@@ -56,9 +56,9 @@ layout: default
 
 최민경 석박통합과정 1기
 
-김태수 석박통합과정 1기 rlaxotn9216@hanyang.ac.kr
+김태수(Taesu Kim) 석박통합과정 1기 rlaxotn9216@hanyang.ac.kr
 
-김재용 석박통합과정 1기
+김재용(Jaeyong Kim) 석박통합과정 1기 smilefill@hanyang.ac.kr
 
 유재욱 석박통합과정 1기
 
