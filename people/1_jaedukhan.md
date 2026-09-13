@@ -31,11 +31,11 @@ Engineer, TLI, 2007 – 2009
 Design and Automatic Generation of Integrated Circuits
 
 #### Biography
-**Jaeduk Han** _(jdhan at hanyang dot ac dot kr)_ is an Assistant Professor of Electronic Engineering at Hanyang University.
+**Jaeduk Han** _(jdhan at hanyang dot ac dot kr)_ is an Associate Professor of Electronic Engineering at Hanyang University.
 He received the B.S., and M.S. degrees with honors from Seoul National University (SNU)
 in 2007 and 2009, respectively, and his Ph.d degree from the University of California, 
 Berkeley in 2017. From 2007 to 2019, he has held various positions at TLI, 
-Altera (now Intel FPGA), Intel, Xilinx, and Apple. 
+Altera, Intel, Xilinx, and Apple. 
 
 Dr. Han was a recipient of a KFAS graduate study fellowship in 2009, a KFAS doctoral study 
 fellowship in 2012, the SNU EECS best tutor award in 2008, and the UC Berkeley EECS 
