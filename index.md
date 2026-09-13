@@ -43,4 +43,6 @@ The **Nifty Chips Laboratory** at Hanyang University is working on crafting grea
 * (주)LG이노텍
 * 전자기술연구원
 * Samsung Advanced Institute of Technology (SAIT)
+* (주)삼성디스플레이
+* (주)에이코닉
 
