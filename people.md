@@ -50,7 +50,7 @@ layout: default
 
 이영수 석박통합과정 2기
 
-최민경 석박통합과정 2기
+최민경(Minkyung Choi) 석박통합과정 2기 cmk1221@hanyang.ac.kr
 
 김태수(Taesu Kim) 석박통합과정 2기 rlaxotn9216@hanyang.ac.kr
 
